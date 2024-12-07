@@ -32,6 +32,7 @@ import (
 	"sync"
 
 	"github.com/emicklei/go-restful/v3"
+	"github.com/google/uuid"
 	"github.com/mdlayher/vsock"
 	"k8s.io/apimachinery/pkg/types"
 	"k8s.io/client-go/tools/cache"
@@ -153,7 +154,7 @@ func (t *ConsoleHandler) VNCHandler(request *restful.Request, response *restful.
 		response.WriteError(http.StatusBadRequest, err)
 		return
 	}
-	uid := vmi.GetUID()
+	uid := types.UID(uuid.NewString())
 	stopChn := newStopChan(uid, t.vncLock, t.vncStopChans)
 	defer deleteStopChan(uid, stopChn, t.vncLock, t.vncStopChans)
 	t.stream(vmi, request, response, unixSocketDialer(vmi, unixSocketPath), stopChn)
