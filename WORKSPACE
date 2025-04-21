@@ -432,4723 +432,4225 @@ go_repository(
 )
 
 rpm(
-    name = "acl-0__2.3.1-4.el9.aarch64",
-    sha256 = "a0a9b302d252d32c0da8100a0ad762852c22eeac4ccad0aaf72ad68a2bbd7a93",
+    name = "acl-0__2.3.1-3.el9.aarch64",
+    sha256 = "bfc8bc6339d8c51ae94f7f7cfbf6f3bc984baf8c82b1d411d1bbb3c67e645835",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/acl-2.3.1-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a0a9b302d252d32c0da8100a0ad762852c22eeac4ccad0aaf72ad68a2bbd7a93",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/a/acl-2.3.1-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "acl-0__2.3.1-4.el9.x86_64",
-    sha256 = "dd11bab2ea0abdfa310362eace871422a003340bf223135626500f8f5a985f6b",
+    name = "acl-0__2.3.1-3.el9.x86_64",
+    sha256 = "2e2219e4bcc328f3063aa51dbb7e69e74d9174cfe210227cf6801a82f6569954",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/acl-2.3.1-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/dd11bab2ea0abdfa310362eace871422a003340bf223135626500f8f5a985f6b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/a/acl-2.3.1-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "adobe-source-code-pro-fonts-0__2.030.1.050-12.el9.1.x86_64",
-    sha256 = "9e6aa0c60204bb4b152ce541ca3a9f5c28b020ed551dd417d3936a8b2153f0df",
+    sha256 = "a2ae30876e45d49b94caad29fdc085e2f7b0261daf9c95a1540c2823988e3cce",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/adobe-source-code-pro-fonts-2.030.1.050-12.el9.1.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/9e6aa0c60204bb4b152ce541ca3a9f5c28b020ed551dd417d3936a8b2153f0df",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/a/adobe-source-code-pro-fonts-2.030.1.050-12.el9.1.noarch.rpm",
     ],
 )
 
 rpm(
     name = "alternatives-0__1.24-1.el9.aarch64",
-    sha256 = "a9bba5fd3731426733609e996881cddb0775e979091fab91a3878178a63c7656",
+    sha256 = "4b809cb938b9c32eff0d6cf70e6689f2e5eef57ddec3ff7280fb611315b632c8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/alternatives-1.24-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a9bba5fd3731426733609e996881cddb0775e979091fab91a3878178a63c7656",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/a/alternatives-1.24-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "alternatives-0__1.24-1.el9.x86_64",
-    sha256 = "b58e7ea30c27ecb321d9a279b95b62aef59d92173714fce859bfb359ee231ff3",
+    sha256 = "801468c002aedd7fe1176c09a4cfda1f79d028a7907c404266ed652bcd6bb8a6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/alternatives-1.24-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b58e7ea30c27ecb321d9a279b95b62aef59d92173714fce859bfb359ee231ff3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/a/alternatives-1.24-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "audit-libs-0__3.1.2-2.el9.aarch64",
-    sha256 = "4f8080dd299fb57f78bb4093367766a1b19d9121723f1f942f3593515f76cbba",
+    name = "audit-libs-0__3.0.7-104.el9.aarch64",
+    sha256 = "fdae4609d170728ae9a509b303768f1834e6f1361c1d07c58544dbe7d4fb9a7f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/audit-libs-3.1.2-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4f8080dd299fb57f78bb4093367766a1b19d9121723f1f942f3593515f76cbba",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/a/audit-libs-3.0.7-104.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "audit-libs-0__3.1.2-2.el9.x86_64",
-    sha256 = "de7efacf4bf377b96e9420b0f05905dae407c3f52e18cd2acc5879919b4c401e",
+    name = "audit-libs-0__3.0.7-104.el9.x86_64",
+    sha256 = "4ecc2ccb3aff7275c01ffa17844be8cfa35c23dda1628008fdf22c3271833ec7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/audit-libs-3.1.2-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/de7efacf4bf377b96e9420b0f05905dae407c3f52e18cd2acc5879919b4c401e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/a/audit-libs-3.0.7-104.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "augeas-libs-0__1.13.0-5.el9.x86_64",
-    sha256 = "d169ce09a7637372981eb379e619a1824181ca7201a768cb14e208895db2a22e",
+    sha256 = "2a949b27260999972700e7689f6d4f7a034f45c0de5739a36858cbed7d27dca4",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/augeas-libs-1.13.0-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d169ce09a7637372981eb379e619a1824181ca7201a768cb14e208895db2a22e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/a/augeas-libs-1.13.0-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "basesystem-0__11-13.el9.aarch64",
-    sha256 = "a7a687ef39dd28d01d34fab18ea7e3e87f649f6c202dded82260b7ea625b9973",
+    name = "basesystem-0__11-13.el9.0.1.aarch64",
+    sha256 = "9f707e8d1046381c9b4a4df6a6674327df6ffe0298d48e1750972212c97aafad",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/basesystem-11-13.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/a7a687ef39dd28d01d34fab18ea7e3e87f649f6c202dded82260b7ea625b9973",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/b/basesystem-11-13.el9.0.1.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "basesystem-0__11-13.el9.x86_64",
-    sha256 = "a7a687ef39dd28d01d34fab18ea7e3e87f649f6c202dded82260b7ea625b9973",
+    name = "basesystem-0__11-13.el9.0.1.x86_64",
+    sha256 = "9f707e8d1046381c9b4a4df6a6674327df6ffe0298d48e1750972212c97aafad",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/basesystem-11-13.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/a7a687ef39dd28d01d34fab18ea7e3e87f649f6c202dded82260b7ea625b9973",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/b/basesystem-11-13.el9.0.1.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "bash-0__5.1.8-6.el9.aarch64",
-    sha256 = "adbea9afe78b2f67de854fdf5440326dda5383763797eb9ac486969edeecaef0",
+    name = "bash-0__5.1.8-6.el9_1.aarch64",
+    sha256 = "7cdd44b2c686c719f1713d7f558694850417ba9b7104c26653fba8d50ac21ee8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/bash-5.1.8-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/adbea9afe78b2f67de854fdf5440326dda5383763797eb9ac486969edeecaef0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/b/bash-5.1.8-6.el9_1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "bash-0__5.1.8-6.el9.x86_64",
-    sha256 = "09f700a94e187a74f6f4a5f750082732e193d41392a85f042bdeb0bcbabe0a1f",
+    name = "bash-0__5.1.8-6.el9_1.x86_64",
+    sha256 = "7df53740511c98bf16b170c321352d3202987696cedbebd3d4a25ca44d4eff32",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/bash-5.1.8-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/09f700a94e187a74f6f4a5f750082732e193d41392a85f042bdeb0bcbabe0a1f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/b/bash-5.1.8-6.el9_1.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "binutils-0__2.35.2-42.el9.aarch64",
-    sha256 = "11682cf535642ab99699f7c42c030b368a6b5919a0a1b1a2b08a86412201f044",
+    name = "binutils-0__2.35.2-42.el9_3.1.aarch64",
+    sha256 = "728ce066129a9f008d0b5491384c4d7d43b912d56117934a9e5c693263a021a7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/binutils-2.35.2-42.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/11682cf535642ab99699f7c42c030b368a6b5919a0a1b1a2b08a86412201f044",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/b/binutils-2.35.2-42.el9_3.1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "binutils-0__2.35.2-42.el9.x86_64",
-    sha256 = "24a456337ef4e6d346a095483cd545accff9ff35a4fc59aa89abfcf234568a2d",
+    name = "binutils-0__2.35.2-42.el9_3.1.x86_64",
+    sha256 = "b846b05a69eb0ef08191d358d1effa8c76011a9e3452247d281fe8baf092e946",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/binutils-2.35.2-42.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/24a456337ef4e6d346a095483cd545accff9ff35a4fc59aa89abfcf234568a2d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/b/binutils-2.35.2-42.el9_3.1.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "binutils-gold-0__2.35.2-42.el9.aarch64",
-    sha256 = "32bf8d1f2b72efda4903a6c022283caaec6502041cbc270a08f21ea22cdacf76",
+    name = "binutils-gold-0__2.35.2-42.el9_3.1.aarch64",
+    sha256 = "e0f2ecfab36e762a754926a4d72cd38b4055355668a10015248a801f1a6e748e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/binutils-gold-2.35.2-42.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/32bf8d1f2b72efda4903a6c022283caaec6502041cbc270a08f21ea22cdacf76",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/b/binutils-gold-2.35.2-42.el9_3.1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "binutils-gold-0__2.35.2-42.el9.x86_64",
-    sha256 = "a68329816fa0be3cf4ec251866ef0d9666c9de63603fa152cbb6493a0fd3000d",
+    name = "binutils-gold-0__2.35.2-42.el9_3.1.x86_64",
+    sha256 = "1aeb0ea29e44717e8e09b79af779a4fcebdc6b0ffcada76206f4e592d087e451",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/binutils-gold-2.35.2-42.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a68329816fa0be3cf4ec251866ef0d9666c9de63603fa152cbb6493a0fd3000d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/b/binutils-gold-2.35.2-42.el9_3.1.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "bzip2-0__1.0.8-8.el9.aarch64",
-    sha256 = "d89b742bc5327741c3ff26a7fb17a518552bbad74c0c299f147af57a0a208b93",
+    sha256 = "33231db3f39bda7d6a7c9119a8760841f893686fa0e85760cc84d0e47db2a522",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/bzip2-1.0.8-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d89b742bc5327741c3ff26a7fb17a518552bbad74c0c299f147af57a0a208b93",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/b/bzip2-1.0.8-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "bzip2-0__1.0.8-8.el9.x86_64",
-    sha256 = "90aeb088fad0093b1ca531387d38e1c32ad64efd56f2306eacc0edbc4c37e205",
+    sha256 = "3646c3d3a77ce0d536dc5bd3926cdd9bd1b09d4a5b430d08bad985f22e9604c5",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/bzip2-1.0.8-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/90aeb088fad0093b1ca531387d38e1c32ad64efd56f2306eacc0edbc4c37e205",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/b/bzip2-1.0.8-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "bzip2-libs-0__1.0.8-8.el9.aarch64",
-    sha256 = "6c20f6f13c274fa2487f95f1e3dddcee9b931ce222abebd2f1d9b3f7eb69fcde",
+    sha256 = "6cb0a431273433308d933ae9d73ca3dc014004b7c97aac6859593bc3e0312646",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/bzip2-libs-1.0.8-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6c20f6f13c274fa2487f95f1e3dddcee9b931ce222abebd2f1d9b3f7eb69fcde",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/b/bzip2-libs-1.0.8-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "bzip2-libs-0__1.0.8-8.el9.x86_64",
-    sha256 = "fabd6b5c065c2b9d4a8d39a938ae577d801de2ddc73c8cdf6f7803db29c28d0a",
+    sha256 = "9d88efca766d67129bf9e94f4fed072e6faf74fb8d905b1f37a5eefddcb248b2",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/bzip2-libs-1.0.8-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fabd6b5c065c2b9d4a8d39a938ae577d801de2ddc73c8cdf6f7803db29c28d0a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/b/bzip2-libs-1.0.8-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "ca-certificates-0__2023.2.60_v7.0.306-90.1.el9.aarch64",
-    sha256 = "76d996300aeaf56a06191f8ea2df8387813f4fa8100c6f4c1000073633e1147f",
+    name = "ca-certificates-0__2023.2.60_v7.0.306-90.1.el9_2.aarch64",
+    sha256 = "0c7bdf3ffc5f6d7e253921a58cf39ad8fae8ec353bb40fc3c0f412dddd89c9f9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/ca-certificates-2023.2.60_v7.0.306-90.1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/76d996300aeaf56a06191f8ea2df8387813f4fa8100c6f4c1000073633e1147f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/ca-certificates-2023.2.60_v7.0.306-90.1.el9_2.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "ca-certificates-0__2023.2.60_v7.0.306-90.1.el9.x86_64",
-    sha256 = "76d996300aeaf56a06191f8ea2df8387813f4fa8100c6f4c1000073633e1147f",
+    name = "ca-certificates-0__2023.2.60_v7.0.306-90.1.el9_2.x86_64",
+    sha256 = "0c7bdf3ffc5f6d7e253921a58cf39ad8fae8ec353bb40fc3c0f412dddd89c9f9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/ca-certificates-2023.2.60_v7.0.306-90.1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/76d996300aeaf56a06191f8ea2df8387813f4fa8100c6f4c1000073633e1147f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/ca-certificates-2023.2.60_v7.0.306-90.1.el9_2.noarch.rpm",
     ],
 )
 
 rpm(
     name = "capstone-0__4.0.2-10.el9.aarch64",
-    sha256 = "fe07aa69a9e6b70d0324e702b825ad55f330225ecb2af504f7026917e0ff197e",
+    sha256 = "45b0decca0b39dd5023d07324fb5cab2b5558d8dc083583b42d04a169abac2da",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/capstone-4.0.2-10.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/fe07aa69a9e6b70d0324e702b825ad55f330225ecb2af504f7026917e0ff197e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/c/capstone-4.0.2-10.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "capstone-0__4.0.2-10.el9.x86_64",
-    sha256 = "f6a9fdc6bcb5da1b2ce44ca7ed6289759c37add7adbb19916dd36d5bb4624a41",
+    sha256 = "64bf1e7b9165e88d94499fd96d101e7a97007f5a4131d4c4860fcbc2464a2f9c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/capstone-4.0.2-10.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f6a9fdc6bcb5da1b2ce44ca7ed6289759c37add7adbb19916dd36d5bb4624a41",
-    ],
-)
-
-rpm(
-    name = "centos-gpg-keys-0__9.0-23.el9.aarch64",
-    sha256 = "23aaff377dffc4a7e82eec56feabe1d80616d818e2160f30b744cd3cde1af17e",
-    urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/centos-gpg-keys-9.0-23.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/23aaff377dffc4a7e82eec56feabe1d80616d818e2160f30b744cd3cde1af17e",
-    ],
-)
-
-rpm(
-    name = "centos-gpg-keys-0__9.0-23.el9.x86_64",
-    sha256 = "23aaff377dffc4a7e82eec56feabe1d80616d818e2160f30b744cd3cde1af17e",
-    urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-gpg-keys-9.0-23.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/23aaff377dffc4a7e82eec56feabe1d80616d818e2160f30b744cd3cde1af17e",
-    ],
-)
-
-rpm(
-    name = "centos-stream-release-0__9.0-23.el9.aarch64",
-    sha256 = "3077d913caf3ede40e2dec2873492347d363917659d9fc6182f7cf9ae656eb25",
-    urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/centos-stream-release-9.0-23.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/3077d913caf3ede40e2dec2873492347d363917659d9fc6182f7cf9ae656eb25",
-    ],
-)
-
-rpm(
-    name = "centos-stream-release-0__9.0-23.el9.x86_64",
-    sha256 = "3077d913caf3ede40e2dec2873492347d363917659d9fc6182f7cf9ae656eb25",
-    urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-stream-release-9.0-23.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/3077d913caf3ede40e2dec2873492347d363917659d9fc6182f7cf9ae656eb25",
-    ],
-)
-
-rpm(
-    name = "centos-stream-repos-0__9.0-23.el9.aarch64",
-    sha256 = "b269292cbdd24f177b4f1c61e75a69a8bb0266aa3ea9c00df6246b8f4e2f6970",
-    urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/centos-stream-repos-9.0-23.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/b269292cbdd24f177b4f1c61e75a69a8bb0266aa3ea9c00df6246b8f4e2f6970",
-    ],
-)
-
-rpm(
-    name = "centos-stream-repos-0__9.0-23.el9.x86_64",
-    sha256 = "b269292cbdd24f177b4f1c61e75a69a8bb0266aa3ea9c00df6246b8f4e2f6970",
-    urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-stream-repos-9.0-23.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/b269292cbdd24f177b4f1c61e75a69a8bb0266aa3ea9c00df6246b8f4e2f6970",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/c/capstone-4.0.2-10.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "coreutils-single-0__8.32-34.el9.aarch64",
-    sha256 = "9ab931a79d42f2cf38ef98283603792abbef8c99d7cc112e04c69d0a66fb074c",
+    sha256 = "830215feedfd9e0a36fb0298ffbe3ff4ed09e280739dd769846f96e8ec825d8e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/coreutils-single-8.32-34.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/9ab931a79d42f2cf38ef98283603792abbef8c99d7cc112e04c69d0a66fb074c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/coreutils-single-8.32-34.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "coreutils-single-0__8.32-34.el9.x86_64",
-    sha256 = "fd6001340bdba2e7b49b6dee004dc7e54e5b2393bdb0c9de9ca2e8801e39e671",
+    sha256 = "d90c4ef3da9e453a13847efe8c2212db7783e2a690c86f847fb3f4a9e182580d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/coreutils-single-8.32-34.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fd6001340bdba2e7b49b6dee004dc7e54e5b2393bdb0c9de9ca2e8801e39e671",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/coreutils-single-8.32-34.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "cpp-0__11.4.1-2.3.el9.aarch64",
-    sha256 = "fd944d59239d5d86ee51efc390f3d0fd90f59a7be8aaae7fe2cfe2784d39b0e3",
+    name = "cpp-0__11.4.1-2.1.el9.aarch64",
+    sha256 = "d3e6fc278099dc6d2bec457e910e1af4d7b12cfbb7d4f8a19482dac49394e509",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/cpp-11.4.1-2.3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/fd944d59239d5d86ee51efc390f3d0fd90f59a7be8aaae7fe2cfe2784d39b0e3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/c/cpp-11.4.1-2.1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "cpp-0__11.4.1-2.3.el9.x86_64",
-    sha256 = "f19408aab5b0c6cbb3d13d4d0df4d8705bd54b2974f87ae314c42d790ef263de",
+    name = "cpp-0__11.4.1-2.1.el9.x86_64",
+    sha256 = "c198df693f5bb8f003fc3609add898bba721f514feea940ea6cc211890d30c0b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/cpp-11.4.1-2.3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f19408aab5b0c6cbb3d13d4d0df4d8705bd54b2974f87ae314c42d790ef263de",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/c/cpp-11.4.1-2.1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "cracklib-0__2.9.6-27.el9.aarch64",
-    sha256 = "d92900088b558cd3c96c63db24b048a0f3ea575a0f8bfe66c26df4acfcb2f811",
+    sha256 = "6fc09c48f1aeab91a14ec82167b60c7252412d6c2776f66007968c359831162c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/cracklib-2.9.6-27.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d92900088b558cd3c96c63db24b048a0f3ea575a0f8bfe66c26df4acfcb2f811",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/cracklib-2.9.6-27.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "cracklib-0__2.9.6-27.el9.x86_64",
-    sha256 = "be9deb2efd06b4b2c1c130acae94c687161d04830119e65a989d904ba9fd1864",
+    sha256 = "05abbfe7039c63fd1f3e9c216beec6edfda60568ee2f12e203f126dd2b618877",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/cracklib-2.9.6-27.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/be9deb2efd06b4b2c1c130acae94c687161d04830119e65a989d904ba9fd1864",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/cracklib-2.9.6-27.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "cracklib-dicts-0__2.9.6-27.el9.aarch64",
-    sha256 = "bfd16ac0aebb165d43d3139448ab8eac66d4d67c9eac506c3f3bef799f1352c2",
+    sha256 = "7b71caee8a5ed5d399ed8ec20848fa3015a361c94156435afc20d8814815f8f4",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/cracklib-dicts-2.9.6-27.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/bfd16ac0aebb165d43d3139448ab8eac66d4d67c9eac506c3f3bef799f1352c2",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/cracklib-dicts-2.9.6-27.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "cracklib-dicts-0__2.9.6-27.el9.x86_64",
-    sha256 = "01df2a72fcdf988132e82764ce1a22a5a9513fa253b54e17d23058bdb53c2d85",
+    sha256 = "5ba79a7ce247aa40f1f9d95a917c054210a931070d059ebf1614a34461b5432c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/cracklib-dicts-2.9.6-27.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/01df2a72fcdf988132e82764ce1a22a5a9513fa253b54e17d23058bdb53c2d85",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/cracklib-dicts-2.9.6-27.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "crypto-policies-0__20231113-1.gite9247c2.el9.aarch64",
-    sha256 = "8a81571397a2a1bab63b60caabf089cc2a821b7105bf5b3f6f1c1d430880862d",
+    name = "crypto-policies-0__20230731-1.git94f0e2c.el9_3.1.aarch64",
+    sha256 = "7977f446dbaffe68803dddb0b5f590f9981f32a2229a22f085565aa1643146d3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/crypto-policies-20231113-1.gite9247c2.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/8a81571397a2a1bab63b60caabf089cc2a821b7105bf5b3f6f1c1d430880862d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/crypto-policies-20230731-1.git94f0e2c.el9_3.1.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "crypto-policies-0__20231113-1.gite9247c2.el9.x86_64",
-    sha256 = "8a81571397a2a1bab63b60caabf089cc2a821b7105bf5b3f6f1c1d430880862d",
+    name = "crypto-policies-0__20230731-1.git94f0e2c.el9_3.1.x86_64",
+    sha256 = "7977f446dbaffe68803dddb0b5f590f9981f32a2229a22f085565aa1643146d3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/crypto-policies-20231113-1.gite9247c2.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/8a81571397a2a1bab63b60caabf089cc2a821b7105bf5b3f6f1c1d430880862d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/crypto-policies-20230731-1.git94f0e2c.el9_3.1.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "curl-minimal-0__7.76.1-28.el9.aarch64",
-    sha256 = "3db2ce489d5eec9587f24e18054d6e56aab123a02b1464bac1fc3df7f4bf45b8",
+    name = "curl-minimal-0__7.76.1-26.el9_3.3.aarch64",
+    sha256 = "39a1bac615f2344e3e4697cd0986aa37483607f1fcd5b2e8cdef3dee80b402d1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/curl-minimal-7.76.1-28.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/3db2ce489d5eec9587f24e18054d6e56aab123a02b1464bac1fc3df7f4bf45b8",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/curl-minimal-7.76.1-26.el9_3.3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "curl-minimal-0__7.76.1-28.el9.x86_64",
-    sha256 = "c35bb84e51f54d506c255a04e2bdb062ebdd9181771e48c4f90aa7e5e078c1c6",
+    name = "curl-minimal-0__7.76.1-26.el9_3.3.x86_64",
+    sha256 = "8103ea79813b3fd65d7d31ae1ad80358b572125e1d3d9e66963a61c67ce91a52",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/curl-minimal-7.76.1-28.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c35bb84e51f54d506c255a04e2bdb062ebdd9181771e48c4f90aa7e5e078c1c6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/curl-minimal-7.76.1-26.el9_3.3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "cyrus-sasl-0__2.1.27-21.el9.aarch64",
-    sha256 = "3ad176b2bb0f6b89e8b9951cd207415d40859f1f46e9d60b79a6516a7783ff7c",
+    sha256 = "137cfdc8c623e526622fe423b319baf4b8bcb783ad4966ddf2b3307196b5b815",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/cyrus-sasl-2.1.27-21.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/3ad176b2bb0f6b89e8b9951cd207415d40859f1f46e9d60b79a6516a7783ff7c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/cyrus-sasl-2.1.27-21.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "cyrus-sasl-0__2.1.27-21.el9.x86_64",
-    sha256 = "b919e98a1da12adaf63056e4b3fe068541fdcaea5b891ac32c50f70074e7a682",
+    sha256 = "d8345d8cb2c4438a9d2478ca7d6f10d9cd90efe7c0876f58781a58f32a99fdf8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/cyrus-sasl-2.1.27-21.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b919e98a1da12adaf63056e4b3fe068541fdcaea5b891ac32c50f70074e7a682",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/cyrus-sasl-2.1.27-21.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "cyrus-sasl-gssapi-0__2.1.27-21.el9.aarch64",
-    sha256 = "12e292b4e05934f8fc8ecc557b2b57c2844335a559f720140bb7810ef249c043",
+    sha256 = "c08a4323f66a397a3ce1ce8a790bb7a29431ea5dfbe071b7193c60ac634da857",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/cyrus-sasl-gssapi-2.1.27-21.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/12e292b4e05934f8fc8ecc557b2b57c2844335a559f720140bb7810ef249c043",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/cyrus-sasl-gssapi-2.1.27-21.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "cyrus-sasl-gssapi-0__2.1.27-21.el9.x86_64",
-    sha256 = "c7cba5ec41adada2d95348705d91a5ef7b4bca2f82ca22440e881ad28d2d27d0",
+    sha256 = "4a2ca27f2781b4134589f2da8e09ed60375a18cb84d8eabb0339f44eafb9ccd5",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/cyrus-sasl-gssapi-2.1.27-21.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c7cba5ec41adada2d95348705d91a5ef7b4bca2f82ca22440e881ad28d2d27d0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/cyrus-sasl-gssapi-2.1.27-21.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "cyrus-sasl-lib-0__2.1.27-21.el9.aarch64",
-    sha256 = "898d7094964022ca527a6596550b8d46499b3274f8c6a1ee632a98961012d80c",
+    sha256 = "f413dd81e101695270414c32ed757d11f58b4ac6876f2edbe5c7f7c11b84e41c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/cyrus-sasl-lib-2.1.27-21.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/898d7094964022ca527a6596550b8d46499b3274f8c6a1ee632a98961012d80c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/c/cyrus-sasl-lib-2.1.27-21.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "cyrus-sasl-lib-0__2.1.27-21.el9.x86_64",
-    sha256 = "fd4292a29759f9531bbc876d1818e7a83ccac76907234002f598671d7b338469",
+    sha256 = "997880c9126e9eceba7cbab49dfd0b85cacab30af214637ae5d3ad728d26d921",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/cyrus-sasl-lib-2.1.27-21.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fd4292a29759f9531bbc876d1818e7a83ccac76907234002f598671d7b338469",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/c/cyrus-sasl-lib-2.1.27-21.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "daxctl-libs-0__71.1-8.el9.x86_64",
-    sha256 = "95bbf4ffb69cebc022fe3a2b35b828978d47e5b016747197ed5be34a57712432",
+    sha256 = "4dbd78c1b6e5d8f0f3ddae14b8b9c1f838d4527684153b7a4987ca177c6df3ec",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/daxctl-libs-71.1-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/95bbf4ffb69cebc022fe3a2b35b828978d47e5b016747197ed5be34a57712432",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/daxctl-libs-71.1-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "dbus-1__1.12.20-8.el9.aarch64",
-    sha256 = "29c244f31d9f3ae910a6b95d4d5534cdf1ea4870fc277e29876a10cf3bd193ae",
+    sha256 = "b3bde1dd40048ed14f0e42343ff0979e589a41b0954b89f8a23d57892d688106",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/dbus-1.12.20-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/29c244f31d9f3ae910a6b95d4d5534cdf1ea4870fc277e29876a10cf3bd193ae",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/d/dbus-1.12.20-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "dbus-1__1.12.20-8.el9.x86_64",
-    sha256 = "d13d52df79bb9a0a1795530a5ce1134c9c92a2a7c401dfc3827ee8bf02f60018",
+    sha256 = "f9ab612861c66de02ad73a0ffb56b2f83b71de2326ea595ffeac47eea517e18f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/dbus-1.12.20-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d13d52df79bb9a0a1795530a5ce1134c9c92a2a7c401dfc3827ee8bf02f60018",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/dbus-1.12.20-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "dbus-broker-0__28-7.el9.aarch64",
-    sha256 = "28a7abe52040dcda6e5d941206ef6e5c47478fcc06a9f05c2ab7dacc2afa9f42",
+    sha256 = "d43da2ba4cdef5a08f6d5598aaf4c315576cf135331ecedb33880b9165311fcd",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/dbus-broker-28-7.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/28a7abe52040dcda6e5d941206ef6e5c47478fcc06a9f05c2ab7dacc2afa9f42",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/d/dbus-broker-28-7.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "dbus-broker-0__28-7.el9.x86_64",
-    sha256 = "dd65bddd728ed08dcdba5d06b5a5af9f958e5718e8cab938783241bd8f4d1131",
+    sha256 = "38f5e8dbd4aadcf568e06f0e353c6d9d0e2991e692e221c51c3a21717149aece",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/dbus-broker-28-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/dd65bddd728ed08dcdba5d06b5a5af9f958e5718e8cab938783241bd8f4d1131",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/dbus-broker-28-7.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "dbus-common-1__1.12.20-8.el9.aarch64",
-    sha256 = "ff91286d9413256c50886a0c96b3d5d0773bd25284b9a94b28b98a5215f09a56",
+    sha256 = "1dd8709f43f63277d6305b2ef572cb091ef748ce1588a0bafc95866c397335b9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/dbus-common-1.12.20-8.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/ff91286d9413256c50886a0c96b3d5d0773bd25284b9a94b28b98a5215f09a56",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/d/dbus-common-1.12.20-8.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "dbus-common-1__1.12.20-8.el9.x86_64",
-    sha256 = "ff91286d9413256c50886a0c96b3d5d0773bd25284b9a94b28b98a5215f09a56",
+    sha256 = "1dd8709f43f63277d6305b2ef572cb091ef748ce1588a0bafc95866c397335b9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/dbus-common-1.12.20-8.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/ff91286d9413256c50886a0c96b3d5d0773bd25284b9a94b28b98a5215f09a56",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/dbus-common-1.12.20-8.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "dbus-libs-1__1.12.20-8.el9.aarch64",
-    sha256 = "4f9a0d0712363aaee565b9883560de7b0afd7f8ffdc5f8584afadc1623ff1897",
+    sha256 = "472aefc4bb2db327841c9c8fa3bc30f56dc5e00b0e77fac9c179e39ba7ad0146",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/dbus-libs-1.12.20-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4f9a0d0712363aaee565b9883560de7b0afd7f8ffdc5f8584afadc1623ff1897",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/d/dbus-libs-1.12.20-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "dbus-libs-1__1.12.20-8.el9.x86_64",
-    sha256 = "2d46aaa0b1e8032d10156b040a5226b5a90ef000d8d85d40fd5671379a5bc904",
+    sha256 = "ab81c1e16482f333aa285db120051b099b56661d4620f0f1af05f8e69126e97b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/dbus-libs-1.12.20-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/2d46aaa0b1e8032d10156b040a5226b5a90ef000d8d85d40fd5671379a5bc904",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/dbus-libs-1.12.20-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "device-mapper-9__1.02.195-3.el9.aarch64",
-    sha256 = "e696b10edfe98a7c4e6f87358353035618e20a18e8e733c00bfe22078263fcd3",
+    sha256 = "356bba9324797b4fff05bc54954f525e466b6f2b88c8ba900584e0315ad6035e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/device-mapper-1.02.195-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/e696b10edfe98a7c4e6f87358353035618e20a18e8e733c00bfe22078263fcd3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/d/device-mapper-1.02.195-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "device-mapper-9__1.02.195-3.el9.x86_64",
-    sha256 = "441482e8244d2753fff19c2cfc0e17b2655fb7542bde27db540c9cfac2b76e3d",
+    sha256 = "5c747902760359247fbe21a9b83365f60b602d8edefaa7f71e39a7e7c8562c0b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/device-mapper-1.02.195-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/441482e8244d2753fff19c2cfc0e17b2655fb7542bde27db540c9cfac2b76e3d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/device-mapper-1.02.195-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "device-mapper-libs-9__1.02.195-3.el9.aarch64",
-    sha256 = "1409398162b3129e33044270537388112011d2b7a90dc2746354dfc177480599",
+    sha256 = "f263429d9fb316373bddfa883a694dd022a3ebcb43db445a101f2e37816c6afe",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/device-mapper-libs-1.02.195-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1409398162b3129e33044270537388112011d2b7a90dc2746354dfc177480599",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/d/device-mapper-libs-1.02.195-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "device-mapper-libs-9__1.02.195-3.el9.x86_64",
-    sha256 = "a5b4509bbd31c4cad65c8460fa2acf4c1505e6b27f38dc7b56fdab125a5fa0b8",
+    sha256 = "e77998dbc277001975f38acc61f43adb3c421cb4ccfcc67d80cb97e745261095",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/device-mapper-libs-1.02.195-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a5b4509bbd31c4cad65c8460fa2acf4c1505e6b27f38dc7b56fdab125a5fa0b8",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/device-mapper-libs-1.02.195-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "device-mapper-multipath-libs-0__0.8.7-22.el9.aarch64",
-    sha256 = "63520410c680dad15f88197bec9067f087d02692a661f041b2392427b06c9c94",
+    sha256 = "eb2df2f785661d6fd6834db4f3fa77c473216a42031a0b32ba9efe1a04d5f74c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/device-mapper-multipath-libs-0.8.7-22.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/63520410c680dad15f88197bec9067f087d02692a661f041b2392427b06c9c94",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/d/device-mapper-multipath-libs-0.8.7-22.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "device-mapper-multipath-libs-0__0.8.7-22.el9.x86_64",
-    sha256 = "ca6d7bebafdfb3f8a3e6f541f06004d3a21c41c1b3e9e95e42dc97ece1d88dce",
+    sha256 = "96e9c8407bcb6110f58a8be2eaa9f7a3937850b1da5f819454b4e63c97383861",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/device-mapper-multipath-libs-0.8.7-22.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ca6d7bebafdfb3f8a3e6f541f06004d3a21c41c1b3e9e95e42dc97ece1d88dce",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/device-mapper-multipath-libs-0.8.7-22.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "diffutils-0__3.7-12.el9.aarch64",
-    sha256 = "4fea2be2558981a55a569cc7b93f17afce86bba830ebce32a0aa320e4759293e",
+    sha256 = "df77e6cb59b73a1ff3d007c8011c689bf9bdbd416889bce8d65dc9855144e335",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/diffutils-3.7-12.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4fea2be2558981a55a569cc7b93f17afce86bba830ebce32a0aa320e4759293e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/d/diffutils-3.7-12.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "diffutils-0__3.7-12.el9.x86_64",
-    sha256 = "fdebefc46badf2e700e00582041a0e5f5183dd4fdc04badfe47c91f030cea0ce",
+    sha256 = "d3932991f5d9b1e5f6326e376cf77f3f676bbf0c5657b2ddf1013bfdb4738a69",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/diffutils-3.7-12.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fdebefc46badf2e700e00582041a0e5f5183dd4fdc04badfe47c91f030cea0ce",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/diffutils-3.7-12.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "dmidecode-1__3.3-7.el9.x86_64",
-    sha256 = "2afb32bf0c30908817d57d221dbded83917aa8a88d2586e98ce548bad4f86e3d",
+    name = "dmidecode-1__3.5-1.el9.x86_64",
+    sha256 = "5a325966d2e3c89bf0f44fa32473884d7756ee2f64247d14a7ebb06ec1c3b65b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/dmidecode-3.3-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/2afb32bf0c30908817d57d221dbded83917aa8a88d2586e98ce548bad4f86e3d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/d/dmidecode-3.5-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "e2fsprogs-0__1.46.5-4.el9.aarch64",
-    sha256 = "4d7315472b3bf129631ed2939c3fb1fd7aa36e5a247b9cbdeefa2887eeba9f08",
+    name = "e2fsprogs-0__1.46.5-3.el9.aarch64",
+    sha256 = "2f29ca8043227774c8aecd859ce2293fcd9848f1929309576be24a417984ce00",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/e2fsprogs-1.46.5-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4d7315472b3bf129631ed2939c3fb1fd7aa36e5a247b9cbdeefa2887eeba9f08",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/e/e2fsprogs-1.46.5-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "e2fsprogs-0__1.46.5-4.el9.x86_64",
-    sha256 = "a9a8f76bc1922e956e7c265192240cbe553d6f2f9aa516b02f1453ccc228859d",
+    name = "e2fsprogs-0__1.46.5-3.el9.x86_64",
+    sha256 = "ba6659d0fed1cb23b1228d55b05c927a8f188be72a68509751c9199f34bf4c6f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/e2fsprogs-1.46.5-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a9a8f76bc1922e956e7c265192240cbe553d6f2f9aa516b02f1453ccc228859d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/e/e2fsprogs-1.46.5-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "e2fsprogs-libs-0__1.46.5-4.el9.aarch64",
-    sha256 = "9eb1fe672f3f308c37d5b9b00cc6958d9d871c1e2263192fc1297a7e0767af7b",
+    name = "e2fsprogs-libs-0__1.46.5-3.el9.aarch64",
+    sha256 = "3577defde560591058bb0e14cbe76d0d647c08324095a1f0856a148191169d46",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/e2fsprogs-libs-1.46.5-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/9eb1fe672f3f308c37d5b9b00cc6958d9d871c1e2263192fc1297a7e0767af7b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/e/e2fsprogs-libs-1.46.5-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "e2fsprogs-libs-0__1.46.5-4.el9.x86_64",
-    sha256 = "d471421bf8953605c8dfa0acd1210a10ca988815ed79e5079ba90547c0da8f69",
+    name = "e2fsprogs-libs-0__1.46.5-3.el9.x86_64",
+    sha256 = "b9d969f84ac8c462ab64306c18bae99a94e62d981ae650a3f6c9c20b68760f10",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/e2fsprogs-libs-1.46.5-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d471421bf8953605c8dfa0acd1210a10ca988815ed79e5079ba90547c0da8f69",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/e/e2fsprogs-libs-1.46.5-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "edk2-aarch64-0__20230524-3.el9.aarch64",
-    sha256 = "893e8f9a58deb7270c8e4a3a8e9e002392ff1c1b124e56b1bc59e6e0bd377da4",
+    name = "edk2-aarch64-0__20230524-4.el9_3.2.aarch64",
+    sha256 = "a2e62895c4a69f7041a0b6997a9bffd01fe40046717b025471fef19e0b5df31b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/edk2-aarch64-20230524-3.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/893e8f9a58deb7270c8e4a3a8e9e002392ff1c1b124e56b1bc59e6e0bd377da4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/e/edk2-aarch64-20230524-4.el9_3.2.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "edk2-ovmf-0__20230524-3.el9.x86_64",
-    sha256 = "865e123047cff07ce8d9b51ba36b3f6a3c914267e4422249e4a0d9c897f86946",
+    name = "edk2-ovmf-0__20230524-4.el9_3.2.x86_64",
+    sha256 = "d847d851440fa471fb43f535bb9d49373a8a4d8b613634327995c03aef6f2aaf",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/edk2-ovmf-20230524-3.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/865e123047cff07ce8d9b51ba36b3f6a3c914267e4422249e4a0d9c897f86946",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/e/edk2-ovmf-20230524-4.el9_3.2.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "elfutils-debuginfod-client-0__0.190-1.el9.aarch64",
-    sha256 = "d71f8f30dd19aebde38a3c18c0a06b356a0ad8a46cfb30e86ee955dafcb2e2b3",
+    name = "elfutils-debuginfod-client-0__0.189-3.el9.aarch64",
+    sha256 = "d562a25281725f7d95e74c2f40e4b5d62e52acdc4b1e5c505df0ccbb63c24e1e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/elfutils-debuginfod-client-0.190-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d71f8f30dd19aebde38a3c18c0a06b356a0ad8a46cfb30e86ee955dafcb2e2b3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/e/elfutils-debuginfod-client-0.189-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "elfutils-debuginfod-client-0__0.190-1.el9.x86_64",
-    sha256 = "850aabaa016b065947ea394160959760793ee8c3229e0d5f1e33c78b0a983bfe",
+    name = "elfutils-debuginfod-client-0__0.189-3.el9.x86_64",
+    sha256 = "e758158b34cce090ce41ac60b6542f6df41942a32437eb546990784f09c44c19",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/elfutils-debuginfod-client-0.190-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/850aabaa016b065947ea394160959760793ee8c3229e0d5f1e33c78b0a983bfe",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/e/elfutils-debuginfod-client-0.189-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "elfutils-default-yama-scope-0__0.190-1.el9.aarch64",
-    sha256 = "85d6e54f866079fd5fd018d7b64aa425f0cae1c1499b2369adcb58c28b5e08a1",
+    name = "elfutils-default-yama-scope-0__0.189-3.el9.aarch64",
+    sha256 = "de1edccd6c01d8d7bc69590d11de385988b2d4036f0df92653e37381a6ee1dd0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/elfutils-default-yama-scope-0.190-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/85d6e54f866079fd5fd018d7b64aa425f0cae1c1499b2369adcb58c28b5e08a1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/e/elfutils-default-yama-scope-0.189-3.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "elfutils-default-yama-scope-0__0.190-1.el9.x86_64",
-    sha256 = "85d6e54f866079fd5fd018d7b64aa425f0cae1c1499b2369adcb58c28b5e08a1",
+    name = "elfutils-default-yama-scope-0__0.189-3.el9.x86_64",
+    sha256 = "de1edccd6c01d8d7bc69590d11de385988b2d4036f0df92653e37381a6ee1dd0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/elfutils-default-yama-scope-0.190-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/85d6e54f866079fd5fd018d7b64aa425f0cae1c1499b2369adcb58c28b5e08a1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/e/elfutils-default-yama-scope-0.189-3.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "elfutils-libelf-0__0.190-1.el9.aarch64",
-    sha256 = "9e93474e49e3fc77105c7fea663a895d429ae84bfe4083d6695bccb29f723a59",
+    name = "elfutils-libelf-0__0.189-3.el9.aarch64",
+    sha256 = "5133857ef04ca849e41996d7b6d5c4345935912bac49765fb537e9597ca6f2e4",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/elfutils-libelf-0.190-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/9e93474e49e3fc77105c7fea663a895d429ae84bfe4083d6695bccb29f723a59",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/e/elfutils-libelf-0.189-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "elfutils-libelf-0__0.190-1.el9.x86_64",
-    sha256 = "c33e9159a0fb482c76c1b71f9b9536e2436712871bc56303200eb77001678b28",
+    name = "elfutils-libelf-0__0.189-3.el9.x86_64",
+    sha256 = "2d61d3deaebbfc30e08003efc08c01eb24b2a4637446892cc56c053a29c241bf",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/elfutils-libelf-0.190-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c33e9159a0fb482c76c1b71f9b9536e2436712871bc56303200eb77001678b28",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/e/elfutils-libelf-0.189-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "elfutils-libs-0__0.190-1.el9.aarch64",
-    sha256 = "00b5a13808fc83e218c4bc24e13fe29964539c032946275968c1ad091302d653",
+    name = "elfutils-libs-0__0.189-3.el9.aarch64",
+    sha256 = "4e2ee96c0032e78845bb91c7e52a9c3e762a0fb1ea39c5836cf4d04892587538",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/elfutils-libs-0.190-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/00b5a13808fc83e218c4bc24e13fe29964539c032946275968c1ad091302d653",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/e/elfutils-libs-0.189-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "elfutils-libs-0__0.190-1.el9.x86_64",
-    sha256 = "d50aec58d94d9442c22b067a1b26539f482eb09a60f549b987106f80d1c419f0",
+    name = "elfutils-libs-0__0.189-3.el9.x86_64",
+    sha256 = "62596104ee3d12f7781d3b3a89bf2d0bc1b68f742e7efe788478f4001706b2a9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/elfutils-libs-0.190-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d50aec58d94d9442c22b067a1b26539f482eb09a60f549b987106f80d1c419f0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/e/elfutils-libs-0.189-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "ethtool-2__6.2-1.el9.aarch64",
-    sha256 = "9f086c7b6796d5749f5f93f727cbe380c9d04f54c968b5555db2763bace23e6a",
+    sha256 = "bab44089cf27fda7dceec226f7472819e882282a53de2ab360154da12ac02280",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/ethtool-6.2-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/9f086c7b6796d5749f5f93f727cbe380c9d04f54c968b5555db2763bace23e6a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/e/ethtool-6.2-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "ethtool-2__6.2-1.el9.x86_64",
-    sha256 = "bc4b58cbda4ce3eb8795aa35db56c6e7d52a53f48b3c197d0ee83911f5d3eadc",
+    sha256 = "856da319a7ef9703bfe3d29ad19053b94b4b3ce67155981acf6a279958c555a8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/ethtool-6.2-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/bc4b58cbda4ce3eb8795aa35db56c6e7d52a53f48b3c197d0ee83911f5d3eadc",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/e/ethtool-6.2-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "expat-0__2.5.0-1.el9.aarch64",
-    sha256 = "2163792c7a297e441d7c3c0cbef7a6da0695e44e0b16fbb796cd90ab91dfe0cb",
+    name = "expat-0__2.5.0-1.el9_3.1.aarch64",
+    sha256 = "cf194936dbce6690724b6f8666417240ff48081a320e1e74ffcf85e70cc360cc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/expat-2.5.0-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/2163792c7a297e441d7c3c0cbef7a6da0695e44e0b16fbb796cd90ab91dfe0cb",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/e/expat-2.5.0-1.el9_3.1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "expat-0__2.5.0-1.el9.x86_64",
-    sha256 = "b5092845377c3505cd072a896c443abe5da21d3c6c6cb23d917db159905178a6",
+    name = "expat-0__2.5.0-1.el9_3.1.x86_64",
+    sha256 = "c4f427ff2382232ac18ee28f2513811e968d0e91967bd66fcc045dcb03725772",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/expat-2.5.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b5092845377c3505cd072a896c443abe5da21d3c6c6cb23d917db159905178a6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/e/expat-2.5.0-1.el9_3.1.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "filesystem-0__3.16-2.el9.aarch64",
-    sha256 = "0afb1f7582830fa9c8c58a6679ab3b4ccf8bbdf1c0c76908fea1429eec8b8a53",
+    sha256 = "58be72c7740ac788f81828c28af917fae95e8f769fbe7ba8eb5290f98c4023cd",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/filesystem-3.16-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/0afb1f7582830fa9c8c58a6679ab3b4ccf8bbdf1c0c76908fea1429eec8b8a53",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/f/filesystem-3.16-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "filesystem-0__3.16-2.el9.x86_64",
-    sha256 = "b69a472751268a1b9acd566dc7aa486fc1d6c8cb6d23f36d6a6dfead62e71475",
+    sha256 = "211e67cf31d096ca3f4bbddcdf6116afa821997e61e9c07d29c3c6e53546e697",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/filesystem-3.16-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b69a472751268a1b9acd566dc7aa486fc1d6c8cb6d23f36d6a6dfead62e71475",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/f/filesystem-3.16-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "findutils-1__4.8.0-6.el9.aarch64",
-    sha256 = "c552d76e062fdb098b57eef1f8f6566a72354d441a101e6238e4b8ba43dfb77e",
+    sha256 = "8ddd95c3c91b52ec38cf81be7e0dcc1dd8fdfb475da78f585db14b456593b3c2",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/findutils-4.8.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c552d76e062fdb098b57eef1f8f6566a72354d441a101e6238e4b8ba43dfb77e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/f/findutils-4.8.0-6.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "findutils-1__4.8.0-6.el9.x86_64",
-    sha256 = "2634379fd4f1c42d0ea733e3006dd4f76c2a9144fce69c8e99e4d50b71c4fb13",
+    sha256 = "7d4a18cf3517b7337b3cb19053972b20ea645878cf99e471e6c4aea5394522be",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/findutils-4.8.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/2634379fd4f1c42d0ea733e3006dd4f76c2a9144fce69c8e99e4d50b71c4fb13",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/f/findutils-4.8.0-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "fonts-filesystem-1__2.0.5-7.el9.1.x86_64",
-    sha256 = "c79fa96aa7fb447975497dd50c94002ee73d01171343f8ee14032d06adb58a92",
+    sha256 = "99d15efb904085c385292eb10bb3c84a3f16d3cedb2c2b871756f9036e77c7bc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/fonts-filesystem-2.0.5-7.el9.1.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/c79fa96aa7fb447975497dd50c94002ee73d01171343f8ee14032d06adb58a92",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/f/fonts-filesystem-2.0.5-7.el9.1.noarch.rpm",
     ],
 )
 
 rpm(
     name = "fuse-0__2.9.9-15.el9.x86_64",
-    sha256 = "f0f8b58029ffddf73c5147c67c8e5f90f60e0e315f195c25695ceb0e9fec9d4b",
+    sha256 = "639d5e4cc247426421bc87eeee5c7263250337af92d0694a1893ec9a5555c8ff",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/fuse-2.9.9-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f0f8b58029ffddf73c5147c67c8e5f90f60e0e315f195c25695ceb0e9fec9d4b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/f/fuse-2.9.9-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "fuse-common-0__3.10.2-6.el9.x86_64",
-    sha256 = "17f0e60e894c860d5019e6a40e072b23921c4f5726717ec55e3563a6b5a5d3b3",
+    sha256 = "750cd3d933b455c89a2acf239acc220858ceed3b872804c4f53dcb4f7de56c40",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/fuse-common-3.10.2-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/17f0e60e894c860d5019e6a40e072b23921c4f5726717ec55e3563a6b5a5d3b3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/f/fuse-common-3.10.2-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "fuse-libs-0__2.9.9-15.el9.aarch64",
-    sha256 = "d82ebf3bcfe85eae2b34c4dbd507d8a0b0ac05d4df4c9ee16fee7555f36c7873",
+    sha256 = "6afc0c4f0ead22dc457766d9f38c7283d9abc326a1c59919fafc3d33ab85b470",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/fuse-libs-2.9.9-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d82ebf3bcfe85eae2b34c4dbd507d8a0b0ac05d4df4c9ee16fee7555f36c7873",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/f/fuse-libs-2.9.9-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "fuse-libs-0__2.9.9-15.el9.x86_64",
-    sha256 = "610c601daea8fa587c3ee43f2af06c25c506caf4588bf214e04de7eb960b95fa",
+    sha256 = "e915392c1380b3c75c43e5ebfa1bff21a4d280aa2f2417915b92a04829406896",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/fuse-libs-2.9.9-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/610c601daea8fa587c3ee43f2af06c25c506caf4588bf214e04de7eb960b95fa",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/f/fuse-libs-2.9.9-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gawk-0__5.1.0-6.el9.aarch64",
-    sha256 = "656d23c583b0705eaad75cffbe880f2ec39c7d5b7a756c6a8853c2977eec331b",
+    sha256 = "c831415c883ab8ecd6d62373cea563c73042d06463c91e6645f82984eeb12c74",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/gawk-5.1.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/656d23c583b0705eaad75cffbe880f2ec39c7d5b7a756c6a8853c2977eec331b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/gawk-5.1.0-6.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "gawk-0__5.1.0-6.el9.x86_64",
-    sha256 = "6e6d77b76b1e89fe6f012cdc16111bea35eb4ceedac5040e5d81b5a066429af8",
+    sha256 = "eaca68b315d6c2ef5ec30deaf9b7c38401e2ed0169972d158fd88b917e8a47dc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gawk-5.1.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/6e6d77b76b1e89fe6f012cdc16111bea35eb4ceedac5040e5d81b5a066429af8",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gawk-5.1.0-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "gcc-0__11.4.1-2.3.el9.aarch64",
-    sha256 = "d018eafb2e2cd578cf97dda5e98612e6b596853b42f1e1ca4e49fc143f780554",
+    name = "gcc-0__11.4.1-2.1.el9.aarch64",
+    sha256 = "852f2d620085280e7f738e26f0f46d6ae1ff3168aa503eb19e73e3fed94f9fb7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/gcc-11.4.1-2.3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d018eafb2e2cd578cf97dda5e98612e6b596853b42f1e1ca4e49fc143f780554",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/g/gcc-11.4.1-2.1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "gcc-0__11.4.1-2.3.el9.x86_64",
-    sha256 = "c61d8f6c05e46046da99822c7469bac7a7c79d3469333664b7c9ae41b048a12a",
+    name = "gcc-0__11.4.1-2.1.el9.x86_64",
+    sha256 = "157b93f22c2a2898cee246440044922979c9efffbe07e66d496e8e5bc022d354",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/gcc-11.4.1-2.3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c61d8f6c05e46046da99822c7469bac7a7c79d3469333664b7c9ae41b048a12a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/g/gcc-11.4.1-2.1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gdbm-libs-1__1.19-4.el9.aarch64",
-    sha256 = "4fc723b43287c971507ec7899a1517dcc91abab962707febc7fdd9c1d865ace8",
+    sha256 = "ec0bfbc439f8c8a02a72517dcaea3d0798e987524c24c7930d279096cc200ede",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/gdbm-libs-1.19-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4fc723b43287c971507ec7899a1517dcc91abab962707febc7fdd9c1d865ace8",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/gdbm-libs-1.19-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "gdbm-libs-1__1.19-4.el9.x86_64",
-    sha256 = "8cd5a78cab8783dd241c52c4fcda28fb111c443887dd6d0fe38385e8383c98b3",
+    sha256 = "da032f6a47afb847153322df72e8d01d239e4481ac1750d195cf396393d11066",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gdbm-libs-1.19-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/8cd5a78cab8783dd241c52c4fcda28fb111c443887dd6d0fe38385e8383c98b3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gdbm-libs-1.19-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gettext-0__0.21-8.el9.aarch64",
-    sha256 = "66387c45fa58eea0120e0cdfa27ffb2ca4eda1cb9f157be7af23503f4b42fdab",
+    sha256 = "e881fae8a60986ab109f94e9b3012d00d4954b9b8d5345825ceddbd0e13ca436",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/gettext-0.21-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/66387c45fa58eea0120e0cdfa27ffb2ca4eda1cb9f157be7af23503f4b42fdab",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/gettext-0.21-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "gettext-0__0.21-8.el9.x86_64",
-    sha256 = "1f1f79d426dd3d6c3c39a45fa9af8bbf37e2547a50136b7c30b76c1bfe5a487f",
+    sha256 = "e615a360a2c8bc196ea406d3768d3ebf3b5991057fe77a4ff777c2c0a8267d1e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gettext-0.21-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/1f1f79d426dd3d6c3c39a45fa9af8bbf37e2547a50136b7c30b76c1bfe5a487f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gettext-0.21-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gettext-libs-0__0.21-8.el9.aarch64",
-    sha256 = "f979fa61b8cb97a3f26dec4844a3ad978cf85a85e9ccccac8f0698c04c7849dc",
+    sha256 = "e8e7e273c70579e9e76bfa01fe95d61d46d982f2b663c893b021de6e6141d897",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/gettext-libs-0.21-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f979fa61b8cb97a3f26dec4844a3ad978cf85a85e9ccccac8f0698c04c7849dc",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/gettext-libs-0.21-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "gettext-libs-0__0.21-8.el9.x86_64",
-    sha256 = "5a1780e9d485c014b95802531aecd7bf8593daa0af24646a74ab335cddfb40fa",
+    sha256 = "7ebafab783eb9d71de2282d2530a66b3b07df63c75bf087843b21e7e6a96b2ee",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gettext-libs-0.21-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/5a1780e9d485c014b95802531aecd7bf8593daa0af24646a74ab335cddfb40fa",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gettext-libs-0.21-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "glib-networking-0__2.68.3-3.el9.x86_64",
-    sha256 = "ea106ccc142daf5016626cfe5c4f0a2d97e700ae7ad4780835e899897b63317f",
+    sha256 = "fa9bec5c45cd1d4123f3e5e9793c592312d95dc50369740226969e69bd0e0ab0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/glib-networking-2.68.3-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ea106ccc142daf5016626cfe5c4f0a2d97e700ae7ad4780835e899897b63317f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/glib-networking-2.68.3-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "glib2-0__2.68.4-12.el9.aarch64",
-    sha256 = "7a39bef8fefabe71447b8e78a50218c71a3dac9320342567015ea723bc1ad8e4",
+    name = "glib2-0__2.68.4-11.el9.aarch64",
+    sha256 = "cb50f885b22d6a0121960c3c95dfcb3d6564dcdec3ff0036a97e3c41857dca82",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/glib2-2.68.4-12.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/7a39bef8fefabe71447b8e78a50218c71a3dac9320342567015ea723bc1ad8e4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/glib2-2.68.4-11.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "glib2-0__2.68.4-12.el9.x86_64",
-    sha256 = "75fad519d793eae0efc54afbb4c3fb3d5f342fa416172e7a865643b1d3d96f13",
+    name = "glib2-0__2.68.4-11.el9.x86_64",
+    sha256 = "5792d6665dd65cf5a4d818c89ab4183521a60b9c54edc15d85089e065ae7a74c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/glib2-2.68.4-12.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/75fad519d793eae0efc54afbb4c3fb3d5f342fa416172e7a865643b1d3d96f13",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/glib2-2.68.4-11.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-0__2.34-88.el9.aarch64",
-    sha256 = "bc553c8c569bfb2051f1395d981d7c9c6e259b57a41dced51f7fac20b63fc929",
+    name = "glibc-0__2.34-83.el9.12.aarch64",
+    sha256 = "7f12429e230fa183f51c7aa5bc9dcc17956ddf2e82d193910ea2a2b5e89a3f1a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/glibc-2.34-88.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/bc553c8c569bfb2051f1395d981d7c9c6e259b57a41dced51f7fac20b63fc929",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/glibc-2.34-83.el9.12.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-0__2.34-88.el9.x86_64",
-    sha256 = "6a590a3ac551dcd27ea5fc0097d19915e32af47ecddb52bcabbef12bbda97a54",
+    name = "glibc-0__2.34-83.el9.12.x86_64",
+    sha256 = "21a1f3479f63b84a26caa2c6aee93572f1d01cef3ee1c9020a259363d1960fde",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/glibc-2.34-88.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/6a590a3ac551dcd27ea5fc0097d19915e32af47ecddb52bcabbef12bbda97a54",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/glibc-2.34-83.el9.12.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-common-0__2.34-88.el9.aarch64",
-    sha256 = "c4814302b6884c0626afd04dc1fdb28cb3d7f92af307a91785ce37e5309e53a9",
+    name = "glibc-common-0__2.34-83.el9.12.aarch64",
+    sha256 = "b72a3128d3c311589a36d0e64cb7f4f6c9287e7ec4e180dcc5830aed54f6f6d7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/glibc-common-2.34-88.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c4814302b6884c0626afd04dc1fdb28cb3d7f92af307a91785ce37e5309e53a9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/glibc-common-2.34-83.el9.12.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-common-0__2.34-88.el9.x86_64",
-    sha256 = "f19cf4786a59ab7b7064d31230e7b59d8d47723061ee3f6eb8168bbece13938f",
+    name = "glibc-common-0__2.34-83.el9.12.x86_64",
+    sha256 = "8f540369ffdb0738761f8eb8b2c55bb237ae4414eb961606bfc98a34517506b7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/glibc-common-2.34-88.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f19cf4786a59ab7b7064d31230e7b59d8d47723061ee3f6eb8168bbece13938f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/glibc-common-2.34-83.el9.12.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-devel-0__2.34-88.el9.aarch64",
-    sha256 = "6483807486e2c20f02202d39f32d1bac055e8d24135f0af213e123b72b9d8e59",
+    name = "glibc-devel-0__2.34-83.el9.12.aarch64",
+    sha256 = "cf7382f0b2de018ce089a73f230cdd126bdfd2f19d6753f47c0ca7eafc6fab9f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/glibc-devel-2.34-88.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6483807486e2c20f02202d39f32d1bac055e8d24135f0af213e123b72b9d8e59",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/g/glibc-devel-2.34-83.el9.12.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-devel-0__2.34-88.el9.x86_64",
-    sha256 = "7a4067c3a52eb334c520c53b2ec0d1beae2be57af0eec75ba7fcd728feb59e45",
+    name = "glibc-devel-0__2.34-83.el9.12.x86_64",
+    sha256 = "ee3e9bebfdbe7c2e78f04d51b4ff0f713997613fa9fcf37b1062f75653f49974",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/glibc-devel-2.34-88.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7a4067c3a52eb334c520c53b2ec0d1beae2be57af0eec75ba7fcd728feb59e45",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/g/glibc-devel-2.34-83.el9.12.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-headers-0__2.34-88.el9.x86_64",
-    sha256 = "76cd179192536f23c0a112fc56e532c4a2c681956439cbda2a3f0a101edaa72b",
+    name = "glibc-headers-0__2.34-83.el9.12.x86_64",
+    sha256 = "1b0de3f0d57d1220ddcb93872390e0ea00b300dccf88e4f0af5989dce6d505c7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/glibc-headers-2.34-88.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/76cd179192536f23c0a112fc56e532c4a2c681956439cbda2a3f0a101edaa72b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/g/glibc-headers-2.34-83.el9.12.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-minimal-langpack-0__2.34-88.el9.aarch64",
-    sha256 = "dddcc43e175550a9759671d6fb7889f4cecdcb18ad83ea9a766a9247dd910990",
+    name = "glibc-minimal-langpack-0__2.34-83.el9.12.aarch64",
+    sha256 = "83c149170f67ba4d058e8197fa55992fe19811ff6d4cd9325a276b4b277c9fca",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/glibc-minimal-langpack-2.34-88.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/dddcc43e175550a9759671d6fb7889f4cecdcb18ad83ea9a766a9247dd910990",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/glibc-minimal-langpack-2.34-83.el9.12.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-minimal-langpack-0__2.34-88.el9.x86_64",
-    sha256 = "f1224ca96983442834cb93c940859c668393a6132e93dee871b74b2fe703a748",
+    name = "glibc-minimal-langpack-0__2.34-83.el9.12.x86_64",
+    sha256 = "62bdb619777ed04fc4ddf85e2ad429cb1fbb782a8998edaf555cd56509493b0c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/glibc-minimal-langpack-2.34-88.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f1224ca96983442834cb93c940859c668393a6132e93dee871b74b2fe703a748",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/glibc-minimal-langpack-2.34-83.el9.12.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-static-0__2.34-88.el9.aarch64",
-    sha256 = "4f68cb7013c8f0011aabea5a5fd7a934106a47620b68f3d684c32b86e65e3ddf",
+    name = "glibc-static-0__2.34-83.el9.12.aarch64",
+    sha256 = "a7bdc3f1a5a675474fe82da7c8732acc98d8c1889336be24d62157a200bccb41",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/CRB/aarch64/os/Packages/glibc-static-2.34-88.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4f68cb7013c8f0011aabea5a5fd7a934106a47620b68f3d684c32b86e65e3ddf",
+        "https://dl.rockylinux.org/vault/rocky/9.3/CRB/aarch64/os/Packages/g/glibc-static-2.34-83.el9.12.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "glibc-static-0__2.34-88.el9.x86_64",
-    sha256 = "828c1702e243fb2828d826229a7d97cae3fc04c497166eb26b048bca4d993ccd",
+    name = "glibc-static-0__2.34-83.el9.12.x86_64",
+    sha256 = "0a35fa98d136e2d73d46699414e1299010e512fb00b23a085889877dc9b26011",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/CRB/x86_64/os/Packages/glibc-static-2.34-88.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/828c1702e243fb2828d826229a7d97cae3fc04c497166eb26b048bca4d993ccd",
+        "https://dl.rockylinux.org/vault/rocky/9.3/CRB/x86_64/os/Packages/g/glibc-static-2.34-83.el9.12.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gmp-1__6.2.0-13.el9.aarch64",
-    sha256 = "01716c2de2af5ddce80cfc2f81fbcabe50670583f8d3ebf8af1058982edb9c70",
+    sha256 = "54f5999feb6a26c57616d64cc880dccb5e44723911f52b06a36311e389a568ce",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/gmp-6.2.0-13.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/01716c2de2af5ddce80cfc2f81fbcabe50670583f8d3ebf8af1058982edb9c70",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/gmp-6.2.0-13.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "gmp-1__6.2.0-13.el9.x86_64",
-    sha256 = "b6d592895ccc0fcad6106cd41800cd9d68e5384c418e53a2c3ff2ac8c8b15a33",
+    sha256 = "ca72ae69218b96c43c82bdc35dd1078300692714db76d21c7f7dedd8268af799",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gmp-6.2.0-13.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b6d592895ccc0fcad6106cd41800cd9d68e5384c418e53a2c3ff2ac8c8b15a33",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gmp-6.2.0-13.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gnupg2-0__2.3.3-4.el9.x86_64",
-    sha256 = "03e7697ffc0ae9301c30adccfe28d3b100063e5d2c7c5f87dc21f1c56af4052f",
+    sha256 = "be8e75ba0f2dacf5fde23d67b8939807696b48f33cc56881ffd656e136e5d8c8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gnupg2-2.3.3-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/03e7697ffc0ae9301c30adccfe28d3b100063e5d2c7c5f87dc21f1c56af4052f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gnupg2-2.3.3-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "gnutls-0__3.8.2-1.el9.aarch64",
-    sha256 = "eac46f3673c8a12d24eee7d123734c72afe9b6bff58fba8177c703d950aa05bb",
+    name = "gnutls-0__3.7.6-23.el9_3.4.aarch64",
+    sha256 = "891428edf59bc9d61055b81d3f238de0b7677b1dc4e7927c966577ec5d094c36",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/gnutls-3.8.2-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/eac46f3673c8a12d24eee7d123734c72afe9b6bff58fba8177c703d950aa05bb",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/gnutls-3.7.6-23.el9_3.4.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "gnutls-0__3.8.2-1.el9.x86_64",
-    sha256 = "86d1cc7c87c5edf4f8321a8d6e4af70dbfe3f0399ff0b15235ac19fccfae3f2b",
+    name = "gnutls-0__3.7.6-23.el9_3.4.x86_64",
+    sha256 = "16fbfba4283b8fa4b9d2e61b0d3aeb14c60e133c0de36be151779436243d55d1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gnutls-3.8.2-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/86d1cc7c87c5edf4f8321a8d6e4af70dbfe3f0399ff0b15235ac19fccfae3f2b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gnutls-3.7.6-23.el9_3.4.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "gnutls-dane-0__3.8.2-1.el9.aarch64",
-    sha256 = "f652a005815c700deb11fa2a887636082b0d9336a16c1022781b7c3a7536d0d1",
+    name = "gnutls-dane-0__3.7.6-23.el9_3.4.aarch64",
+    sha256 = "c094385412a27442e68de7ef6eb170f75bbddabc43f039e1a038bf13c5c3cb33",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/gnutls-dane-3.8.2-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f652a005815c700deb11fa2a887636082b0d9336a16c1022781b7c3a7536d0d1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/g/gnutls-dane-3.7.6-23.el9_3.4.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "gnutls-dane-0__3.8.2-1.el9.x86_64",
-    sha256 = "3394c59b4587e99912709f2da9a21d926c3dff2ea03c181c6bc8ab7ce52690c6",
+    name = "gnutls-dane-0__3.7.6-23.el9_3.4.x86_64",
+    sha256 = "2eb5bd231005d7315d6d47affdfb947330b4e9974430fcf37ce50d6aa5b8ed5d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/gnutls-dane-3.8.2-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3394c59b4587e99912709f2da9a21d926c3dff2ea03c181c6bc8ab7ce52690c6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/g/gnutls-dane-3.7.6-23.el9_3.4.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "gnutls-utils-0__3.8.2-1.el9.aarch64",
-    sha256 = "1f2d549c703fa1b9ec962761a1cd005559bc50b5c511e37cb3c75337d9b15d3d",
+    name = "gnutls-utils-0__3.7.6-23.el9_3.4.aarch64",
+    sha256 = "745b8d40606555ff04e3af54f2c01291dbf24dc1b15914dd153e9e5cc2d5c9f7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/gnutls-utils-3.8.2-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1f2d549c703fa1b9ec962761a1cd005559bc50b5c511e37cb3c75337d9b15d3d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/g/gnutls-utils-3.7.6-23.el9_3.4.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "gnutls-utils-0__3.8.2-1.el9.x86_64",
-    sha256 = "1e18d57c938cf1030134c209a5d8252abee7358b0ea96db1e10a57f14ee3d040",
+    name = "gnutls-utils-0__3.7.6-23.el9_3.4.x86_64",
+    sha256 = "d44f23435c9c828ce2d4110cf9da4155984f9ec1a6fe870b413e7b99234c1481",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/gnutls-utils-3.8.2-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/1e18d57c938cf1030134c209a5d8252abee7358b0ea96db1e10a57f14ee3d040",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/g/gnutls-utils-3.7.6-23.el9_3.4.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gobject-introspection-0__1.68.0-11.el9.aarch64",
-    sha256 = "bcb5e3ab1d0ee579a11ec1449585196c0d13b552f73bbea3e2ada642b5313fbd",
+    sha256 = "53d9e22893411d62a68e11a56a9a2a2d56af3790838806c3df233caaeb968bc5",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/gobject-introspection-1.68.0-11.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/bcb5e3ab1d0ee579a11ec1449585196c0d13b552f73bbea3e2ada642b5313fbd",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/gobject-introspection-1.68.0-11.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "gobject-introspection-0__1.68.0-11.el9.x86_64",
-    sha256 = "d75cc220f9b5978bb1755cf5e4de30244ff8e7ad7f98dfbdfe897f41442e4587",
+    sha256 = "0bdb038fcd75126324e7a5a9c4ef18f487c1af764dfc9c600994ca1b04c605d3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gobject-introspection-1.68.0-11.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d75cc220f9b5978bb1755cf5e4de30244ff8e7ad7f98dfbdfe897f41442e4587",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gobject-introspection-1.68.0-11.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "grep-0__3.6-5.el9.aarch64",
-    sha256 = "33bdf571a62cb8b7d659617e9278e46043aa936f8e963202750d19463a805f60",
+    sha256 = "3c346bcb5b344c1dd3e68c9acd9fbbdd0300e3edfa331f5a4015c9d2ec95ff56",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/grep-3.6-5.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/33bdf571a62cb8b7d659617e9278e46043aa936f8e963202750d19463a805f60",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/grep-3.6-5.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "grep-0__3.6-5.el9.x86_64",
-    sha256 = "10a41b66b1fbd6eb055178e22c37199e5b49b4852e77c806f7af7211044a4a55",
+    sha256 = "9c1beaec9264e08459f9097c9bd58aa6118293df47d6f07f8054054cc7c40544",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/grep-3.6-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/10a41b66b1fbd6eb055178e22c37199e5b49b4852e77c806f7af7211044a4a55",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/grep-3.6-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gsettings-desktop-schemas-0__40.0-6.el9.x86_64",
-    sha256 = "9935991dc0dfb2eda15db01d388d4a018ee3aaf0c5f8ffa4ca1297f05d62db33",
+    sha256 = "f06da6ea5b8b8f1c97a79054474ced2b577731a96eaf5952ec8e670fa6aa2b83",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gsettings-desktop-schemas-40.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9935991dc0dfb2eda15db01d388d4a018ee3aaf0c5f8ffa4ca1297f05d62db33",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gsettings-desktop-schemas-40.0-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gssproxy-0__0.8.4-6.el9.x86_64",
-    sha256 = "19dfec5fba0c719f8768adfeb63c9cdca5856264a237d9235172cef2aa8eeebc",
+    sha256 = "c7ea30d414a4bb495379ea80be7a2dc90b9eb327038eb8cf0f1f341c4b856b37",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gssproxy-0.8.4-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/19dfec5fba0c719f8768adfeb63c9cdca5856264a237d9235172cef2aa8eeebc",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gssproxy-0.8.4-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "guestfs-tools-0__1.50.1-3.el9.x86_64",
-    sha256 = "9cff429bf3d24ace4083e3bae739557f04db1629fc0bc296936dc94b1f793dc6",
+    sha256 = "a3132aa8fd7269b12ae5949ca3a9be57a3be326ff6ccf297c713d79f0bfbf1b0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/guestfs-tools-1.50.1-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9cff429bf3d24ace4083e3bae739557f04db1629fc0bc296936dc94b1f793dc6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/g/guestfs-tools-1.50.1-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "gzip-0__1.12-1.el9.aarch64",
-    sha256 = "5a39a441dad01ccc8af601f1cca5bed46ac231fbdbe39ea3202bd54cf9390d81",
+    sha256 = "27c36893392e43bd2904ed4af6e6e92d5552c3ca4bd795a172b7419093d1f0f6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/gzip-1.12-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5a39a441dad01ccc8af601f1cca5bed46ac231fbdbe39ea3202bd54cf9390d81",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/g/gzip-1.12-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "gzip-0__1.12-1.el9.x86_64",
-    sha256 = "e8d7783c666a58ab870246b04eb0ea22965123fe284697d2c0e1e6dbf10ea861",
+    sha256 = "cd22e3e9e04436c7463f0fd1cb44c816421fd62bd17336081a7453fd646a5c29",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/gzip-1.12-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e8d7783c666a58ab870246b04eb0ea22965123fe284697d2c0e1e6dbf10ea861",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/g/gzip-1.12-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "hexedit-0__1.6-1.el9.x86_64",
-    sha256 = "8c0781f044f9e45329cfc0f4c7d7acd65c9f779b34816c205279f977919e856f",
+    sha256 = "ef81ba195321df0668abd24e96af92815a0f76a4b98dbf7558f21b7daebf5e8c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/hexedit-1.6-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/8c0781f044f9e45329cfc0f4c7d7acd65c9f779b34816c205279f977919e856f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/h/hexedit-1.6-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "hivex-libs-0__1.3.21-3.el9.x86_64",
-    sha256 = "3b0b567737f8a78e9264a07f935b25098f505d2b46653dba944919da85020ef7",
+    sha256 = "3204db0bf220ffa122b53cf2c9d93972f837576de92ac730eb5b119abaad7092",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/hivex-libs-1.3.21-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3b0b567737f8a78e9264a07f935b25098f505d2b46653dba944919da85020ef7",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/h/hivex-libs-1.3.21-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "hwdata-0__0.348-9.11.el9.x86_64",
-    sha256 = "3794c5c7bef966008bd42baff1262a7715b5b419b0fb92cd9e704acbb8f2e919",
+    sha256 = "4b8a9276c81624fde2fac347d634aea930bfd65208f1c4e0281590583f609e10",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/hwdata-0.348-9.11.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/3794c5c7bef966008bd42baff1262a7715b5b419b0fb92cd9e704acbb8f2e919",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/h/hwdata-0.348-9.11.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "iproute-0__6.2.0-5.el9.aarch64",
-    sha256 = "56f200e0a4edcc6865573c6c043be407001d6fe6dfbc43c5053ee9c7d2e5d9da",
+    sha256 = "22533c1ac4547889c0acf6c038a314a066d68453142111ba51e6120f79d341a3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/iproute-6.2.0-5.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/56f200e0a4edcc6865573c6c043be407001d6fe6dfbc43c5053ee9c7d2e5d9da",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/i/iproute-6.2.0-5.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "iproute-0__6.2.0-5.el9.x86_64",
-    sha256 = "d7656f7f1694cec4ea6747bb745a4949cd2a24b037663ce02f5027454163b215",
+    sha256 = "e1699f39ebbc39c3f10e948ede1fc1c966b3825ce5a54d05036ac79cb729806c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/iproute-6.2.0-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d7656f7f1694cec4ea6747bb745a4949cd2a24b037663ce02f5027454163b215",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/i/iproute-6.2.0-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "iproute-tc-0__6.2.0-5.el9.aarch64",
-    sha256 = "7b44f9e06333070bb339a2af71e26ec3f9c257ff363b4efcb41a4ec3bbeffaad",
+    sha256 = "151dcb0590ff277b9b5ec3e016efc59383a12c2d1734076e3daee950075b3061",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/iproute-tc-6.2.0-5.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/7b44f9e06333070bb339a2af71e26ec3f9c257ff363b4efcb41a4ec3bbeffaad",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/i/iproute-tc-6.2.0-5.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "iproute-tc-0__6.2.0-5.el9.x86_64",
-    sha256 = "f142c4f355288c3583b2d0fabe71ab447e8c4f03a4b3754c411b21e4e26c8f2b",
+    sha256 = "08d1391d23eff74e0d882b60c12f17d2b24bfb70639339a035d5822a9b406f7b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/iproute-tc-6.2.0-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f142c4f355288c3583b2d0fabe71ab447e8c4f03a4b3754c411b21e4e26c8f2b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/i/iproute-tc-6.2.0-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "iptables-libs-0__1.8.8-6.el9.aarch64",
-    sha256 = "a0572f3b2eddcc18370801fd86bf6e5ed729702b63fadfc032c9855661090639",
+    name = "iptables-libs-0__1.8.8-6.el9_1.aarch64",
+    sha256 = "285a4b5271216bd8090f19a60f105a032070f904fd2f4e29fdf610b481ccaa8e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/iptables-libs-1.8.8-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a0572f3b2eddcc18370801fd86bf6e5ed729702b63fadfc032c9855661090639",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/i/iptables-libs-1.8.8-6.el9_1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "iptables-libs-0__1.8.8-6.el9.x86_64",
-    sha256 = "c1e4ebce15d824604e777993f46b94706239044c81bc5240e9541b1ae93485a5",
+    name = "iptables-libs-0__1.8.8-6.el9_1.x86_64",
+    sha256 = "632d07e8c84edd023c4048b34cd97c2819e7611e7b9a0f9bfd819ba077d381fb",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/iptables-libs-1.8.8-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c1e4ebce15d824604e777993f46b94706239044c81bc5240e9541b1ae93485a5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/i/iptables-libs-1.8.8-6.el9_1.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "iputils-0__20210202-9.el9.aarch64",
-    sha256 = "8adc7b856fb98c268e9f50c572e27dc687fe41d1ea4ff47b1788d2fea90e2b7d",
+    sha256 = "4347585fd7cfabde46f64cb1ea28e9d93f69b924dab56c9cf121eb415e4c5177",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/iputils-20210202-9.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/8adc7b856fb98c268e9f50c572e27dc687fe41d1ea4ff47b1788d2fea90e2b7d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/i/iputils-20210202-9.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "iputils-0__20210202-9.el9.x86_64",
-    sha256 = "9712d85fb1bebbf74dfda41c81f670bf7eb3d548569ce394b8cb46ca0a18cfd9",
+    sha256 = "ea8a95967cb5a4d37f8f09bba64f3b42457707af581c6ef507c45773c3d35f71",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/iputils-20210202-9.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9712d85fb1bebbf74dfda41c81f670bf7eb3d548569ce394b8cb46ca0a18cfd9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/i/iputils-20210202-9.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "ipxe-roms-qemu-0__20200823-9.git4bd064de.el9.x86_64",
-    sha256 = "fa304f6cffa4a84a8aae1e0d2dd10606ffb51b88d9568b7da92ffd63acb14851",
+    sha256 = "571c22893e831cd0b2f5b79611684a4a9b2d7443444188a8b3d24d2f01115f38",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/ipxe-roms-qemu-20200823-9.git4bd064de.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/fa304f6cffa4a84a8aae1e0d2dd10606ffb51b88d9568b7da92ffd63acb14851",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/i/ipxe-roms-qemu-20200823-9.git4bd064de.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "jansson-0__2.14-1.el9.aarch64",
-    sha256 = "23a8033dae909a6b87db199e04ecbc9798820b1b939e12d51733fed4554b9279",
+    sha256 = "19599e87e97cb2a712d84e0afa1af5edc9e77b4d269b917ca8bf751928954e6f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/jansson-2.14-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/23a8033dae909a6b87db199e04ecbc9798820b1b939e12d51733fed4554b9279",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/j/jansson-2.14-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "jansson-0__2.14-1.el9.x86_64",
-    sha256 = "c3fb9f8020f978f9b392709996e62e4ddb6cb19074635af3338487195b688f66",
+    sha256 = "14c82a4e792ab09724a7bd1b7921865d979a07b5eb99b6d11dd35e903dccc156",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/jansson-2.14-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c3fb9f8020f978f9b392709996e62e4ddb6cb19074635af3338487195b688f66",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/j/jansson-2.14-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "json-glib-0__1.6.6-1.el9.aarch64",
-    sha256 = "04a7348a546a972f275a4de34373ad7a937a5a93f4c868dffa47daa31a226243",
+    sha256 = "1f6f5d394e90ad6302c705fa2ecea79fb0fc967f477c147a0e929aad0a6a3249",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/json-glib-1.6.6-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/04a7348a546a972f275a4de34373ad7a937a5a93f4c868dffa47daa31a226243",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/j/json-glib-1.6.6-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "json-glib-0__1.6.6-1.el9.x86_64",
-    sha256 = "d850cb45d31fe84cb50cb1fa26eb5418633aae1f0dcab8b7ebadd3bd3e340956",
+    sha256 = "8d1c6ba76414837da0f34d675512c71503b0ca6c2b3b1dfae6101e2a0b507cee",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/json-glib-1.6.6-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d850cb45d31fe84cb50cb1fa26eb5418633aae1f0dcab8b7ebadd3bd3e340956",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/j/json-glib-1.6.6-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "kernel-headers-0__5.14.0-390.el9.aarch64",
-    sha256 = "e6e2fc336d80aa44fe72230bd0bc14df3e8c9062b6876c597170f6cd53b6a435",
-    urls = ["https://storage.googleapis.com/builddeps/e6e2fc336d80aa44fe72230bd0bc14df3e8c9062b6876c597170f6cd53b6a435"],
+    name = "kernel-headers-0__5.14.0-362.24.1.el9_3.0.1.aarch64",
+    sha256 = "42076b42ccac052cf1494fb3e95b720c3d87b13fe79e99dffc9a28b602ba249b",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/k/kernel-headers-5.14.0-362.24.1.el9_3.0.1.aarch64.rpm",
+    ],
 )
 
 rpm(
-    name = "kernel-headers-0__5.14.0-390.el9.x86_64",
-    sha256 = "13c602c556d2a26dd9bb80a17ae5f01a2640cd32fd273d4a62ed01ff247c8b82",
-    urls = ["https://storage.googleapis.com/builddeps/13c602c556d2a26dd9bb80a17ae5f01a2640cd32fd273d4a62ed01ff247c8b82"],
+    name = "kernel-headers-0__5.14.0-362.24.1.el9_3.0.1.x86_64",
+    sha256 = "d75c8cb621bee6a7c9aa6942b7985fbbda6ea467ed2b183275873bca67b346c3",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/k/kernel-headers-5.14.0-362.24.1.el9_3.0.1.x86_64.rpm",
+    ],
 )
 
 rpm(
     name = "keyutils-0__1.6.3-1.el9.x86_64",
-    sha256 = "bc9b6262006e7722b7936e3d1e5079d7281f96e161bcd0aa93328564a32984bb",
+    sha256 = "1419a90e2ae9546603c2f04d9a7548f80322ff4574c5e77d9be52e51acb98abc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/keyutils-1.6.3-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/bc9b6262006e7722b7936e3d1e5079d7281f96e161bcd0aa93328564a32984bb",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/k/keyutils-1.6.3-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "keyutils-libs-0__1.6.3-1.el9.aarch64",
-    sha256 = "5d97ee3ed28533eb2ea01a6be97696fbbbc72f8178dcf7f1acf30e674a298a6e",
+    sha256 = "7bdf0b6409a983dcb60006c2624a444e8465b12ad3bb8f47f22fa77b532ec74f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/keyutils-libs-1.6.3-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5d97ee3ed28533eb2ea01a6be97696fbbbc72f8178dcf7f1acf30e674a298a6e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/k/keyutils-libs-1.6.3-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "keyutils-libs-0__1.6.3-1.el9.x86_64",
-    sha256 = "aef982501694486a27411c68698886d76ec70c5cd10bfe619501e7e4c36f50a9",
+    sha256 = "347a9d44e0271c1ff6f511fe493e736b3d36fde683360ccc51c852ab91810b16",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/keyutils-libs-1.6.3-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/aef982501694486a27411c68698886d76ec70c5cd10bfe619501e7e4c36f50a9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/k/keyutils-libs-1.6.3-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "kmod-0__28-9.el9.x86_64",
-    sha256 = "0c3073304639c87da92a7217fc61a778595a72c24ea999f941e3cb608f70aad5",
+    sha256 = "129be5c4daa104525e0b3fa8ee7dc9484ec8c02a83b01d885f264cc5e1189fd1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/kmod-28-9.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/0c3073304639c87da92a7217fc61a778595a72c24ea999f941e3cb608f70aad5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/k/kmod-28-9.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "kmod-libs-0__28-9.el9.aarch64",
-    sha256 = "0e51fa74611d31585fb4e665fc4b24b0ff300821d109b3e0116ccdfc54c04789",
+    sha256 = "a50db31a1941b21195ca3b23c77e17c2771f1e5bea8840480c2ba45fc217b5a6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/kmod-libs-28-9.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/0e51fa74611d31585fb4e665fc4b24b0ff300821d109b3e0116ccdfc54c04789",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/k/kmod-libs-28-9.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "kmod-libs-0__28-9.el9.x86_64",
-    sha256 = "319957f8f3abe9b05b4aca442a3c633b36c8974e2dbd87f31ec66885f66e1b88",
+    sha256 = "3aaf53351ef79866f5ff5ace8f6984008846df834a6bde71297479eb6ea96727",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/kmod-libs-28-9.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/319957f8f3abe9b05b4aca442a3c633b36c8974e2dbd87f31ec66885f66e1b88",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/k/kmod-libs-28-9.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "krb5-libs-0__1.21.1-1.el9.aarch64",
-    sha256 = "348c8b97edf3ec258e3b5281af48ac22369bba8b747e0a52de1258578e91c36e",
+    sha256 = "8b3d6b1e789b7320256dc9e943e2aa81483292c7192d7cc757c0d1e2198ff123",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/krb5-libs-1.21.1-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/348c8b97edf3ec258e3b5281af48ac22369bba8b747e0a52de1258578e91c36e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/k/krb5-libs-1.21.1-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "krb5-libs-0__1.21.1-1.el9.x86_64",
-    sha256 = "3ef93138174dc618bbf4680b5df11d27cd6afb361cd02efad8bcbb5bf0769c2e",
+    sha256 = "d3c9a2f4710e7c9020844286cae6a0db36c4061364f0d6ea2bef7c3edd347153",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/krb5-libs-1.21.1-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3ef93138174dc618bbf4680b5df11d27cd6afb361cd02efad8bcbb5bf0769c2e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/k/krb5-libs-1.21.1-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "less-0__590-2.el9.x86_64",
-    sha256 = "de1c6723f43ef77ae0992726210de296731b8f440d74d28ea276e9fd3a1289d6",
+    name = "less-0__590-3.el9_3.x86_64",
+    sha256 = "2cac9b4523396e3b42f25707bc10554bdf1c13085ce03c80d49b0db32d9fecb1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/less-590-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/de1c6723f43ef77ae0992726210de296731b8f440d74d28ea276e9fd3a1289d6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/less-590-3.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libacl-0__2.3.1-4.el9.aarch64",
-    sha256 = "90e4392e312cd793eeba4cd68bd12836a882ac37356c784806d67a0cd1d48c25",
+    name = "libacl-0__2.3.1-3.el9.aarch64",
+    sha256 = "192a8582963dae3e3730a5724378197a8f6c77801603c272a978a78003fa2a34",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libacl-2.3.1-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/90e4392e312cd793eeba4cd68bd12836a882ac37356c784806d67a0cd1d48c25",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libacl-2.3.1-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libacl-0__2.3.1-4.el9.x86_64",
-    sha256 = "60a3affaa1c387fd6f72dd65aa7ad619a1830947823abb4b29e7b9fcb4c9d27c",
+    name = "libacl-0__2.3.1-3.el9.x86_64",
+    sha256 = "5b215deea69f4b6db45c47425741206e49e1f03dc754287e550bb898d62aa68e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libacl-2.3.1-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/60a3affaa1c387fd6f72dd65aa7ad619a1830947823abb4b29e7b9fcb4c9d27c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libacl-2.3.1-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libaio-0__0.3.111-13.el9.aarch64",
-    sha256 = "1730d732818fa2471b5cd461175ceda18e909410db8a32185d8db2aa7461130c",
+    sha256 = "9226b925be54956ee8a529f8e2edfa8a561cb0ec7af426ccd3bab7338c46f45a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libaio-0.3.111-13.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1730d732818fa2471b5cd461175ceda18e909410db8a32185d8db2aa7461130c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libaio-0.3.111-13.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libaio-0__0.3.111-13.el9.x86_64",
-    sha256 = "7d9d4d37e86ba94bb941e2dad40c90a157aaa0602f02f3f90e76086515f439be",
+    sha256 = "f994942469a5554298c520148b4e8a66c3dd2d15bccf9b1aba34535b63edade6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libaio-0.3.111-13.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7d9d4d37e86ba94bb941e2dad40c90a157aaa0602f02f3f90e76086515f439be",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libaio-0.3.111-13.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libarchive-0__3.5.3-4.el9.aarch64",
-    sha256 = "c043954972a8dea0b6cf5d3092c1eee90bb48b3fcb7cedf30aa861dc1d3f402c",
+    sha256 = "bcb0d36802b97bf2a69d91b091b907a68c0280fa6a3e4b72e91d8032281c0d22",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libarchive-3.5.3-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c043954972a8dea0b6cf5d3092c1eee90bb48b3fcb7cedf30aa861dc1d3f402c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libarchive-3.5.3-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libarchive-0__3.5.3-4.el9.x86_64",
-    sha256 = "4c53176eafd8c449aef704b8fbc2d5401bb7d2ea0a67961956f318f2e9a2c7a4",
+    sha256 = "966a1861544e02a311cce7e327b84775b91edcbc2f83676221fed3f23f9ad19d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libarchive-3.5.3-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/4c53176eafd8c449aef704b8fbc2d5401bb7d2ea0a67961956f318f2e9a2c7a4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libarchive-3.5.3-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libasan-0__11.4.1-2.3.el9.aarch64",
-    sha256 = "de0b570c99b5371176a8157d1a7a84a82b5f7f5e0bcd93190d3ebc92994e7cd1",
+    name = "libasan-0__11.4.1-2.1.el9.aarch64",
+    sha256 = "ca95bf45a211c7c84e531a52850f76dfe4ebd6fe5a2e9cec07faac8371fd5394",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libasan-11.4.1-2.3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/de0b570c99b5371176a8157d1a7a84a82b5f7f5e0bcd93190d3ebc92994e7cd1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libasan-11.4.1-2.1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libassuan-0__2.5.5-3.el9.x86_64",
-    sha256 = "3f7ab80145768029619033b31406a9aeef8c8f0d42a0c94ad464d8a3405e12b0",
+    sha256 = "5d5e555c9c4dfbd293acdc0ae739b41e635a2239a2c41ce11aafedd1d1ed54f4",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libassuan-2.5.5-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3f7ab80145768029619033b31406a9aeef8c8f0d42a0c94ad464d8a3405e12b0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libassuan-2.5.5-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libatomic-0__11.4.1-2.3.el9.aarch64",
-    sha256 = "98d89991440bc23aba0696d304109fd474326eb5c17e95ddc124d645f6def2ad",
+    name = "libatomic-0__11.4.1-2.1.el9.aarch64",
+    sha256 = "f3d311b78c8386bbdf01ffc9879e8f93ebe36cb0cb8c3914d05e3759d8eea538",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libatomic-11.4.1-2.3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/98d89991440bc23aba0696d304109fd474326eb5c17e95ddc124d645f6def2ad",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libatomic-11.4.1-2.1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libattr-0__2.5.1-3.el9.aarch64",
-    sha256 = "a0101ccea66aef376f4067c1002ebdfb5dbeeecd334047459b3855eff17a6fda",
+    sha256 = "406cad9db484e7e7ee10f477844a7b7d0659b3ce904e53770c9e5f2347ef5a22",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libattr-2.5.1-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a0101ccea66aef376f4067c1002ebdfb5dbeeecd334047459b3855eff17a6fda",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libattr-2.5.1-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libattr-0__2.5.1-3.el9.x86_64",
-    sha256 = "d4db095a015e84065f27a642ee7829cd1690041ba8c51501f908cc34760c9409",
+    sha256 = "77742a1097d81c384b8c7529e3c049fb7de206b773ad230553be99ba5c9d9fc1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libattr-2.5.1-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d4db095a015e84065f27a642ee7829cd1690041ba8c51501f908cc34760c9409",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libattr-2.5.1-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libbasicobjects-0__0.1.1-53.el9.x86_64",
-    sha256 = "14ce3dd811d88dddc4009c12094cd0e52bbcabe0f2463bdfcc4124c620fb13d5",
+    sha256 = "edd7b31208b80e9f9c94ce54e3f6566cea9b199a3c506387a7ab2a27a3de75da",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libbasicobjects-0.1.1-53.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/14ce3dd811d88dddc4009c12094cd0e52bbcabe0f2463bdfcc4124c620fb13d5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libbasicobjects-0.1.1-53.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libblkid-0__2.37.4-15.el9.aarch64",
-    sha256 = "e7f4f1a30f71feea534a79b3be03d26ae3001c6ececb7b2a5a54371e66deef78",
+    sha256 = "212d9990213bc107e7b3030efcb7e90d47cf98dc43605d495509c7ebae8b1957",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libblkid-2.37.4-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/e7f4f1a30f71feea534a79b3be03d26ae3001c6ececb7b2a5a54371e66deef78",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libblkid-2.37.4-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libblkid-0__2.37.4-15.el9.x86_64",
-    sha256 = "519a372517cb0d466878808afceda7afd95be9278aa67b2dd311a8a886783b77",
+    sha256 = "a1097a80ec78e6a4beb23940b053fc574f1a45a206ad68eac85681145e2923ae",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libblkid-2.37.4-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/519a372517cb0d466878808afceda7afd95be9278aa67b2dd311a8a886783b77",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libblkid-2.37.4-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libbpf-2__1.2.0-1.el9.aarch64",
-    sha256 = "5016490cb170cd073f702a827435a84c1c56faeeabc3c1b273a94e7040f8191d",
+    sha256 = "58b7650252312edb3a085aec9640fdb940fefeb8847f124ff66e3c5e8b456c25",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libbpf-1.2.0-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5016490cb170cd073f702a827435a84c1c56faeeabc3c1b273a94e7040f8191d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libbpf-1.2.0-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libbpf-2__1.2.0-1.el9.x86_64",
-    sha256 = "fcd9d737d25864206da7fd048ebb7e7e011914e7bfda3ae5e8bfa1097d387852",
+    sha256 = "e604488defe248acd769e738a04949a5e08d64a700917ff01d6a31e4c5819554",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libbpf-1.2.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fcd9d737d25864206da7fd048ebb7e7e011914e7bfda3ae5e8bfa1097d387852",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libbpf-1.2.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libbrotli-0__1.0.9-6.el9.x86_64",
-    sha256 = "10b93bc07c62f31b96cbd4141a645880e76a2bc7d7163306ce2cc61a49616202",
+    sha256 = "a7d211e1059231df8d27fa8f340ac47bdef29b016a49d8a482b13a1f5b4f6c89",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libbrotli-1.0.9-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/10b93bc07c62f31b96cbd4141a645880e76a2bc7d7163306ce2cc61a49616202",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libbrotli-1.0.9-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libburn-0__1.5.4-4.el9.aarch64",
-    sha256 = "9a38b538faba01eb3aa59abdbfa05f37705ed6e21cea74fa8cca97f4fe7dad20",
+    sha256 = "9ee070d18903b22fc0ebd9c94d77f0e8cb2bd344efd9f25e608e6cf2fc1a3af4",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libburn-1.5.4-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/9a38b538faba01eb3aa59abdbfa05f37705ed6e21cea74fa8cca97f4fe7dad20",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libburn-1.5.4-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libburn-0__1.5.4-4.el9.x86_64",
-    sha256 = "c6bbbaa269d37d0cd29bdd329bf91096112cff6aa623112d6b3c9b3bb365ebaa",
+    sha256 = "9e09c60e46163d003b03f397578ebbb0a43d4e372e426df617ff9eb71ea7336c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libburn-1.5.4-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c6bbbaa269d37d0cd29bdd329bf91096112cff6aa623112d6b3c9b3bb365ebaa",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libburn-1.5.4-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libcap-0__2.48-9.el9.aarch64",
-    sha256 = "2d78c324f8f8d9a14042995ab6e4c063c7d0a6acec1be07ac0d0d2c1a6de0ca5",
+    name = "libcap-0__2.48-9.el9_2.aarch64",
+    sha256 = "e7b8b5ace872eb354539991f9f6cbd5fbd1fd7fcd230893ef81237c09da27f06",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libcap-2.48-9.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/2d78c324f8f8d9a14042995ab6e4c063c7d0a6acec1be07ac0d0d2c1a6de0ca5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libcap-2.48-9.el9_2.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libcap-0__2.48-9.el9.x86_64",
-    sha256 = "7d07ec8a6a0975d84c66adf21c885c41a5571ecb631055959265c60fda314111",
+    name = "libcap-0__2.48-9.el9_2.x86_64",
+    sha256 = "f399db0064e09ccf71d9a395454fefb1ca38076f18fac9e08104816bd9324c32",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libcap-2.48-9.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7d07ec8a6a0975d84c66adf21c885c41a5571ecb631055959265c60fda314111",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libcap-2.48-9.el9_2.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libcap-ng-0__0.8.2-7.el9.aarch64",
-    sha256 = "1dfa7208abe1af5522523cabdabb73783ed1df4424dc8846eab8a570d010deaa",
+    sha256 = "72cb3896e98585a904913bdeed7ad858faeddd12639969640d1e7616a132cd8b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libcap-ng-0.8.2-7.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1dfa7208abe1af5522523cabdabb73783ed1df4424dc8846eab8a570d010deaa",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libcap-ng-0.8.2-7.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libcap-ng-0__0.8.2-7.el9.x86_64",
-    sha256 = "62429b788acfb40dbc9da9951690c11e907e230879c790d139f73d0e85dd76f4",
+    sha256 = "eb8a42e8ac59905dfa2aa1530e4fb7a0b994ff4ae5ee79dd4557f972f1316ae8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libcap-ng-0.8.2-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/62429b788acfb40dbc9da9951690c11e907e230879c790d139f73d0e85dd76f4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libcap-ng-0.8.2-7.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libcollection-0__0.7.0-53.el9.x86_64",
-    sha256 = "07c24fc00d1fd088a7f2b16b6cf70b781aed6ed682f11c4bce3ab76cf56707fd",
+    sha256 = "f0be13d05591f229b7cdbf0bcd55b43705d3aeb4fe9ca1925a408fa8a34f2361",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libcollection-0.7.0-53.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/07c24fc00d1fd088a7f2b16b6cf70b781aed6ed682f11c4bce3ab76cf56707fd",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libcollection-0.7.0-53.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libcom_err-0__1.46.5-4.el9.aarch64",
-    sha256 = "87f49066525646dd5afe6df055e0836e821c5f298dd10a3cfbcd4ef914ad990a",
+    name = "libcom_err-0__1.46.5-3.el9.aarch64",
+    sha256 = "7f462468601c9e26ec920ff4a73d16079e6b551cf500aab4f4c4906b61885b93",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libcom_err-1.46.5-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/87f49066525646dd5afe6df055e0836e821c5f298dd10a3cfbcd4ef914ad990a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libcom_err-1.46.5-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libcom_err-0__1.46.5-4.el9.x86_64",
-    sha256 = "5f9f13137f356f0122caa962dcc0839948584b804f62282a28fcfb1c3d6af549",
+    name = "libcom_err-0__1.46.5-3.el9.x86_64",
+    sha256 = "26b79a65d0f19b95c949e9bb06bbabbea995e78480a6581deae3cf608dd20d42",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libcom_err-1.46.5-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/5f9f13137f356f0122caa962dcc0839948584b804f62282a28fcfb1c3d6af549",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libcom_err-1.46.5-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libconfig-0__1.7.2-9.el9.x86_64",
-    sha256 = "e0d4d2cf8215404750c3975a19e2b7cd2c9e9e1e5c539d3fd93532775fd2ed16",
+    sha256 = "1ced0126719ae86c4b5360ab303e23eb9dee4dcf68dfc8dc51625de081fd1121",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libconfig-1.7.2-9.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e0d4d2cf8215404750c3975a19e2b7cd2c9e9e1e5c539d3fd93532775fd2ed16",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libconfig-1.7.2-9.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libcurl-minimal-0__7.76.1-28.el9.aarch64",
-    sha256 = "1b32cdc10a287a9cc77655f5a4ba25a3ddc5ca9635640cc1a5644bd91c1152a1",
+    name = "libcurl-minimal-0__7.76.1-26.el9_3.3.aarch64",
+    sha256 = "ab56aceed3c189bfdfbaa0843ceb895b1cf56eacb883a57eced056c0ba8434dc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libcurl-minimal-7.76.1-28.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1b32cdc10a287a9cc77655f5a4ba25a3ddc5ca9635640cc1a5644bd91c1152a1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libcurl-minimal-7.76.1-26.el9_3.3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libcurl-minimal-0__7.76.1-28.el9.x86_64",
-    sha256 = "c3b6c5681713e3475f2b652e631cc2f6d9893004219121bb6a571bd04fc48906",
+    name = "libcurl-minimal-0__7.76.1-26.el9_3.3.x86_64",
+    sha256 = "c3808b3ff92bdc8ac6be6291b9727f35714ea016c241eca1e18f085aedb03955",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libcurl-minimal-7.76.1-28.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c3b6c5681713e3475f2b652e631cc2f6d9893004219121bb6a571bd04fc48906",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libcurl-minimal-7.76.1-26.el9_3.3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libdb-0__5.3.28-53.el9.aarch64",
-    sha256 = "65a5743728c6c331dd8aadc9b51f261f90ffa47ffd0cfb448da8bdf28af6dd77",
+    sha256 = "e0886b0fc3e86a8d8185e626d30875f20db698ffd5749e3060b4872e7bfc6b31",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libdb-5.3.28-53.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/65a5743728c6c331dd8aadc9b51f261f90ffa47ffd0cfb448da8bdf28af6dd77",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libdb-5.3.28-53.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libdb-0__5.3.28-53.el9.x86_64",
-    sha256 = "3a44d15d695944bde4e7290800b815f98bfd9cd6f6f868cec3e8991606f556d5",
+    sha256 = "4c87bc54f960cf432c39f575a3d77109187e8a07fc1ecf535d719c52c72f87bd",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libdb-5.3.28-53.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3a44d15d695944bde4e7290800b815f98bfd9cd6f6f868cec3e8991606f556d5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libdb-5.3.28-53.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libeconf-0__0.4.1-3.el9.aarch64",
-    sha256 = "f2a26663f33189999b437c769bcd3069a3e919b4590c62edaac706fdb32654f5",
+    name = "libeconf-0__0.4.1-3.el9_2.aarch64",
+    sha256 = "372fa7f3fd15dfbe493ce2104966de6ae11bb4b8719b7a133104112a1eab2214",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libeconf-0.4.1-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f2a26663f33189999b437c769bcd3069a3e919b4590c62edaac706fdb32654f5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libeconf-0.4.1-3.el9_2.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libeconf-0__0.4.1-3.el9.x86_64",
-    sha256 = "841f2f5822dafc227f1eb70f4549fb382b326440fd22dc655dcbb37c843b1320",
+    name = "libeconf-0__0.4.1-3.el9_2.x86_64",
+    sha256 = "c6a90589c000b1a51da97558b1d16a7bc8ad40ea309ca4e57fddf2c50e80edc7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libeconf-0.4.1-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/841f2f5822dafc227f1eb70f4549fb382b326440fd22dc655dcbb37c843b1320",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libeconf-0.4.1-3.el9_2.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libev-0__4.33-5.el9.x86_64",
-    sha256 = "9ee87c7d34e341bc7b136125ef5f1429a0b5fadaffcf888ab896b2c62c2b4e8d",
+    sha256 = "fdba7a4e8932746b17b246c9c169eceaf95a36671fcf1580b31c4001ebd16177",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libev-4.33-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9ee87c7d34e341bc7b136125ef5f1429a0b5fadaffcf888ab896b2c62c2b4e8d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libev-4.33-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libevent-0__2.1.12-6.el9.aarch64",
-    sha256 = "5ff00c047204190e3b2ee19f81d644c8f82ea7e8d1f36fdaaf6483f0fa3b3339",
+    sha256 = "804e0489c650a64e644931734efe6ec98dcccae5902a1fc2d90fc0e8b64d8e5b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libevent-2.1.12-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5ff00c047204190e3b2ee19f81d644c8f82ea7e8d1f36fdaaf6483f0fa3b3339",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libevent-2.1.12-6.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libevent-0__2.1.12-6.el9.x86_64",
-    sha256 = "82179f6f214ddf523e143c16c3474ccf8832551c6305faf89edfbd83b3424d48",
+    sha256 = "4d104f653aa702ba18bc45f5bd4b1f2853b70a8c1cdd64c255570570d20ca91d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libevent-2.1.12-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/82179f6f214ddf523e143c16c3474ccf8832551c6305faf89edfbd83b3424d48",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libevent-2.1.12-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libfdisk-0__2.37.4-15.el9.aarch64",
-    sha256 = "471af108df2956f60540f1b87f2f274906f564e9871b625940549a1b25d3adef",
+    sha256 = "8275883d67bcd98121552b5959ffb033cd7258607d9429e2d56e09d5296ccd0b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libfdisk-2.37.4-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/471af108df2956f60540f1b87f2f274906f564e9871b625940549a1b25d3adef",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libfdisk-2.37.4-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libfdisk-0__2.37.4-15.el9.x86_64",
-    sha256 = "56ce4611076497f779467d631ec855a465a559c243635f9531eb365810e2eff5",
+    sha256 = "f142e06d203fe3de7338c552a7ca98fb50fbf093d78a953ed30524d62201e7c0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libfdisk-2.37.4-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/56ce4611076497f779467d631ec855a465a559c243635f9531eb365810e2eff5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libfdisk-2.37.4-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libfdt-0__1.6.0-7.el9.aarch64",
-    sha256 = "19cd82e2bbdd6254169b267e645564acd0911e02fafaf6e3ad9893cd1f9d3d67",
+    sha256 = "318ad1b9c8b26501b61b4112a98c877161b42ff1d4bb56b6bf87d04d90f9ff56",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libfdt-1.6.0-7.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/19cd82e2bbdd6254169b267e645564acd0911e02fafaf6e3ad9893cd1f9d3d67",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libfdt-1.6.0-7.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libfdt-0__1.6.0-7.el9.x86_64",
-    sha256 = "a071b9d517505a2ff8642de7ac094faa689b96122c0a3e9ce86933aa1dea525f",
+    sha256 = "f42aef8f779f79c3fdf5767a93e6949e77af7108e6afcd0da9a3dc8596a67366",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libfdt-1.6.0-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a071b9d517505a2ff8642de7ac094faa689b96122c0a3e9ce86933aa1dea525f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libfdt-1.6.0-7.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libffi-0__3.4.2-8.el9.aarch64",
-    sha256 = "da6d3f1b21c23a97e61c35fde044aca5bc9f1097ffdcb387759f544c61548301",
+    sha256 = "1a6fe133eab781288e5ecef0cdde627d57f7d67efb3ded23ec5d9e5a22fb6ab4",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libffi-3.4.2-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/da6d3f1b21c23a97e61c35fde044aca5bc9f1097ffdcb387759f544c61548301",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libffi-3.4.2-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libffi-0__3.4.2-8.el9.x86_64",
-    sha256 = "110d5008364a65b38b832949970886fdccb97762b0cdb257571cc0c84182d7d0",
+    sha256 = "1bdb4b3b047169bc728c2612b71c31b79bb6f823f50134629bf650dcbf21565a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libffi-3.4.2-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/110d5008364a65b38b832949970886fdccb97762b0cdb257571cc0c84182d7d0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libffi-3.4.2-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libgcc-0__11.4.1-2.3.el9.aarch64",
-    sha256 = "ba345e53a3ffaa517bdf01654e3c835fcda21513aca95e04b5d830f36b2b4210",
+    name = "libgcc-0__11.4.1-2.1.el9.aarch64",
+    sha256 = "00ecd6bf517f1a30d038be0e9554bbf80e80bc34d75b871fb08ccf6c59bd82d8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libgcc-11.4.1-2.3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ba345e53a3ffaa517bdf01654e3c835fcda21513aca95e04b5d830f36b2b4210",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libgcc-11.4.1-2.1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libgcc-0__11.4.1-2.3.el9.x86_64",
-    sha256 = "f73077d3a4de0a4899bc3b4cc0389b5cd040cc0e39bd7357b960d5858f4111a4",
+    name = "libgcc-0__11.4.1-2.1.el9.x86_64",
+    sha256 = "b7b76557bbcdb90b88756a3ab9d1f7e441169d0670c3e7aaeba0b370cfa32e27",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libgcc-11.4.1-2.3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f73077d3a4de0a4899bc3b4cc0389b5cd040cc0e39bd7357b960d5858f4111a4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libgcc-11.4.1-2.1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libgcrypt-0__1.10.0-10.el9.aarch64",
-    sha256 = "b5a90cb5a86ee956da8439362d8547342f240e71674e4703d87f27736dbede14",
+    name = "libgcrypt-0__1.10.0-10.el9_2.aarch64",
+    sha256 = "cd317ea959dd8dedce41d3f08ed96210b5a0f25287a029565fe4cb0c6ac0419a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libgcrypt-1.10.0-10.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/b5a90cb5a86ee956da8439362d8547342f240e71674e4703d87f27736dbede14",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libgcrypt-1.10.0-10.el9_2.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libgcrypt-0__1.10.0-10.el9.x86_64",
-    sha256 = "186ae69a1f72d3992f2f65a4cc91da856a54475f4762a69f3b5ca5d350e7edb3",
+    name = "libgcrypt-0__1.10.0-10.el9_2.x86_64",
+    sha256 = "edc9b3c4f250cbd1601f0163ea23cbed7a4d8af5e995d4a906122686ddca3cf8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libgcrypt-1.10.0-10.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/186ae69a1f72d3992f2f65a4cc91da856a54475f4762a69f3b5ca5d350e7edb3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libgcrypt-1.10.0-10.el9_2.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libgomp-0__11.4.1-2.3.el9.aarch64",
-    sha256 = "7d52d4d5dc1cf88dae7aadbca77847b37f4da22a9864a9f365a79378320e0fde",
+    name = "libgomp-0__11.4.1-2.1.el9.aarch64",
+    sha256 = "28d8ca8fe39b0d08dff4c08cd25dbb4fef3b428883743363a102b21a4498ab24",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libgomp-11.4.1-2.3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/7d52d4d5dc1cf88dae7aadbca77847b37f4da22a9864a9f365a79378320e0fde",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libgomp-11.4.1-2.1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libgomp-0__11.4.1-2.3.el9.x86_64",
-    sha256 = "40d9cb2ff571d2fb7198d9daef43ac24a3785c848e472d5fdca5fb48d879559d",
+    name = "libgomp-0__11.4.1-2.1.el9.x86_64",
+    sha256 = "30162ca942318894a4318db1a568a28ce3366ab0e2111d8c882aaf7f464b0c98",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libgomp-11.4.1-2.3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/40d9cb2ff571d2fb7198d9daef43ac24a3785c848e472d5fdca5fb48d879559d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libgomp-11.4.1-2.1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libgpg-error-0__1.42-5.el9.aarch64",
-    sha256 = "ffeb04823b5317c7e016542c8ecc5180c7824f8b59a180f2434fd096a34a9105",
+    sha256 = "e22037efb56a2856af7ee66c0e6a590a5047357e7cfe303abc6a23a53753eb28",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libgpg-error-1.42-5.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ffeb04823b5317c7e016542c8ecc5180c7824f8b59a180f2434fd096a34a9105",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libgpg-error-1.42-5.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libgpg-error-0__1.42-5.el9.x86_64",
-    sha256 = "a1883804c376f737109f4dff06077d1912b90150a732d11be7bc5b3b67e512fe",
+    sha256 = "7d48fb4ca1e935a491cb02a85abdd5b91b329168962c1b11ca434c2b80c079fa",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libgpg-error-1.42-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a1883804c376f737109f4dff06077d1912b90150a732d11be7bc5b3b67e512fe",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libgpg-error-1.42-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libguestfs-1__1.50.1-6.el9.x86_64",
-    sha256 = "ac7bec669c7bdf784282859c375ca52b53ae64305b1128a8d199928cb029e3da",
+    sha256 = "43be760e56bd157f4b3ecae551837b84cd48d64f25fbf925a6c07a846e2acaad",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libguestfs-1.50.1-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ac7bec669c7bdf784282859c375ca52b53ae64305b1128a8d199928cb029e3da",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libguestfs-1.50.1-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libibverbs-0__48.0-1.el9.aarch64",
-    sha256 = "5f85296684806de9ed577220f4cfc778b049d4a48715e6520896d516a1e14586",
+    name = "libibverbs-0__46.0-1.el9.aarch64",
+    sha256 = "52b719b0e9bb87c2651182bc2345c16703f42a361c5a1bf6c20f68d8a787be0b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libibverbs-48.0-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5f85296684806de9ed577220f4cfc778b049d4a48715e6520896d516a1e14586",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libibverbs-46.0-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libibverbs-0__48.0-1.el9.x86_64",
-    sha256 = "850a669ba4eeb9c46f897e657b68cbf7b34a8a4cc837b2fab5cbf8f1fffc737d",
+    name = "libibverbs-0__46.0-1.el9.x86_64",
+    sha256 = "877d9bfb11067dc5b4027a8cdc96287a59382c07c04cffcb01aa35fa5a05eaf6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libibverbs-48.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/850a669ba4eeb9c46f897e657b68cbf7b34a8a4cc837b2fab5cbf8f1fffc737d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libibverbs-46.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libidn2-0__2.3.0-7.el9.aarch64",
-    sha256 = "6ed96112059449aa37b99d4d4e3b5d089c34afefbd9b618691bed8c206c4d441",
+    sha256 = "0832f2067447fb0485ba5220919a926694930006f19e098694e5274d56b6aadc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libidn2-2.3.0-7.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6ed96112059449aa37b99d4d4e3b5d089c34afefbd9b618691bed8c206c4d441",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libidn2-2.3.0-7.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libidn2-0__2.3.0-7.el9.x86_64",
-    sha256 = "f7fa1ad2fcd86beea5d4d965994c21dc98f47871faff14f73940190c754ab244",
+    sha256 = "be32d8ba7ff8cf790c15d89c5ea18747d7fcc0126782a0e80f15901bb9889b31",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libidn2-2.3.0-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f7fa1ad2fcd86beea5d4d965994c21dc98f47871faff14f73940190c754ab244",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libidn2-2.3.0-7.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libini_config-0__1.3.1-53.el9.x86_64",
-    sha256 = "fb7dbaeb7c172663cab3029c4efaf80230bcba4abf1604cc6cc00993b5d9659e",
+    sha256 = "dfced8fe94a782708450c988017e52d2b8b7b69a77d81929cf4d06c913cb4f60",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libini_config-1.3.1-53.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fb7dbaeb7c172663cab3029c4efaf80230bcba4abf1604cc6cc00993b5d9659e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libini_config-1.3.1-53.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libisoburn-0__1.5.4-4.el9.aarch64",
-    sha256 = "73b53499b7cd070a899a202385ca3da1ae37e7bb65123767e6d74dbb432f7a08",
+    sha256 = "38d98ae204a36cb4b1c76d660a2d2432b258730000ee33fb8b87b5bc9d513543",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libisoburn-1.5.4-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/73b53499b7cd070a899a202385ca3da1ae37e7bb65123767e6d74dbb432f7a08",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libisoburn-1.5.4-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libisoburn-0__1.5.4-4.el9.x86_64",
-    sha256 = "922f3d45899dfdcebf4cc9b5b82f31be240f76098ffbdbcb3291b4a77dcbbab7",
+    sha256 = "4f9ec7761f21fc7aba9c684e1b8a8bee935fc1c3b0aed21928de898360ce0705",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libisoburn-1.5.4-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/922f3d45899dfdcebf4cc9b5b82f31be240f76098ffbdbcb3291b4a77dcbbab7",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libisoburn-1.5.4-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libisofs-0__1.5.4-4.el9.aarch64",
-    sha256 = "0f4c8376add266f01328ea001c580ef9258c0ce39c26906226871c934a159e88",
+    sha256 = "022139ad2ace8d0eebac2dffc041de7372290d77f16d7c51e2d65e2ea4555b5f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libisofs-1.5.4-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/0f4c8376add266f01328ea001c580ef9258c0ce39c26906226871c934a159e88",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libisofs-1.5.4-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libisofs-0__1.5.4-4.el9.x86_64",
-    sha256 = "78abca0dc6134189106ff550986cc059dc0edea129e572a742d2cc0b934c2d13",
+    sha256 = "725117022cf12d2d090cbaafa47e1402b3f43b699e6ab87ed4e9c890e09dc86d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libisofs-1.5.4-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/78abca0dc6134189106ff550986cc059dc0edea129e572a742d2cc0b934c2d13",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libisofs-1.5.4-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libksba-0__1.5.1-6.el9.x86_64",
-    sha256 = "ff76d9798e2f040fed715968a9e67f6d5cfef59671e07575fc8d6510126b5340",
+    name = "libksba-0__1.5.1-6.el9_1.x86_64",
+    sha256 = "5cd9485fd835a0983a721ec5fa85a17465ded2db2f90b4c8c567a71a2a97861f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libksba-1.5.1-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ff76d9798e2f040fed715968a9e67f6d5cfef59671e07575fc8d6510126b5340",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libksba-1.5.1-6.el9_1.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libmnl-0__1.0.4-15.el9.aarch64",
-    sha256 = "a3e80b22d57f0e2843e37eee0440a9bae92e4a0cbe75b13520be7616afd70e78",
+    sha256 = "96714cf501170116bb9d3f56edb8829022b827ba3b16808fdc8af789a66f379a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libmnl-1.0.4-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a3e80b22d57f0e2843e37eee0440a9bae92e4a0cbe75b13520be7616afd70e78",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libmnl-1.0.4-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libmnl-0__1.0.4-15.el9.x86_64",
-    sha256 = "a70fdda85cd771ef5bf5b17c2996e4ff4d21c2e5b1eece1764a87f12e720ab68",
+    sha256 = "6b354c7666726cef879d94bb80b937da271fc0156d993dc3f1a28aae6055e38a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libmnl-1.0.4-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a70fdda85cd771ef5bf5b17c2996e4ff4d21c2e5b1eece1764a87f12e720ab68",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libmnl-1.0.4-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libmount-0__2.37.4-15.el9.aarch64",
-    sha256 = "09cb345eba67be22dd50a87b5232c41ed6da5b7a13bff57f8d951a69d9dc4196",
+    sha256 = "43917409ba273affd23a35abdbd6df3d5aaf757c4b366e60ad420277101bd760",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libmount-2.37.4-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/09cb345eba67be22dd50a87b5232c41ed6da5b7a13bff57f8d951a69d9dc4196",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libmount-2.37.4-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libmount-0__2.37.4-15.el9.x86_64",
-    sha256 = "b615d8c2fe67089c91025f48c700986c5cb62298e3ed58dbfc3c188af4e77a96",
+    sha256 = "ed28d822a671709c442f13083f6f10f1166617bc6bd9d6cf222b65f0125d8cdc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libmount-2.37.4-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b615d8c2fe67089c91025f48c700986c5cb62298e3ed58dbfc3c188af4e77a96",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libmount-2.37.4-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libmpc-0__1.2.1-4.el9.aarch64",
-    sha256 = "489bd89037b1a77d696e391315c740f185e6447aacdb1d7fe84b411491c34b88",
+    sha256 = "5426e7bb9676b4cab08fe1e0a23a48a8cd49ba883f54b7434245f1a9dd2cd8c6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libmpc-1.2.1-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/489bd89037b1a77d696e391315c740f185e6447aacdb1d7fe84b411491c34b88",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libmpc-1.2.1-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libmpc-0__1.2.1-4.el9.x86_64",
-    sha256 = "207e758fadd4779cb11b91a78446f098d0a95b782f30a24c0e998fe08e2561df",
+    sha256 = "c4def74fc686113748590ce9bc8591092947be804650ef56aa161e049660273e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libmpc-1.2.1-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/207e758fadd4779cb11b91a78446f098d0a95b782f30a24c0e998fe08e2561df",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libmpc-1.2.1-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libnetfilter_conntrack-0__1.0.9-1.el9.aarch64",
-    sha256 = "6871a3371b5a9a8239606efd453b59b274040e9d8d8f0c18bdffa7264db64264",
+    sha256 = "8f5469b0207d1ae91b84697c98da3cd62ab4d86e58a1f63bfaad28015bf9992f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libnetfilter_conntrack-1.0.9-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6871a3371b5a9a8239606efd453b59b274040e9d8d8f0c18bdffa7264db64264",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libnetfilter_conntrack-1.0.9-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libnetfilter_conntrack-0__1.0.9-1.el9.x86_64",
-    sha256 = "f81a0188964268ae9e1d53d99dba3ef96a65fe2fb00bc8fe6c39cedfdd364f44",
+    sha256 = "162fdb1bfe7217bd77f06c19ccf45b274136b434101838ddcafff638fd83cf62",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libnetfilter_conntrack-1.0.9-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f81a0188964268ae9e1d53d99dba3ef96a65fe2fb00bc8fe6c39cedfdd364f44",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libnetfilter_conntrack-1.0.9-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libnfnetlink-0__1.0.1-21.el9.aarch64",
-    sha256 = "682c4cca565ce483ff0749dbb39b154bc080ac531c418d05890e454114c11821",
+    sha256 = "e2b2a93e9cc0ee6e0dd1e699a15766fbec7b2151fb1476c501444988b965ec1b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libnfnetlink-1.0.1-21.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/682c4cca565ce483ff0749dbb39b154bc080ac531c418d05890e454114c11821",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libnfnetlink-1.0.1-21.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libnfnetlink-0__1.0.1-21.el9.x86_64",
-    sha256 = "64f54f412cc0ee6fe82be7557f471a06f6bf1f5bba1d6fe0ad1879e5a62d7c95",
+    sha256 = "06c030f4de5409a9df1df77bd434a3cb25574d36b7b97359e8cc9439f77adca8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libnfnetlink-1.0.1-21.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/64f54f412cc0ee6fe82be7557f471a06f6bf1f5bba1d6fe0ad1879e5a62d7c95",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libnfnetlink-1.0.1-21.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libnfsidmap-1__2.5.4-20.el9.x86_64",
-    sha256 = "bf64d740ff8bbc0c7a9a703425e1d77abe3715211b7517ce537b7b8b04369dcd",
+    sha256 = "c4af8bfa00cce2a5f0eebb64e39296e81880c31bc4ddfe9439c51d444c549163",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libnfsidmap-2.5.4-20.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/bf64d740ff8bbc0c7a9a703425e1d77abe3715211b7517ce537b7b8b04369dcd",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libnfsidmap-2.5.4-20.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libnftnl-0__1.2.2-1.el9.aarch64",
-    sha256 = "6e2dac1414db86b13f0efbca18bd0128a122ba2b814faed1bce309200304cc86",
+    sha256 = "3e064d1477cf8c696da0dacf435c14769e7fd9f05c4fcfb2192ab4c228041ae6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libnftnl-1.2.2-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6e2dac1414db86b13f0efbca18bd0128a122ba2b814faed1bce309200304cc86",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libnftnl-1.2.2-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libnftnl-0__1.2.2-1.el9.x86_64",
-    sha256 = "fd75863a6dd1be0e7f1b7eed3e5f13a0efead33ba9bb05b0f8430574aa804783",
+    sha256 = "07369f9b69f26a5166bd1ca1af4fef63b77953db3f3556138469129af5f79ffb",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libnftnl-1.2.2-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fd75863a6dd1be0e7f1b7eed3e5f13a0efead33ba9bb05b0f8430574aa804783",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libnftnl-1.2.2-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libnghttp2-0__1.43.0-5.el9.1.aarch64",
-    sha256 = "2b28e209b129695925e2be8c0596908c8c2938c5f21d12119c800248475c1d89",
+    name = "libnghttp2-0__1.43.0-5.el9_3.1.aarch64",
+    sha256 = "7e1f1bab734a2d6f7e01e0d20ac7fddaaf64bb1b8c8beb78d7f78270cb5ccd3c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libnghttp2-1.43.0-5.el9.1.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/2b28e209b129695925e2be8c0596908c8c2938c5f21d12119c800248475c1d89",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libnghttp2-1.43.0-5.el9_3.1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libnghttp2-0__1.43.0-5.el9.1.x86_64",
-    sha256 = "d79218ac6dc81efdfd88664af860e47f1cc07f7761f180e8c48155e80ae7e087",
+    name = "libnghttp2-0__1.43.0-5.el9_3.1.x86_64",
+    sha256 = "fff8c687acf6662d48fd267ebad37750e2dd015a821a2c1f8d54a47282ff7462",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libnghttp2-1.43.0-5.el9.1.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d79218ac6dc81efdfd88664af860e47f1cc07f7761f180e8c48155e80ae7e087",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libnghttp2-1.43.0-5.el9_3.1.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libnl3-0__3.7.0-1.el9.aarch64",
-    sha256 = "5f8ede2ff552132a369b43e7babfd5e08e0dc46b5c659a665f188dc497cb0415",
+    sha256 = "91676bf7373a2f665daf7fc28a5d0f9a6feea8926ec773732c0177ea1629094c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libnl3-3.7.0-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5f8ede2ff552132a369b43e7babfd5e08e0dc46b5c659a665f188dc497cb0415",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libnl3-3.7.0-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libnl3-0__3.7.0-1.el9.x86_64",
-    sha256 = "8abf9bf3f62df66aeed157fc9f9494a2ea792eb11eb221caa17ce7f97330a2f3",
+    sha256 = "386a38e80506f462322a0b6f5ad339a3c0919546cf7b73c0d1105ca50d94a994",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libnl3-3.7.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/8abf9bf3f62df66aeed157fc9f9494a2ea792eb11eb221caa17ce7f97330a2f3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libnl3-3.7.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libosinfo-0__1.10.0-1.el9.x86_64",
-    sha256 = "ace3a92175ee1be1f5c3a1d31bd702c49076eea7f4d6e859fc301832424d3dc9",
+    sha256 = "97e51c58fc9cb62d715781d2067567563e398733ec62ab5b2d7ef60e386d67d0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libosinfo-1.10.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ace3a92175ee1be1f5c3a1d31bd702c49076eea7f4d6e859fc301832424d3dc9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libosinfo-1.10.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libpath_utils-0__0.2.1-53.el9.x86_64",
-    sha256 = "0a2519647ef22df7c975fa2851da713e67361ff33f2bff05f91cb588b2722772",
+    sha256 = "535183c58a000fc1202e43e887b7fc1d7ab664e63723627351d5a805baa177e8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libpath_utils-0.2.1-53.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/0a2519647ef22df7c975fa2851da713e67361ff33f2bff05f91cb588b2722772",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libpath_utils-0.2.1-53.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libpcap-14__1.10.0-4.el9.aarch64",
-    sha256 = "c1827185bde78c34817a75c79522963c76cd07585eeeb6961e58c6ddadc69333",
+    sha256 = "a933a0dbf6a88f1a791569e2fe29215e1b6b454a59e68c265bb86b8a20f9412a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libpcap-1.10.0-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c1827185bde78c34817a75c79522963c76cd07585eeeb6961e58c6ddadc69333",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libpcap-1.10.0-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libpcap-14__1.10.0-4.el9.x86_64",
-    sha256 = "c76c9887f6b9d218300b24f1adee1b0d9104d25152df3fcd005002d12e12399e",
+    sha256 = "ae2670f1a65e4b470302a53dde76899123d607555aba7a207e72d1584f2f42b8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libpcap-1.10.0-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c76c9887f6b9d218300b24f1adee1b0d9104d25152df3fcd005002d12e12399e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libpcap-1.10.0-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libpkgconf-0__1.7.3-10.el9.aarch64",
-    sha256 = "ad86227404ab0df04f1b98f74921a77c4068251da74067d3633cc1c43fee4a9b",
+    sha256 = "646d93ac13091c1399d80942e632af5d1d0bcb29c83ece4968aa3e79b1f36880",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libpkgconf-1.7.3-10.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ad86227404ab0df04f1b98f74921a77c4068251da74067d3633cc1c43fee4a9b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libpkgconf-1.7.3-10.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libpkgconf-0__1.7.3-10.el9.x86_64",
-    sha256 = "2dc8b201f4e24ca65fe6389fec8901eb84d48519cc44a6b0e474d7859370f389",
+    sha256 = "85df83111841ea9501653408fd86828da263365f8152ac56d92f01940e38519e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libpkgconf-1.7.3-10.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/2dc8b201f4e24ca65fe6389fec8901eb84d48519cc44a6b0e474d7859370f389",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libpkgconf-1.7.3-10.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libpmem-0__1.12.1-1.el9.x86_64",
-    sha256 = "5377dcb3b4ca48eb056a998d3a684eb68e8d059e2a26844cda8535d8f125fc83",
+    sha256 = "7962754be21eb04e0974ad75e199ef8969f03ac20348a0dc3b61d8a59202ac22",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libpmem-1.12.1-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/5377dcb3b4ca48eb056a998d3a684eb68e8d059e2a26844cda8535d8f125fc83",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libpmem-1.12.1-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libpng-2__1.6.37-12.el9.aarch64",
-    sha256 = "99f9eca159e41e315b9fe48ec6c6d1d7a944bd5d8fc0b308aba779a6608b3777",
+    sha256 = "d097557b926ef555cecae507ed55c113a5fae1aa095439cad9c56048c62e7045",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libpng-1.6.37-12.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/99f9eca159e41e315b9fe48ec6c6d1d7a944bd5d8fc0b308aba779a6608b3777",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libpng-1.6.37-12.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libpng-2__1.6.37-12.el9.x86_64",
-    sha256 = "b3f3a689918dc50a9bc41c33abf1a36bdb8e4a707daac77a91e0814407b07ae3",
+    sha256 = "2fb7ea5028fb07380ec2ece9716763cbe4b456a90574e14ddb93180c8c4bc14f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libpng-1.6.37-12.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b3f3a689918dc50a9bc41c33abf1a36bdb8e4a707daac77a91e0814407b07ae3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libpng-1.6.37-12.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libproxy-0__0.4.15-35.el9.x86_64",
-    sha256 = "0042c2dd5a88f7f1db096426bb1f6557e7d790eabca01a086afd832e47217ee1",
+    sha256 = "b5723d56327d929d31efc63d2d746b61a1205269c6dae21d55881bc729a422ec",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libproxy-0.4.15-35.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/0042c2dd5a88f7f1db096426bb1f6557e7d790eabca01a086afd832e47217ee1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libproxy-0.4.15-35.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libpsl-0__0.21.1-5.el9.x86_64",
-    sha256 = "42bd5fb4b34c993c103ea2d47fc69a0fcc231fcfb88646ed55403519868caa94",
+    sha256 = "30553c652451362ebf346a98ff45fa2417dc25a9a644401b4d86d9000c0346a9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libpsl-0.21.1-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/42bd5fb4b34c993c103ea2d47fc69a0fcc231fcfb88646ed55403519868caa94",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libpsl-0.21.1-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libpwquality-0__1.4.4-8.el9.aarch64",
-    sha256 = "3c22a268ce022cb4722aa2d35a95c1174778f424fbf29e98990801651d468aeb",
+    sha256 = "dff22028bc366d71fae19c6eecdd277a873cf7f66fa2b24effc16f8733247aa9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libpwquality-1.4.4-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/3c22a268ce022cb4722aa2d35a95c1174778f424fbf29e98990801651d468aeb",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libpwquality-1.4.4-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libpwquality-0__1.4.4-8.el9.x86_64",
-    sha256 = "93f00e5efac1e3f1ecbc0d6a4c068772cb12912cd20c9ea58716d6c0cd004886",
+    sha256 = "d572dfa42d099b58e29fc0c1431c80e1baa4d0555265f79b1a346ebe99ac9ae1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libpwquality-1.4.4-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/93f00e5efac1e3f1ecbc0d6a4c068772cb12912cd20c9ea58716d6c0cd004886",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libpwquality-1.4.4-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "librdmacm-0__48.0-1.el9.aarch64",
-    sha256 = "5e2a18696965e555eea7ee284e9229f2dbffe214f51d6d7b7221233bcbb980be",
+    name = "librdmacm-0__46.0-1.el9.aarch64",
+    sha256 = "ccd0b3d3d6ea30b459b58783c13f33ff73189cf98e401d2d293de72ef099b621",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/librdmacm-48.0-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5e2a18696965e555eea7ee284e9229f2dbffe214f51d6d7b7221233bcbb980be",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/librdmacm-46.0-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "librdmacm-0__48.0-1.el9.x86_64",
-    sha256 = "827f9dff61e1d0252f1d8a29bfc493e221fca4b599c9df1eaf1ef4641a198c1c",
+    name = "librdmacm-0__46.0-1.el9.x86_64",
+    sha256 = "91b45c94ea9d12318671d539e08fc3d33dbe372d4d07358f9f3c168e72c59508",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/librdmacm-48.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/827f9dff61e1d0252f1d8a29bfc493e221fca4b599c9df1eaf1ef4641a198c1c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/librdmacm-46.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libref_array-0__0.1.5-53.el9.x86_64",
-    sha256 = "7a7eaf030a25e866148daa6b38ac6f49afeba63b66f11040cc7b5b5522977d1e",
+    sha256 = "450cdf91db9553dcf2e929a184719800a22662a2f507acd7cb2cdeeb7a9e4597",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libref_array-0.1.5-53.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7a7eaf030a25e866148daa6b38ac6f49afeba63b66f11040cc7b5b5522977d1e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libref_array-0.1.5-53.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libseccomp-0__2.5.2-2.el9.aarch64",
-    sha256 = "ee31abd3d1325b05c5ba336158ba3b235a718a99ad5cec5e6ab498ca99b688b5",
+    sha256 = "d3f91fdbe169fe544c24564452f63fe1c6c5fb67bb686146345850223ea1f7ec",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libseccomp-2.5.2-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ee31abd3d1325b05c5ba336158ba3b235a718a99ad5cec5e6ab498ca99b688b5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libseccomp-2.5.2-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libseccomp-0__2.5.2-2.el9.x86_64",
-    sha256 = "d5c1c4473ebf5fd9c605eb866118d7428cdec9b188db18e45545801cc2a689c3",
+    sha256 = "c5043228059ffb4e2ef855671909b22bd42784907979a27d25ca9f5163408ad1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libseccomp-2.5.2-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d5c1c4473ebf5fd9c605eb866118d7428cdec9b188db18e45545801cc2a689c3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libseccomp-2.5.2-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libselinux-0__3.6-0.rc1.1.el9.aarch64",
-    sha256 = "de42f69069e17abc5b2dfc23458e5eb7cebf58aa460a69ae6b43263fada0c50f",
+    name = "libselinux-0__3.5-1.el9.aarch64",
+    sha256 = "f665d48f6cb729a594ffab75235cb4a8c6f36a10f5f906405ae3e8d31db30b4b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libselinux-3.6-0.rc1.1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/de42f69069e17abc5b2dfc23458e5eb7cebf58aa460a69ae6b43263fada0c50f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libselinux-3.5-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libselinux-0__3.6-0.rc1.1.el9.x86_64",
-    sha256 = "a0cd8b213d82b804a2847ebd52985da02365b0dab1150897fa6dc310a6a475e1",
+    name = "libselinux-0__3.5-1.el9.x86_64",
+    sha256 = "bcaedf1c0652582fdf9821fc3e39c920a08dc824fd2aac7defef09142e7eadb8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libselinux-3.6-0.rc1.1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a0cd8b213d82b804a2847ebd52985da02365b0dab1150897fa6dc310a6a475e1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libselinux-3.5-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libselinux-utils-0__3.6-0.rc1.1.el9.aarch64",
-    sha256 = "45c1132baf9df6b295f35cb06a90c4e9334ac206cb36c78485e0724dc8ddcb06",
+    name = "libselinux-utils-0__3.5-1.el9.aarch64",
+    sha256 = "a563c147edb001fd53932a10f1c1a9353e311c04858e158525c4f3edfa0e9f64",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libselinux-utils-3.6-0.rc1.1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/45c1132baf9df6b295f35cb06a90c4e9334ac206cb36c78485e0724dc8ddcb06",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libselinux-utils-3.5-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libselinux-utils-0__3.6-0.rc1.1.el9.x86_64",
-    sha256 = "19ceb9c08ba0eef2ef16a11fb6c68018f783ae4087ba9862dc027b1af57c4a1a",
+    name = "libselinux-utils-0__3.5-1.el9.x86_64",
+    sha256 = "5d5a5b1978914cec46cef8c6847af07db6f2a9aaf03b6a2fbce6e8c0da211791",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libselinux-utils-3.6-0.rc1.1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/19ceb9c08ba0eef2ef16a11fb6c68018f783ae4087ba9862dc027b1af57c4a1a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libselinux-utils-3.5-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libsemanage-0__3.6-0.rc1.1.el9.aarch64",
-    sha256 = "4e7048fef77824a8287f1ee5ebb1bdc7a44fec9773b6883ad0cb91f997658da5",
+    name = "libsemanage-0__3.5-2.el9.aarch64",
+    sha256 = "00678b02db6c4eaae987ab39c03912f0fd3229489b4f8512dc78973284f6ca92",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libsemanage-3.6-0.rc1.1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4e7048fef77824a8287f1ee5ebb1bdc7a44fec9773b6883ad0cb91f997658da5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libsemanage-3.5-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libsemanage-0__3.6-0.rc1.1.el9.x86_64",
-    sha256 = "e0f2b08f6cc0bb31e8f803774efb53fddfbd2d273fd070634abb114d2134da11",
+    name = "libsemanage-0__3.5-2.el9.x86_64",
+    sha256 = "b879526ec63f66e1993203ee04a3097df3d7918446d9e9f77315b7eb4898e66e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libsemanage-3.6-0.rc1.1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e0f2b08f6cc0bb31e8f803774efb53fddfbd2d273fd070634abb114d2134da11",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libsemanage-3.5-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libsepol-0__3.6-0.rc1.1.el9.aarch64",
-    sha256 = "ceab6a27703eab1c0b7159cbe89b31d75cd0edd22e3fb668a538885c8e124703",
+    name = "libsepol-0__3.5-1.el9.aarch64",
+    sha256 = "8ce4ea3fe43f6f6a2475da917068ce21e6e10baaa07ecb772e7967b866d33ada",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libsepol-3.6-0.rc1.1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ceab6a27703eab1c0b7159cbe89b31d75cd0edd22e3fb668a538885c8e124703",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libsepol-3.5-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libsepol-0__3.6-0.rc1.1.el9.x86_64",
-    sha256 = "94e516f57289215fed6fbf99e241a27daa23a7bdebf7cc484fe18532210bc9a9",
+    name = "libsepol-0__3.5-1.el9.x86_64",
+    sha256 = "ad75fe88f58eac878f9baf690d4c5e30206303f52fae663f0352fe045f877ea1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libsepol-3.6-0.rc1.1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/94e516f57289215fed6fbf99e241a27daa23a7bdebf7cc484fe18532210bc9a9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libsepol-3.5-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libsigsegv-0__2.13-4.el9.aarch64",
-    sha256 = "097399718ae50fb03fde85fa151c060c50445a1a5af185052cac6b92d6fdcdae",
+    sha256 = "1935c944375f3bf40913bbda2cd87bbaf25a475be51c1662c24f54eb04da584b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libsigsegv-2.13-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/097399718ae50fb03fde85fa151c060c50445a1a5af185052cac6b92d6fdcdae",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libsigsegv-2.13-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libsigsegv-0__2.13-4.el9.x86_64",
-    sha256 = "931bd0ec7050e8c3b37a9bfb489e30af32486a3c77203f1e9113eeceaa3b0a3a",
+    sha256 = "a80701bd3f67994493b1a14e043d9212032c86fd24374c309cf2b7006900f4da",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libsigsegv-2.13-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/931bd0ec7050e8c3b37a9bfb489e30af32486a3c77203f1e9113eeceaa3b0a3a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libsigsegv-2.13-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libslirp-0__4.4.0-7.el9.aarch64",
-    sha256 = "321ef98abb278174e60823b5f032ef8f5bee45d67a0e2b0a56e08e6ae8a7381b",
+    sha256 = "57a957b06533ee8b482a371a492e9a6ebf3ec84995c43965bd61af45a565444b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libslirp-4.4.0-7.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/321ef98abb278174e60823b5f032ef8f5bee45d67a0e2b0a56e08e6ae8a7381b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libslirp-4.4.0-7.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libslirp-0__4.4.0-7.el9.x86_64",
-    sha256 = "4d7383a18c393e909d037f64c35a8d5d01c559032a3bd760a77844986d57062a",
+    sha256 = "9e139bea16fc979b10db9af8c6f29cd205f50450d09db2a1dd6744512193a4ae",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libslirp-4.4.0-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/4d7383a18c393e909d037f64c35a8d5d01c559032a3bd760a77844986d57062a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libslirp-4.4.0-7.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libsmartcols-0__2.37.4-15.el9.aarch64",
-    sha256 = "461a1ed6f3ba43e2f2372eadf18148638b576eca97e6b913fbc283e08e765d4e",
+    sha256 = "7aeaa93f31c347498925d6a79e78711a929c7acdc7970ab13f4326073e88fdfa",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libsmartcols-2.37.4-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/461a1ed6f3ba43e2f2372eadf18148638b576eca97e6b913fbc283e08e765d4e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libsmartcols-2.37.4-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libsmartcols-0__2.37.4-15.el9.x86_64",
-    sha256 = "e538fc0ff411e62612f1430d4a97e112a0e77a7059db108c84b972aac6788462",
+    sha256 = "e7dab24297f6642c7e5c27db1d9291f3af1a9f808e78640ec93f19ee72c51d6b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libsmartcols-2.37.4-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e538fc0ff411e62612f1430d4a97e112a0e77a7059db108c84b972aac6788462",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libsmartcols-2.37.4-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libsoup-0__2.72.0-8.el9.x86_64",
-    sha256 = "f28214b594a46422e75a946a491de3f8cf29289c33c26ecab60cce82fcff6d68",
+    sha256 = "29de6bc5022554f6554629c453fd8f021248c5a134a2147310c8facb967caef1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libsoup-2.72.0-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f28214b594a46422e75a946a491de3f8cf29289c33c26ecab60cce82fcff6d68",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libsoup-2.72.0-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libss-0__1.46.5-4.el9.aarch64",
-    sha256 = "33dc05507fb0f05f2f3af51a2724a7d512701e0c96457b35aa0045454b667208",
+    name = "libss-0__1.46.5-3.el9.aarch64",
+    sha256 = "f38b25511022cef1e2cbde696f6e9f7c27c66690aec552ad6dbb7419a1e1f026",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libss-1.46.5-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/33dc05507fb0f05f2f3af51a2724a7d512701e0c96457b35aa0045454b667208",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libss-1.46.5-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libss-0__1.46.5-4.el9.x86_64",
-    sha256 = "16cc5463c6e9aba2db2101deb0ebf5347939e41a31ad381ce5246a6cb91bd1cf",
+    name = "libss-0__1.46.5-3.el9.x86_64",
+    sha256 = "320735da9ce042a9d97783664191ec807c988a1f91d26a03557aa00fc3f13a75",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libss-1.46.5-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/16cc5463c6e9aba2db2101deb0ebf5347939e41a31ad381ce5246a6cb91bd1cf",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libss-1.46.5-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libssh-0__0.10.4-11.el9.aarch64",
-    sha256 = "78fd484c96b97264c725993874e9891b8a788eb4e19c2dda87996f1cca96cfcc",
+    name = "libssh-0__0.10.4-12.el9_3.aarch64",
+    sha256 = "d26f71897358719e2f62689a91275315998f03e29409cd8b8d87877dfe182cff",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libssh-0.10.4-11.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/78fd484c96b97264c725993874e9891b8a788eb4e19c2dda87996f1cca96cfcc",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libssh-0.10.4-12.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libssh-0__0.10.4-11.el9.x86_64",
-    sha256 = "fc9d5d5911e7e5710faff7ee8d86127a97bb820764824fe3308a017a832439b0",
+    name = "libssh-0__0.10.4-12.el9_3.x86_64",
+    sha256 = "0c1cd56f961ee07dad9fda1e9663035226adc8fe943897d12128532c02657422",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libssh-0.10.4-11.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fc9d5d5911e7e5710faff7ee8d86127a97bb820764824fe3308a017a832439b0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libssh-0.10.4-12.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libssh-config-0__0.10.4-11.el9.aarch64",
-    sha256 = "395ceff19b1fae8a0fcaf4448ebdcd0fa3ed5cbb80b721ab78317c4eebd262b9",
+    name = "libssh-config-0__0.10.4-12.el9_3.aarch64",
+    sha256 = "4dec2af581df1c124229c102e7c78d3ea057378db770df9a00f6973777443b33",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libssh-config-0.10.4-11.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/395ceff19b1fae8a0fcaf4448ebdcd0fa3ed5cbb80b721ab78317c4eebd262b9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libssh-config-0.10.4-12.el9_3.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "libssh-config-0__0.10.4-11.el9.x86_64",
-    sha256 = "395ceff19b1fae8a0fcaf4448ebdcd0fa3ed5cbb80b721ab78317c4eebd262b9",
+    name = "libssh-config-0__0.10.4-12.el9_3.x86_64",
+    sha256 = "4dec2af581df1c124229c102e7c78d3ea057378db770df9a00f6973777443b33",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libssh-config-0.10.4-11.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/395ceff19b1fae8a0fcaf4448ebdcd0fa3ed5cbb80b721ab78317c4eebd262b9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libssh-config-0.10.4-12.el9_3.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "libsss_idmap-0__2.9.3-2.el9.aarch64",
-    sha256 = "a5a3ceb11e0c361d33b339d8c1561101c7351c248ed6e31c72864e76464bdae9",
+    name = "libsss_idmap-0__2.9.1-4.el9_3.5.aarch64",
+    sha256 = "7beeda62ae11e676d5571f9c97db481c90ff142c0c79e9567cbea111c846025c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libsss_idmap-2.9.3-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a5a3ceb11e0c361d33b339d8c1561101c7351c248ed6e31c72864e76464bdae9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libsss_idmap-2.9.1-4.el9_3.5.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libsss_idmap-0__2.9.3-2.el9.x86_64",
-    sha256 = "f1bf2658c6e669b7f921d8ef77a0fa042108fd2bf04890d9e251c085e351650d",
+    name = "libsss_idmap-0__2.9.1-4.el9_3.5.x86_64",
+    sha256 = "d380d188720fd424e823ebf78508bf2a2fc8ae5f5a054661f6097464d7340aae",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libsss_idmap-2.9.3-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f1bf2658c6e669b7f921d8ef77a0fa042108fd2bf04890d9e251c085e351650d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libsss_idmap-2.9.1-4.el9_3.5.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libsss_nss_idmap-0__2.9.3-2.el9.aarch64",
-    sha256 = "c1f45f999739c5e70bd69bd100143f504779b774a4bd1b1530a03ab3edfd2b17",
+    name = "libsss_nss_idmap-0__2.9.1-4.el9_3.5.aarch64",
+    sha256 = "003a09c1c502c82cedb4a6537f0b42c6e3ce4b0816f481b17d6cc3509bbbd91b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libsss_nss_idmap-2.9.3-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c1f45f999739c5e70bd69bd100143f504779b774a4bd1b1530a03ab3edfd2b17",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libsss_nss_idmap-2.9.1-4.el9_3.5.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libsss_nss_idmap-0__2.9.3-2.el9.x86_64",
-    sha256 = "38fdda92ea92479e64a3dc7d2f4e069b62fcc545ae0aa407773a595dbbeb0ff1",
+    name = "libsss_nss_idmap-0__2.9.1-4.el9_3.5.x86_64",
+    sha256 = "6f6519f1540fb3cfe68000d34b4934f9dd73676bd0ad06604b6d375342112449",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libsss_nss_idmap-2.9.3-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/38fdda92ea92479e64a3dc7d2f4e069b62fcc545ae0aa407773a595dbbeb0ff1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libsss_nss_idmap-2.9.1-4.el9_3.5.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libstdc__plus____plus__-0__11.4.1-2.3.el9.aarch64",
-    sha256 = "ecdbc2771fc50be776f846a6f17d34e2b8e9614f4b89b09930f73fda544b089a",
+    name = "libstdc__plus____plus__-0__11.4.1-2.1.el9.aarch64",
+    sha256 = "fd1a1bd9bfcdaac18b6201e253966c1752c73655ea5d21f17e9e927d59cab02c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libstdc++-11.4.1-2.3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ecdbc2771fc50be776f846a6f17d34e2b8e9614f4b89b09930f73fda544b089a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libstdc++-11.4.1-2.1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libstdc__plus____plus__-0__11.4.1-2.3.el9.x86_64",
-    sha256 = "7ef5095ccb164e1b8df68cda4bade0f3c1888536ef8e6724f6a57cb9367e14ff",
+    name = "libstdc__plus____plus__-0__11.4.1-2.1.el9.x86_64",
+    sha256 = "1e0d56f2c0ae5c5ac24ad61f8f78ec209cc09b4555f9763d0bde6da9d0a48b7b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libstdc++-11.4.1-2.3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7ef5095ccb164e1b8df68cda4bade0f3c1888536ef8e6724f6a57cb9367e14ff",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libstdc++-11.4.1-2.1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libtasn1-0__4.16.0-8.el9.aarch64",
-    sha256 = "1046c07821506ef6a84291b093de0d62dcc9873142e1ac2c66aaa72abd08532c",
+    name = "libtasn1-0__4.16.0-8.el9_1.aarch64",
+    sha256 = "3963d58e43412e91e47454836e5431fbc77014d411ac6eec4847fc7cede46a6d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libtasn1-4.16.0-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1046c07821506ef6a84291b093de0d62dcc9873142e1ac2c66aaa72abd08532c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libtasn1-4.16.0-8.el9_1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libtasn1-0__4.16.0-8.el9.x86_64",
-    sha256 = "c8b13c9e1292de474e76ab80f230f86cce2e8f5f53592e168bdcaa604ed1b37d",
+    name = "libtasn1-0__4.16.0-8.el9_1.x86_64",
+    sha256 = "f62a78a4d12241611733a45d896511c9825d06116373f4277e08acbae7565322",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libtasn1-4.16.0-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c8b13c9e1292de474e76ab80f230f86cce2e8f5f53592e168bdcaa604ed1b37d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libtasn1-4.16.0-8.el9_1.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libtirpc-0__1.3.3-2.el9.aarch64",
-    sha256 = "6133ac4ce7568deef7edc2226ee73fb35f3d8102569ce529a4440e3c21501535",
+    sha256 = "f3745a230155bdd51ce7be76f7c457eda1c2caca73600703a841e7fee156fde9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libtirpc-1.3.3-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6133ac4ce7568deef7edc2226ee73fb35f3d8102569ce529a4440e3c21501535",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libtirpc-1.3.3-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libtirpc-0__1.3.3-2.el9.x86_64",
-    sha256 = "218b7c8d5d4fbafd404b5059305c420e20f3457dfad981f125c7882832d1b38c",
+    sha256 = "7f638eef13d99b9985ca6019495fa86b530896ec76f790462c82ed347bece07b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libtirpc-1.3.3-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/218b7c8d5d4fbafd404b5059305c420e20f3457dfad981f125c7882832d1b38c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libtirpc-1.3.3-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libtpms-0__0.9.1-3.20211126git1ff6fe1f43.el9.aarch64",
-    sha256 = "7f3313bf113fce33ece6b942942a8126713289a545da9eafbb508e9ff6008be2",
+    name = "libtpms-0__0.9.1-3.20211126git1ff6fe1f43.el9_2.aarch64",
+    sha256 = "34ff72ddf8b831708702a0fea060f003203f1391878a84bf92c0a5906de71e83",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libtpms-0.9.1-3.20211126git1ff6fe1f43.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/7f3313bf113fce33ece6b942942a8126713289a545da9eafbb508e9ff6008be2",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libtpms-0.9.1-3.20211126git1ff6fe1f43.el9_2.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libtpms-0__0.9.1-3.20211126git1ff6fe1f43.el9.x86_64",
-    sha256 = "4ed3052085b118c19f44c3ce29749895627acc590e45acc0722da5d53582afe7",
+    name = "libtpms-0__0.9.1-3.20211126git1ff6fe1f43.el9_2.x86_64",
+    sha256 = "272958e38060dc9d10d7ba16dd3772467478700a4f78bb2680d55c087e900003",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libtpms-0.9.1-3.20211126git1ff6fe1f43.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/4ed3052085b118c19f44c3ce29749895627acc590e45acc0722da5d53582afe7",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libtpms-0.9.1-3.20211126git1ff6fe1f43.el9_2.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libubsan-0__11.4.1-2.3.el9.aarch64",
-    sha256 = "8e4429e26ed9d5f3f70c8e5ede70403aaf9ed1293d480a7c0a19308810a2ca47",
+    name = "libubsan-0__11.4.1-2.1.el9.aarch64",
+    sha256 = "314f350e43db98e97cc5739d32641a272c8e07bcb1a78505505f25fa6d131a8b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libubsan-11.4.1-2.3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/8e4429e26ed9d5f3f70c8e5ede70403aaf9ed1293d480a7c0a19308810a2ca47",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libubsan-11.4.1-2.1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libunistring-0__0.9.10-15.el9.aarch64",
-    sha256 = "09381b23c9d2343592b8b565dcbb23d055999ab1e521aa802b6d40a682b80e42",
+    sha256 = "640263402602c1f5a77a2ecde6b73cfd71e6bb574619f6ead58fdf61c0f4f63e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libunistring-0.9.10-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/09381b23c9d2343592b8b565dcbb23d055999ab1e521aa802b6d40a682b80e42",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libunistring-0.9.10-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libunistring-0__0.9.10-15.el9.x86_64",
-    sha256 = "11e736e44265d2d0ca0afa4c11cfe0856553c4124e534fb616e6ab61c9b59e46",
+    sha256 = "7e8b90a282ec310de6766619056296bdf666f3040f22cff211cd52710b39ece5",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libunistring-0.9.10-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/11e736e44265d2d0ca0afa4c11cfe0856553c4124e534fb616e6ab61c9b59e46",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libunistring-0.9.10-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "liburing-0__2.3-2.el9.aarch64",
-    sha256 = "433ecb131e763b7150b40f11f0a94a7252943dfb3827ca40bd0021884b2a5dc4",
+    sha256 = "199ba4def77eb812156657073a09a58b272a214b710fc8915810d1184f3d38d2",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/liburing-2.3-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/433ecb131e763b7150b40f11f0a94a7252943dfb3827ca40bd0021884b2a5dc4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/liburing-2.3-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "liburing-0__2.3-2.el9.x86_64",
-    sha256 = "7d04b63a1d183515a2471ad5813409586fc746ca7bcdc3f8b474543cfc325c9c",
+    sha256 = "dcf645688c592b419d622b071a5eaf52d3519249c9e60cd6acafcd91a696b343",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/liburing-2.3-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7d04b63a1d183515a2471ad5813409586fc746ca7bcdc3f8b474543cfc325c9c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/liburing-2.3-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libusbx-0__1.0.26-1.el9.aarch64",
-    sha256 = "f008b954b622f27dbc5b0c8f3633589c844b5428a1dfe84ca96d42a72dae707c",
+    sha256 = "eb01bae3ea719c9f2dea8b135cc4831fdbec43add0dfc1983edf4cb2a3feb178",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libusbx-1.0.26-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f008b954b622f27dbc5b0c8f3633589c844b5428a1dfe84ca96d42a72dae707c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libusbx-1.0.26-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libusbx-0__1.0.26-1.el9.x86_64",
-    sha256 = "bfc8e2bfbcc0e6aaa4e4e665e52ebdc93fb84f7bf00be4640df0fa6df9cbf042",
+    sha256 = "efb7bf9c0660d748c2813bf9a37a89de988536888bfe6d7d71fc27dbccb8ee27",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libusbx-1.0.26-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/bfc8e2bfbcc0e6aaa4e4e665e52ebdc93fb84f7bf00be4640df0fa6df9cbf042",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libusbx-1.0.26-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libutempter-0__1.2.1-6.el9.aarch64",
-    sha256 = "65cd8c3813afc69dd2ea9eeb6e2fc7db4a7d626b51efe376b8000dfdaa10402a",
+    sha256 = "628e1aa68e0dbb62cbb87478bcd0b03737d703a199edbd9c7067515722951f65",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libutempter-1.2.1-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/65cd8c3813afc69dd2ea9eeb6e2fc7db4a7d626b51efe376b8000dfdaa10402a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libutempter-1.2.1-6.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libutempter-0__1.2.1-6.el9.x86_64",
-    sha256 = "fab361a9cba04490fd8b5664049983d1e57ebf7c1080804726ba600708524125",
+    sha256 = "146dca82c8f1df8135ae7d5cc4aa4af35e02e60f1f61143badc9c5f7ff5029b9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libutempter-1.2.1-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fab361a9cba04490fd8b5664049983d1e57ebf7c1080804726ba600708524125",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libutempter-1.2.1-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libuuid-0__2.37.4-15.el9.aarch64",
-    sha256 = "6486b8a7e56ca99a40a080dea4f5b71ce4dfefe2692a53c49f565dc6aff9c474",
+    sha256 = "2f7887b1a801f8ef13da9a862c0a8e324511ed4502f793903848d1e945138989",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libuuid-2.37.4-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6486b8a7e56ca99a40a080dea4f5b71ce4dfefe2692a53c49f565dc6aff9c474",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libuuid-2.37.4-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libuuid-0__2.37.4-15.el9.x86_64",
-    sha256 = "383cde88a366f8d6bfb9fc29a33f8dc835cdaaf4302dc6fc90d87742a0ab0c00",
+    sha256 = "bf8238ff0dc198fe9bcd60a087f03adbeb5271d4fe62d60dfdfa35d106e91e1e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libuuid-2.37.4-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/383cde88a366f8d6bfb9fc29a33f8dc835cdaaf4302dc6fc90d87742a0ab0c00",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libuuid-2.37.4-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libverto-0__0.3.2-3.el9.aarch64",
-    sha256 = "1190ea8310b0dab3ebbade3180b4c2cf7064e90c894e5415711d7751e709be8a",
+    sha256 = "d12d7f526c5ef9957f6e1d9be4b2b77ff892040e08112f0a8804677e3c668b64",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libverto-0.3.2-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1190ea8310b0dab3ebbade3180b4c2cf7064e90c894e5415711d7751e709be8a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libverto-0.3.2-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libverto-0__0.3.2-3.el9.x86_64",
-    sha256 = "c55578b84f169c4ed79b2d50ea03fd1817007e35062c9fe7a58e6cad025f3b24",
+    sha256 = "f430f1b95b7467c461c7a745eba07beab00306984f2f21ecfcc04f37100405d1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libverto-0.3.2-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c55578b84f169c4ed79b2d50ea03fd1817007e35062c9fe7a58e6cad025f3b24",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libverto-0.3.2-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libverto-libev-0__0.3.2-3.el9.x86_64",
-    sha256 = "7d4423bc582773e23bf08f1f73d99275838a45fa188971a2f20448811e524a50",
+    sha256 = "a7394271ca60122619fb7d1693f2a318d9e5bea92352897d145c78d190bf0ee5",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libverto-libev-0.3.2-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7d4423bc582773e23bf08f1f73d99275838a45fa188971a2f20448811e524a50",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libverto-libev-0.3.2-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-client-0__9.5.0-6.el9.aarch64",
-    sha256 = "0237c86ab4ad229c5dd400122ef8d41b20c094d5ed344d048614a2aa564ef5e9",
+    name = "libvirt-client-0__9.5.0-7.el9_3.aarch64",
+    sha256 = "587cb37b6dacf4352c42b1e1b7c76a94c367e4bf9bf35f9193c67b8c50cd09c9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libvirt-client-9.5.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/0237c86ab4ad229c5dd400122ef8d41b20c094d5ed344d048614a2aa564ef5e9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libvirt-client-9.5.0-7.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-client-0__9.5.0-6.el9.x86_64",
-    sha256 = "3dbb02da7f4a3343b9085f2ffa455779ae3d8e19b4e6423222eb60c65b48a51b",
+    name = "libvirt-client-0__9.5.0-7.el9_3.x86_64",
+    sha256 = "309bcb743c33a3dfe4611a6bc63ec93f9031b5289c073d6e7f556ca9c2d942d3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libvirt-client-9.5.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3dbb02da7f4a3343b9085f2ffa455779ae3d8e19b4e6423222eb60c65b48a51b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libvirt-client-9.5.0-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-daemon-common-0__9.5.0-6.el9.aarch64",
-    sha256 = "915e7a996182557b6ecd060efad9ffc0bf0f506b25b4f0f93bf020f7c2119828",
+    name = "libvirt-daemon-common-0__9.5.0-7.el9_3.aarch64",
+    sha256 = "81ff37e98ad91e70965e6025832a5ee869a13c709d6c22ec1fc26b8f389ecde7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libvirt-daemon-common-9.5.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/915e7a996182557b6ecd060efad9ffc0bf0f506b25b4f0f93bf020f7c2119828",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libvirt-daemon-common-9.5.0-7.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-daemon-common-0__9.5.0-6.el9.x86_64",
-    sha256 = "506af6eaa7968688ad77e9a37f1bd766cb89b28a79d3feca3ef6cce9f4bb3c77",
+    name = "libvirt-daemon-common-0__9.5.0-7.el9_3.x86_64",
+    sha256 = "92493ae7d84b46fabf748f7317976131abd7b6ae7d3c3a017cd237131e2aeaea",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libvirt-daemon-common-9.5.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/506af6eaa7968688ad77e9a37f1bd766cb89b28a79d3feca3ef6cce9f4bb3c77",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libvirt-daemon-common-9.5.0-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-daemon-driver-qemu-0__9.5.0-6.el9.aarch64",
-    sha256 = "ff7b490069c2a59ea1da42886b70fb8498dcc9858ea4d57d70f381d298e42739",
+    name = "libvirt-daemon-driver-qemu-0__9.5.0-7.el9_3.aarch64",
+    sha256 = "043681d841653d1efe7f6784a328f2fcf605a07b0bd51612fec49fcdd215f847",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libvirt-daemon-driver-qemu-9.5.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ff7b490069c2a59ea1da42886b70fb8498dcc9858ea4d57d70f381d298e42739",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libvirt-daemon-driver-qemu-9.5.0-7.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-daemon-driver-qemu-0__9.5.0-6.el9.x86_64",
-    sha256 = "de16e915037b7295ba20469e4301a6d719d1250e6dd46ba851afac7cb8aef746",
+    name = "libvirt-daemon-driver-qemu-0__9.5.0-7.el9_3.x86_64",
+    sha256 = "b79b8828101f3d33996df83a9c273aab2fe13b2e19a5c4439ce111e53be01624",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libvirt-daemon-driver-qemu-9.5.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/de16e915037b7295ba20469e4301a6d719d1250e6dd46ba851afac7cb8aef746",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libvirt-daemon-driver-qemu-9.5.0-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-daemon-driver-secret-0__9.5.0-6.el9.x86_64",
-    sha256 = "813cd25b5015d7879de39443a5f0795243f53f444ccd281f3393b940c276548a",
+    name = "libvirt-daemon-driver-secret-0__9.5.0-7.el9_3.x86_64",
+    sha256 = "9798514ab56d6175495c4fcb09f84cde74c032c0589d4e9383f3bbe5efadd688",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libvirt-daemon-driver-secret-9.5.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/813cd25b5015d7879de39443a5f0795243f53f444ccd281f3393b940c276548a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libvirt-daemon-driver-secret-9.5.0-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-daemon-driver-storage-core-0__9.5.0-6.el9.x86_64",
-    sha256 = "e4d877ded56a7a3624f278ed55482d5de68194076d49b3a65060ea87d686ae54",
+    name = "libvirt-daemon-driver-storage-core-0__9.5.0-7.el9_3.x86_64",
+    sha256 = "e99c8f4668ecea0e596487cb05ca98c970657758bf30184c8bac4dad684ecb2e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libvirt-daemon-driver-storage-core-9.5.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e4d877ded56a7a3624f278ed55482d5de68194076d49b3a65060ea87d686ae54",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libvirt-daemon-driver-storage-core-9.5.0-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-daemon-log-0__9.5.0-6.el9.aarch64",
-    sha256 = "3c3afeeb6a2a8288db23f88929a2f0183e8c462e6762730c2642ab55be15b11a",
+    name = "libvirt-daemon-log-0__9.5.0-7.el9_3.aarch64",
+    sha256 = "db0aa21fcb035879044ef2b412125965ab4630db9e552ada106a93b578dc9429",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libvirt-daemon-log-9.5.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/3c3afeeb6a2a8288db23f88929a2f0183e8c462e6762730c2642ab55be15b11a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libvirt-daemon-log-9.5.0-7.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-daemon-log-0__9.5.0-6.el9.x86_64",
-    sha256 = "8ce3b735c02503d3093209a359ecf07e6de1da449338df3a1c8bc6d2d0cfedcc",
+    name = "libvirt-daemon-log-0__9.5.0-7.el9_3.x86_64",
+    sha256 = "393ce1ac03b07a8e752994efbd0967e7159bb0201547cb9852b291476cd91d70",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libvirt-daemon-log-9.5.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/8ce3b735c02503d3093209a359ecf07e6de1da449338df3a1c8bc6d2d0cfedcc",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libvirt-daemon-log-9.5.0-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-devel-0__9.5.0-6.el9.aarch64",
-    sha256 = "cdaba8bfc69b2c798f455b6c4a902043396d07e6eee25820d4aa1a035767e8d8",
+    name = "libvirt-devel-0__9.5.0-7.el9_3.aarch64",
+    sha256 = "b8e9045d891eb9f4040876cda843c615a8940681a03aa8e4bd77fad5503b6a0f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/CRB/aarch64/os/Packages/libvirt-devel-9.5.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/cdaba8bfc69b2c798f455b6c4a902043396d07e6eee25820d4aa1a035767e8d8",
+        "https://dl.rockylinux.org/vault/rocky/9.3/CRB/aarch64/os/Packages/l/libvirt-devel-9.5.0-7.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-devel-0__9.5.0-6.el9.x86_64",
-    sha256 = "caca5fbbfabe75cf56e24343bf93596f78a91fa341eacb668b15b505245922e9",
+    name = "libvirt-devel-0__9.5.0-7.el9_3.x86_64",
+    sha256 = "f6b32f7a201bba4d57c17e95c8415ad6d8280437eb9e05b970307d7f7036f67b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/CRB/x86_64/os/Packages/libvirt-devel-9.5.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/caca5fbbfabe75cf56e24343bf93596f78a91fa341eacb668b15b505245922e9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/CRB/x86_64/os/Packages/l/libvirt-devel-9.5.0-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-libs-0__9.5.0-6.el9.aarch64",
-    sha256 = "340b6cdbfefd836dd0f37d6f77ce08f4cbd0c907cc7ea62b1ceddbac54cf76ce",
+    name = "libvirt-libs-0__9.5.0-7.el9_3.aarch64",
+    sha256 = "e613bcb822098bbfe7637d52c227e00130e0275d0ab131762a6ae1607ff482e8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libvirt-libs-9.5.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/340b6cdbfefd836dd0f37d6f77ce08f4cbd0c907cc7ea62b1ceddbac54cf76ce",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libvirt-libs-9.5.0-7.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libvirt-libs-0__9.5.0-6.el9.x86_64",
-    sha256 = "3c393f116df3ec9bc02a4dd2fe3d11b19a7188087693dce42f1582ad004a0f9d",
+    name = "libvirt-libs-0__9.5.0-7.el9_3.x86_64",
+    sha256 = "4e0ae3f1e75e43dcc0460fe527e5f3361ea1d0787c6e9e4c8f143aceef8e8efc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libvirt-libs-9.5.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3c393f116df3ec9bc02a4dd2fe3d11b19a7188087693dce42f1582ad004a0f9d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libvirt-libs-9.5.0-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libxcrypt-0__4.4.18-3.el9.aarch64",
-    sha256 = "f697d91abb19e9be9b69b8836a802711d2cf7989af27a4e1ba261f35ce53b8b5",
+    sha256 = "ec12e0266ce1f96af43495c95f95fbb6d972af576f19473ea231985f8cd4d2d6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libxcrypt-4.4.18-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f697d91abb19e9be9b69b8836a802711d2cf7989af27a4e1ba261f35ce53b8b5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libxcrypt-4.4.18-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libxcrypt-0__4.4.18-3.el9.x86_64",
-    sha256 = "97e88678b420f619a44608fff30062086aa1dd6931ecbd54f21bba005ff1de1a",
+    sha256 = "e3c178ed2e04ac25699d5af612fad51694a23f5d544b72cab2f65d35b8db5f28",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libxcrypt-4.4.18-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/97e88678b420f619a44608fff30062086aa1dd6931ecbd54f21bba005ff1de1a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libxcrypt-4.4.18-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libxcrypt-devel-0__4.4.18-3.el9.aarch64",
-    sha256 = "4d6085cd4068264576d023784ceddf0d9e19eb7633d87c31efd9444dab0c3420",
+    sha256 = "efde6bb81af1da9757208a7212c1db913315622249a1eb4f98ff34f1090c329d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/libxcrypt-devel-4.4.18-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4d6085cd4068264576d023784ceddf0d9e19eb7633d87c31efd9444dab0c3420",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/l/libxcrypt-devel-4.4.18-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libxcrypt-devel-0__4.4.18-3.el9.x86_64",
-    sha256 = "162461e5f31f94907c91815370b545844cc9d33b1311e0063e23ae427241d1e0",
+    sha256 = "f98951be16cb84133ac14201348a202c9884f8958f908b6040fb5db12e4dba81",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libxcrypt-devel-4.4.18-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/162461e5f31f94907c91815370b545844cc9d33b1311e0063e23ae427241d1e0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libxcrypt-devel-4.4.18-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libxcrypt-static-0__4.4.18-3.el9.aarch64",
-    sha256 = "34033b8a089eac80956a9542a77b4c5e8c32a27ab0e8cf61728a9fbac970d5ad",
+    sha256 = "c1790a96e11c0765290f824166edfb77dd9fc2c973cb874b0afac8fd1314b574",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/CRB/aarch64/os/Packages/libxcrypt-static-4.4.18-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/34033b8a089eac80956a9542a77b4c5e8c32a27ab0e8cf61728a9fbac970d5ad",
+        "https://dl.rockylinux.org/vault/rocky/9.3/CRB/aarch64/os/Packages/l/libxcrypt-static-4.4.18-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libxcrypt-static-0__4.4.18-3.el9.x86_64",
-    sha256 = "251a45a42a342459303bb1b928359eed1ea88bcd12605a9fe084f24fac020869",
+    sha256 = "d619736aa4ce6a1787a900071f6d1486a6c3e3985b9ecda7621cc4ad0ace17e3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/CRB/x86_64/os/Packages/libxcrypt-static-4.4.18-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/251a45a42a342459303bb1b928359eed1ea88bcd12605a9fe084f24fac020869",
+        "https://dl.rockylinux.org/vault/rocky/9.3/CRB/x86_64/os/Packages/l/libxcrypt-static-4.4.18-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "libxml2-0__2.9.13-5.el9.aarch64",
-    sha256 = "ee29ac4f604589fe6d4bf73fcef695d5d3307a49340f08f82abd13e66f1b6b16",
+    name = "libxml2-0__2.9.13-5.el9_3.aarch64",
+    sha256 = "56cfd234163b771068ae96d37e1b0e1c648471ae097eb37f6de6c3c38b0ede04",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libxml2-2.9.13-5.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ee29ac4f604589fe6d4bf73fcef695d5d3307a49340f08f82abd13e66f1b6b16",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libxml2-2.9.13-5.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "libxml2-0__2.9.13-5.el9.x86_64",
-    sha256 = "b2fe908e2f6ca0b79f95fbab97560f2ca358d497d412c96cb2def6faea301b37",
+    name = "libxml2-0__2.9.13-5.el9_3.x86_64",
+    sha256 = "b28cb915e66606b984bc0b583ef43bf9205541d3bf6ddddefc694d357581e5ee",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libxml2-2.9.13-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b2fe908e2f6ca0b79f95fbab97560f2ca358d497d412c96cb2def6faea301b37",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libxml2-2.9.13-5.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libxslt-0__1.1.34-9.el9.x86_64",
-    sha256 = "576a1d36454a155d109ba1d0bb89b3a90b932d0b539fcd6392a67054bebc0015",
+    sha256 = "0127ecfbfb6b1f3bafccb4057e882b9f5f39123fdb55d33e64a5f0fb943810d6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/libxslt-1.1.34-9.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/576a1d36454a155d109ba1d0bb89b3a90b932d0b539fcd6392a67054bebc0015",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/l/libxslt-1.1.34-9.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "libzstd-0__1.5.1-2.el9.aarch64",
-    sha256 = "68101e014106305c840611b64d71311600edb30a34e09514c169c9eef6090d42",
+    sha256 = "b997fa077e854b7541c044dd2c213e9ecf18b67176a9e7f70dba11dc53f48d5e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/libzstd-1.5.1-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/68101e014106305c840611b64d71311600edb30a34e09514c169c9eef6090d42",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/libzstd-1.5.1-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "libzstd-0__1.5.1-2.el9.x86_64",
-    sha256 = "0840678cb3c1b418286f55da6973df9468c4cf500192de82d05ef28e6b4215a0",
+    sha256 = "517b3080de2e0891cc346ba6b1548ef438b95dbede0e6e7a6deae89fc241f5bc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/libzstd-1.5.1-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/0840678cb3c1b418286f55da6973df9468c4cf500192de82d05ef28e6b4215a0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/libzstd-1.5.1-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "lua-libs-0__5.4.4-4.el9.aarch64",
-    sha256 = "bd72283eb56206de91a71b1b7dbdcca1201fdaea4a08faf7b92d8ef9a600a88a",
+    sha256 = "77ed02fb0f50b6f4cdfd409304e4cc5016dccc50cbb1e6e4c663c0498a5219b6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/lua-libs-5.4.4-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/bd72283eb56206de91a71b1b7dbdcca1201fdaea4a08faf7b92d8ef9a600a88a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/lua-libs-5.4.4-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "lua-libs-0__5.4.4-4.el9.x86_64",
-    sha256 = "a24f7e08163b012cdbbdaba70788331050c2b7bdb9bc2fdc261c5c1f3cd3960d",
+    sha256 = "164f78bdc4b37210c54752761d48a229c935824503d5c591c020e447318a1749",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/lua-libs-5.4.4-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a24f7e08163b012cdbbdaba70788331050c2b7bdb9bc2fdc261c5c1f3cd3960d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/lua-libs-5.4.4-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "lz4-libs-0__1.9.3-5.el9.aarch64",
-    sha256 = "9aa14d26393dd46c0a390cf04f939f7f759a33165bdb506f8bee0653f3b70f45",
+    sha256 = "8640e8b3ba387e5ec9036e89903add891d7c960bbf0378797746cb43e0e2208f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/lz4-libs-1.9.3-5.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/9aa14d26393dd46c0a390cf04f939f7f759a33165bdb506f8bee0653f3b70f45",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/lz4-libs-1.9.3-5.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "lz4-libs-0__1.9.3-5.el9.x86_64",
-    sha256 = "cba6a63054d070956a182e33269ee245bcfbe87e3e605c27816519db762a66ad",
+    sha256 = "60f82f4c3f76a543ab247acb37cb439d9de9e40c410ac2f315d6805717d6283e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/lz4-libs-1.9.3-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/cba6a63054d070956a182e33269ee245bcfbe87e3e605c27816519db762a66ad",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/lz4-libs-1.9.3-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "lzo-0__2.10-7.el9.aarch64",
-    sha256 = "eb10493cb600631bc42b0c0bad707f9b79da912750fa9b9e5d8a9978a98babdf",
+    sha256 = "ce71bce707d6f763dc41b4f21ac5aabbdfc80ae7c29a6bf116adffc27f2a83a2",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/lzo-2.10-7.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/eb10493cb600631bc42b0c0bad707f9b79da912750fa9b9e5d8a9978a98babdf",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/lzo-2.10-7.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "lzo-0__2.10-7.el9.x86_64",
-    sha256 = "7bee77c82bd6c183bba7a4b4fdd3ecb99d0a089a25c735ebbabc44e0c51e4b2e",
+    sha256 = "e204370ce22c35f18d784ad404c2892e2ffe946d5e0378c8d1044f6554fbe860",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/lzo-2.10-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7bee77c82bd6c183bba7a4b4fdd3ecb99d0a089a25c735ebbabc44e0c51e4b2e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/lzo-2.10-7.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "lzop-0__1.04-8.el9.aarch64",
-    sha256 = "ae5bdeee08c76f6ce902c70e16b373160e1c595dd1718f2f1db3a37ec5d63703",
+    sha256 = "658d9b0c6baa892802f0f21966ba381d8311fab278e46c5e2983b49ae6870201",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/lzop-1.04-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ae5bdeee08c76f6ce902c70e16b373160e1c595dd1718f2f1db3a37ec5d63703",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/l/lzop-1.04-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "lzop-0__1.04-8.el9.x86_64",
-    sha256 = "ad84787d14a62195822ea89cec0fcf475f09b425f0822ce34d858d2d8bbd9466",
+    sha256 = "3db4bc7fb57b4ed0c4a75f2104b49a60e25c4c502a15636754a3d1811484e265",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/lzop-1.04-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ad84787d14a62195822ea89cec0fcf475f09b425f0822ce34d858d2d8bbd9466",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/l/lzop-1.04-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "make-1__4.3-7.el9.aarch64",
-    sha256 = "63386f5e0f71bfff56bc73906e70e0a3a9d6679f5e272381a7b1f954d2a27367",
+    sha256 = "fa4cdcbbecef3122c8170db6b0702ffd8a6f13eee9f4307f103c1c1e0abc5153",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/make-4.3-7.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/63386f5e0f71bfff56bc73906e70e0a3a9d6679f5e272381a7b1f954d2a27367",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/m/make-4.3-7.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "make-1__4.3-7.el9.x86_64",
-    sha256 = "d2c768e50950964bfdcefb9f1a36b268ae695fdea2bfd24daf8587def885e55d",
+    sha256 = "c1e403a726da86aeae4920c50ed7356c393b28447acae854d74a022a64d0fec3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/make-4.3-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d2c768e50950964bfdcefb9f1a36b268ae695fdea2bfd24daf8587def885e55d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/m/make-4.3-7.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "mpfr-0__4.1.0-7.el9.aarch64",
-    sha256 = "f3bd8510505a53450abe05dc34edbc5313fe89a6f88d0252624205dc7bb884c7",
+    sha256 = "41ce16a26c839c36cd84a836361ecd3ca4bc966bddc945af8cb70886331511ee",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/mpfr-4.1.0-7.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f3bd8510505a53450abe05dc34edbc5313fe89a6f88d0252624205dc7bb884c7",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/m/mpfr-4.1.0-7.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "mpfr-0__4.1.0-7.el9.x86_64",
-    sha256 = "179760104aa5a31ca463c586d0f21f380ba4d0eed212eee91bd1ca513e5d7a8d",
+    sha256 = "88e46af29bde609d8f414313d0090e30501cc38ddf5c6a1bffe34ae896ca936e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/mpfr-4.1.0-7.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/179760104aa5a31ca463c586d0f21f380ba4d0eed212eee91bd1ca513e5d7a8d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/m/mpfr-4.1.0-7.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "ncurses-base-0__6.2-10.20210508.el9.aarch64",
-    sha256 = "00ba56b28a3a85c3c03387bb7abeca92597c8a5fac7f53d48410ca2a20fd8065",
+    sha256 = "88a506c88f2964c71d7eafbef76f57870d799c041560bd929608c5853e632d98",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/ncurses-base-6.2-10.20210508.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/00ba56b28a3a85c3c03387bb7abeca92597c8a5fac7f53d48410ca2a20fd8065",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/n/ncurses-base-6.2-10.20210508.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "ncurses-base-0__6.2-10.20210508.el9.x86_64",
-    sha256 = "00ba56b28a3a85c3c03387bb7abeca92597c8a5fac7f53d48410ca2a20fd8065",
+    sha256 = "88a506c88f2964c71d7eafbef76f57870d799c041560bd929608c5853e632d98",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/ncurses-base-6.2-10.20210508.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/00ba56b28a3a85c3c03387bb7abeca92597c8a5fac7f53d48410ca2a20fd8065",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/ncurses-base-6.2-10.20210508.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "ncurses-libs-0__6.2-10.20210508.el9.aarch64",
-    sha256 = "0ccfc9eeb99be404367bf6157db2d1a6fb9ed479247f578501594e08e8f7080c",
+    sha256 = "4a4dfaff385ec7d1bcef1a0d1ef644d5a08ac844dd333594170b460c9f5b9ffb",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/ncurses-libs-6.2-10.20210508.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/0ccfc9eeb99be404367bf6157db2d1a6fb9ed479247f578501594e08e8f7080c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/n/ncurses-libs-6.2-10.20210508.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "ncurses-libs-0__6.2-10.20210508.el9.x86_64",
-    sha256 = "f4ead70a508051ed338499b35605b5b2b5bccde19c9e83f7e4b948f171b542ff",
+    sha256 = "ea2d4bd41eb314ea7537dc47d6952091700a5ba82f44ac98b767d5ac3efa94f6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/ncurses-libs-6.2-10.20210508.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f4ead70a508051ed338499b35605b5b2b5bccde19c9e83f7e4b948f171b542ff",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/ncurses-libs-6.2-10.20210508.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "ndctl-libs-0__71.1-8.el9.x86_64",
-    sha256 = "69d469e5106559ca5a156a2191f85e89fd44f7866701bfb35e197e5133413098",
+    sha256 = "d2faa74fdf22dcef61289a672d09127edcc59ec368211d161fa715821a630632",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/ndctl-libs-71.1-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/69d469e5106559ca5a156a2191f85e89fd44f7866701bfb35e197e5133413098",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/ndctl-libs-71.1-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "nettle-0__3.9.1-1.el9.aarch64",
-    sha256 = "991294c5c3f1544172cbc0c3bf27540036e0d09f42c161ef8bdf231c97d9ced0",
+    name = "nettle-0__3.8-3.el9_0.aarch64",
+    sha256 = "3dd74bc4cff017a46500656e9552c54b005c345dde1aa8e3cbb8447cfe88e7e1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/nettle-3.9.1-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/991294c5c3f1544172cbc0c3bf27540036e0d09f42c161ef8bdf231c97d9ced0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/n/nettle-3.8-3.el9_0.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "nettle-0__3.9.1-1.el9.x86_64",
-    sha256 = "ffeeab0a6b0caaf457ad77a64bb1dfac6c1144343f1057de64a89b5ae4b58bf5",
+    name = "nettle-0__3.8-3.el9_0.x86_64",
+    sha256 = "8b26d9abcaeadde048555c7187753b64172be4cca206f704ddf2319772bc4beb",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/nettle-3.9.1-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ffeeab0a6b0caaf457ad77a64bb1dfac6c1144343f1057de64a89b5ae4b58bf5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/nettle-3.8-3.el9_0.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "nfs-utils-1__2.5.4-20.el9.x86_64",
-    sha256 = "23038d6f6e125dc7f74a4b53f7a9e77bc93cce42d208738676aea8f238a7afb5",
+    sha256 = "fcae10e1db0afc9b8d5014357d49a7b818bc481efb789872b89630a7ed42c740",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/nfs-utils-2.5.4-20.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/23038d6f6e125dc7f74a4b53f7a9e77bc93cce42d208738676aea8f238a7afb5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/nfs-utils-2.5.4-20.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "nftables-1__1.0.4-11.el9.aarch64",
-    sha256 = "1921fa3fb26c4d1249d387783144ebe2be56967c2c838ab7cdd352c4c96aeeb5",
+    name = "nftables-1__1.0.4-11.el9_3.aarch64",
+    sha256 = "7bed4ba04f441103027fe8ac731d8b31eddfc90d4939073d317c760dc0ced72e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/nftables-1.0.4-11.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1921fa3fb26c4d1249d387783144ebe2be56967c2c838ab7cdd352c4c96aeeb5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/n/nftables-1.0.4-11.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "nftables-1__1.0.4-11.el9.x86_64",
-    sha256 = "2d9c555041853486216e5885115b0a8a4c9a346670dce13583ed0a64ceb1f811",
+    name = "nftables-1__1.0.4-11.el9_3.x86_64",
+    sha256 = "8f1630bf62cb80a49c88b6a4bcafacbc902c3cf623166e13199ccfa7e8369489",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/nftables-1.0.4-11.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/2d9c555041853486216e5885115b0a8a4c9a346670dce13583ed0a64ceb1f811",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/nftables-1.0.4-11.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "nmap-ncat-3__7.92-1.el9.aarch64",
-    sha256 = "521d708d7679c793d5fc63d7c51800bfaf39090d36f9eebee63cbf874f2c993f",
+    sha256 = "9c789dce2491e075b359bc08b46c435627b0fe62ed2aed9a2754dcd08bc086e0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/nmap-ncat-7.92-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/521d708d7679c793d5fc63d7c51800bfaf39090d36f9eebee63cbf874f2c993f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/n/nmap-ncat-7.92-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "nmap-ncat-3__7.92-1.el9.x86_64",
-    sha256 = "59e5378a2a0188793559e27feb1cdf66f195c3b3e1280b5b182a66d7c3803962",
+    sha256 = "667d49f4f2b1e1dc9f8b178c10dc79a6661bf9c989d320c7344e9387c8d8ab7f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/nmap-ncat-7.92-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/59e5378a2a0188793559e27feb1cdf66f195c3b3e1280b5b182a66d7c3803962",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/n/nmap-ncat-7.92-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "npth-0__1.6-8.el9.x86_64",
-    sha256 = "a7da4ef003bc60045bc60dae299b703e7f1db326f25208fb922ce1b79e2882da",
+    sha256 = "a96a4af76f58645fe34c526c684a45a5a97642c1836bfb3a91ef29520cb21324",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/npth-1.6-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a7da4ef003bc60045bc60dae299b703e7f1db326f25208fb922ce1b79e2882da",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/npth-1.6-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "numactl-libs-0__2.0.16-3.el9.aarch64",
-    sha256 = "018b1f427fd576c1acd7ba2dd79f74a49ee8afab5670a2519241260ef1466562",
+    name = "numactl-libs-0__2.0.16-1.el9.aarch64",
+    sha256 = "70294a9add5cc84a99a15258261ee3f06244a416e501d92d07c89ddac747b192",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/numactl-libs-2.0.16-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/018b1f427fd576c1acd7ba2dd79f74a49ee8afab5670a2519241260ef1466562",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/n/numactl-libs-2.0.16-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "numactl-libs-0__2.0.16-3.el9.x86_64",
-    sha256 = "56167ea50d70d737d28da028f279f42ac4b624f95ef8f5cce05944cb804230af",
+    name = "numactl-libs-0__2.0.16-1.el9.x86_64",
+    sha256 = "1386704a453b2f883e2658621d16654740a09d697647fef07c0aa6a8530d1557",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/numactl-libs-2.0.16-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/56167ea50d70d737d28da028f279f42ac4b624f95ef8f5cce05944cb804230af",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/numactl-libs-2.0.16-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "numad-0__0.5-37.20150602git.el9.aarch64",
-    sha256 = "c7f9e7e2d37c5d8ae263e8789142ba6956337a12a139a9661efff6ebfd3758c4",
+    name = "numad-0__0.5-36.20150602git.el9.aarch64",
+    sha256 = "72ab4c1f1300ef9df3f7cef76f10f716a9e12a47ac7a3b2a09bd18e7bc70bd04",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/numad-0.5-37.20150602git.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c7f9e7e2d37c5d8ae263e8789142ba6956337a12a139a9661efff6ebfd3758c4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/n/numad-0.5-36.20150602git.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "numad-0__0.5-37.20150602git.el9.x86_64",
-    sha256 = "82e83efcc0528646c0cfdaa846e45e89b6e347b78664b5528bbfdf919d57bd46",
+    name = "numad-0__0.5-36.20150602git.el9.x86_64",
+    sha256 = "26d5176357e73e7c8d7e5065c3a76759552a09f1f8632cb2d2b7ee47ff65ff22",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/numad-0.5-37.20150602git.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/82e83efcc0528646c0cfdaa846e45e89b6e347b78664b5528bbfdf919d57bd46",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/n/numad-0.5-36.20150602git.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "openldap-0__2.6.3-1.el9.aarch64",
-    sha256 = "2e6e4097eb6b282c94511ee5b96d97523e0f06610570abad918836e8d784050c",
+    sha256 = "5ae57ff07056352afe0a35a3acd629a6067dda3d327696ae1d362b091ac6945c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/openldap-2.6.3-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/2e6e4097eb6b282c94511ee5b96d97523e0f06610570abad918836e8d784050c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/o/openldap-2.6.3-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "openldap-0__2.6.3-1.el9.x86_64",
-    sha256 = "847286e28d64a2e52ff858cf09fcc659f2d2d025313249da8d0f6cbd702e51cb",
+    sha256 = "3dff4c7d167948e7879ebc87eeb75c278191fdaf6c1747a7a09b38a3da4e231f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/openldap-2.6.3-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/847286e28d64a2e52ff858cf09fcc659f2d2d025313249da8d0f6cbd702e51cb",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/o/openldap-2.6.3-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "openssl-1__3.0.7-25.el9.aarch64",
-    sha256 = "6ade21af511e3132aa47e628ff5b9a41adb13da3d8416a7001c0104bc0642376",
+    name = "openssl-1__3.0.7-25.el9_3.aarch64",
+    sha256 = "9c049321ba57f85826c1cccf48b500a9919843ab362fe3124a7f3aac5bcde909",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/openssl-3.0.7-25.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6ade21af511e3132aa47e628ff5b9a41adb13da3d8416a7001c0104bc0642376",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/o/openssl-3.0.7-25.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "openssl-1__3.0.7-25.el9.x86_64",
-    sha256 = "df42df91eda01e8010ddfa292fad9e8be188be79b952a497931eb46a99fcab99",
+    name = "openssl-1__3.0.7-25.el9_3.x86_64",
+    sha256 = "27be21eee1243192d544a785557601d5d256a851338286c6c28ff583cf4db718",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/openssl-3.0.7-25.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/df42df91eda01e8010ddfa292fad9e8be188be79b952a497931eb46a99fcab99",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/o/openssl-3.0.7-25.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "openssl-libs-1__3.0.7-25.el9.aarch64",
-    sha256 = "afecb7004e1156fc6758b20c8a38f7994ffc6f29d0edf51b80814b8fadc396e7",
+    name = "openssl-libs-1__3.0.7-25.el9_3.aarch64",
+    sha256 = "54e78409218cda5c47abd5bd62c6e4549ec1b3f52cd3145fd13ebd55ee1f2a84",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/openssl-libs-3.0.7-25.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/afecb7004e1156fc6758b20c8a38f7994ffc6f29d0edf51b80814b8fadc396e7",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/o/openssl-libs-3.0.7-25.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "openssl-libs-1__3.0.7-25.el9.x86_64",
-    sha256 = "caeb5f20befe44c499db61abf8f732d537a7313443af6e442189225aa666bd69",
+    name = "openssl-libs-1__3.0.7-25.el9_3.x86_64",
+    sha256 = "166eb36e368701bbd734fa35c866e0a94b24a780311737bfe2cff40ff5e1a15c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/openssl-libs-3.0.7-25.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/caeb5f20befe44c499db61abf8f732d537a7313443af6e442189225aa666bd69",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/o/openssl-libs-3.0.7-25.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "osinfo-db-0__20230518-1.el9.x86_64",
-    sha256 = "8f70c46a5dccad0e61fe0500b054f3af5a6ebb5371ec667fd8ee338e13e19afc",
+    sha256 = "402c5e2d1ca029665bf9eab43f24bfcc3d4a4b56435b2c652df15787345516be",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/osinfo-db-20230518-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/8f70c46a5dccad0e61fe0500b054f3af5a6ebb5371ec667fd8ee338e13e19afc",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/o/osinfo-db-20230518-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "osinfo-db-tools-0__1.10.0-1.el9.x86_64",
-    sha256 = "2681f49bf19314e44e7189852d6fbfc22fc3ed428240df9f3936a5200c14ddd0",
+    sha256 = "6a55be53ab583dc5a14021e4e799f77d0714d8401e53c36bacb61cb415350a01",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/osinfo-db-tools-1.10.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/2681f49bf19314e44e7189852d6fbfc22fc3ed428240df9f3936a5200c14ddd0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/o/osinfo-db-tools-1.10.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "p11-kit-0__0.25.3-2.el9.aarch64",
-    sha256 = "bdd4c7f279730c079b5f766a5c9f1297ee02120840bd12f084ab6f22e50c2203",
+    name = "p11-kit-0__0.24.1-2.el9.aarch64",
+    sha256 = "2115edc84ecf17aafd73ee1e61e55030ce77a2f5aee0a8cfd2c7f53612df3a20",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/p11-kit-0.25.3-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/bdd4c7f279730c079b5f766a5c9f1297ee02120840bd12f084ab6f22e50c2203",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/p11-kit-0.24.1-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "p11-kit-0__0.25.3-2.el9.x86_64",
-    sha256 = "0839ee9854251e66f3109b6c685f1e6b3cce6d2a1415e9f71a03d71f03eeb708",
+    name = "p11-kit-0__0.24.1-2.el9.x86_64",
+    sha256 = "2e9ba88f7638b89033dd8e3559f9c5c0a84cfa40110d061131391283eff07017",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/p11-kit-0.25.3-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/0839ee9854251e66f3109b6c685f1e6b3cce6d2a1415e9f71a03d71f03eeb708",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/p11-kit-0.24.1-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "p11-kit-trust-0__0.25.3-2.el9.aarch64",
-    sha256 = "f49208d939702ade5ff36a42af67be05ca5c3125665c23275520880a07f5d16a",
+    name = "p11-kit-trust-0__0.24.1-2.el9.aarch64",
+    sha256 = "f4a15510e60f410597da7e2bbc0cc1966cee9c3192f9f78310891d229b614659",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/p11-kit-trust-0.25.3-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f49208d939702ade5ff36a42af67be05ca5c3125665c23275520880a07f5d16a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/p11-kit-trust-0.24.1-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "p11-kit-trust-0__0.25.3-2.el9.x86_64",
-    sha256 = "177b963e62a19a2539138c1e5828a331bdf04c3675829a0dc88699765a4e0e63",
+    name = "p11-kit-trust-0__0.24.1-2.el9.x86_64",
+    sha256 = "f3323fd8f94b5590ce6b8a191db48315eee46e1f4c5b1902b1c0b14982dc4b34",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/p11-kit-trust-0.25.3-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/177b963e62a19a2539138c1e5828a331bdf04c3675829a0dc88699765a4e0e63",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/p11-kit-trust-0.24.1-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "pam-0__1.5.1-16.el9.aarch64",
-    sha256 = "fbf53ae69e1c9454c3264b4aaaefcfb4bfc0515f966dc504f752c38ad34a2738",
+    name = "pam-0__1.5.1-15.el9.aarch64",
+    sha256 = "e74b65dc25a73405dc94381f20876bfb39867d8d0077b0c62a9e983f2ef4c604",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/pam-1.5.1-16.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/fbf53ae69e1c9454c3264b4aaaefcfb4bfc0515f966dc504f752c38ad34a2738",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/pam-1.5.1-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "pam-0__1.5.1-16.el9.x86_64",
-    sha256 = "c727856e847a07748872c6b5bbd2e3552e84481d769644bc0f1fbd78cabe2d6c",
+    name = "pam-0__1.5.1-15.el9.x86_64",
+    sha256 = "78e92745d3a8fed7b4c61ab9665278d5247dd2402982bd7a3456466dd1014557",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/pam-1.5.1-16.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c727856e847a07748872c6b5bbd2e3552e84481d769644bc0f1fbd78cabe2d6c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/pam-1.5.1-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "parted-0__3.5-2.el9.x86_64",
-    sha256 = "ab6500203b5f0b3bd551c026ca60e5aec51170bdc62978a2702d386d2a645b5e",
+    sha256 = "dfb1ce7a70255119b4919a7b61112bfd7661a90f1063b0c77346e64a4eebc973",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/parted-3.5-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ab6500203b5f0b3bd551c026ca60e5aec51170bdc62978a2702d386d2a645b5e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/parted-3.5-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "passt-0__0__caret__20230818.g0af928e-4.el9.aarch64",
-    sha256 = "d3edd23371bd9363aa2eb0eb4c72026356b45efcbda6e979d71ec6441f014214",
+    sha256 = "8c1d043ec433646efc0135da2bf1ca4f02673a2af172a46bee43e8e5c44a10e5",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/passt-0%5E20230818.g0af928e-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d3edd23371bd9363aa2eb0eb4c72026356b45efcbda6e979d71ec6441f014214",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/p/passt-0%5E20230818.g0af928e-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "passt-0__0__caret__20230818.g0af928e-4.el9.x86_64",
-    sha256 = "f5ccbf38ca9dd821fc39508f565b7e8cead55b9eb698058e7bdb8ea50f6e3ad0",
+    sha256 = "52c45a59fdd95c16532fe5c2196478b920d78a342391eecc832c2c2cccd1a473",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/passt-0%5E20230818.g0af928e-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f5ccbf38ca9dd821fc39508f565b7e8cead55b9eb698058e7bdb8ea50f6e3ad0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/p/passt-0%5E20230818.g0af928e-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "pcre-0__8.44-3.el9.3.aarch64",
-    sha256 = "0331efd537704e75e26324ba6bb1568762d01bafe7fbce5b981ff0ee0d3ea80c",
+    sha256 = "2e799d49788c8ab4ce81a564e50308f60cc8e3bad86b4fd0f0cc628d4dc900f0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/pcre-8.44-3.el9.3.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/0331efd537704e75e26324ba6bb1568762d01bafe7fbce5b981ff0ee0d3ea80c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/pcre-8.44-3.el9.3.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "pcre-0__8.44-3.el9.3.x86_64",
-    sha256 = "4a3cb61eb08c4f24e44756b6cb329812fe48d5c65c1fba546fadfa975045a8c5",
+    sha256 = "167b0160dfe4bda726ed0f47e3773d6d4ee73dc032f5c09e768ffd4ac5681d71",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/pcre-8.44-3.el9.3.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/4a3cb61eb08c4f24e44756b6cb329812fe48d5c65c1fba546fadfa975045a8c5",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/pcre-8.44-3.el9.3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "pcre2-0__10.40-4.el9.aarch64",
-    sha256 = "1189e1b5f7587cbfa3b17a457cd0ffa49014d98fdab271a6446ac252ab996753",
+    name = "pcre2-0__10.40-2.el9.aarch64",
+    sha256 = "ac166b2214e5e427722c2f4c24befe4c05c5593866e84045c46721334f47e86f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/pcre2-10.40-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1189e1b5f7587cbfa3b17a457cd0ffa49014d98fdab271a6446ac252ab996753",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/pcre2-10.40-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "pcre2-0__10.40-4.el9.x86_64",
-    sha256 = "c50497baeb5a3b381a09039f4f6483f359610096b3ecd235cc2b89b17cc713bf",
+    name = "pcre2-0__10.40-2.el9.x86_64",
+    sha256 = "9c309aff834d55fffcb84b175032869d2d93656ec6a78df2b7cf7dd44319c1aa",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/pcre2-10.40-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c50497baeb5a3b381a09039f4f6483f359610096b3ecd235cc2b89b17cc713bf",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/pcre2-10.40-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "pcre2-syntax-0__10.40-4.el9.aarch64",
-    sha256 = "65b2b8673081f99db0f91777d18cd96cb86f1a4db7363f79bd6edaee893ea3ee",
+    name = "pcre2-syntax-0__10.40-2.el9.aarch64",
+    sha256 = "b121946dd77d3aa907935fd04730c8447758fb96102c332652815eea129246f3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/pcre2-syntax-10.40-4.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/65b2b8673081f99db0f91777d18cd96cb86f1a4db7363f79bd6edaee893ea3ee",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/pcre2-syntax-10.40-2.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "pcre2-syntax-0__10.40-4.el9.x86_64",
-    sha256 = "65b2b8673081f99db0f91777d18cd96cb86f1a4db7363f79bd6edaee893ea3ee",
+    name = "pcre2-syntax-0__10.40-2.el9.x86_64",
+    sha256 = "b121946dd77d3aa907935fd04730c8447758fb96102c332652815eea129246f3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/pcre2-syntax-10.40-4.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/65b2b8673081f99db0f91777d18cd96cb86f1a4db7363f79bd6edaee893ea3ee",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/pcre2-syntax-10.40-2.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "pixman-0__0.40.0-6.el9.aarch64",
-    sha256 = "949aaa9855119b3372bb4be01b7b2ab87ba9b6c949cad37f411f71553968248f",
+    name = "pixman-0__0.40.0-6.el9_3.aarch64",
+    sha256 = "25c78517864ddb7189abb5ce1771cd8e4bdaa2db0ecd78d36051ad361db563de",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/pixman-0.40.0-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/949aaa9855119b3372bb4be01b7b2ab87ba9b6c949cad37f411f71553968248f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/p/pixman-0.40.0-6.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "pixman-0__0.40.0-6.el9.x86_64",
-    sha256 = "e5f710c9d8ab38f2286070877560e99a28d3067ac117231e68c9e8cfb5c617de",
+    name = "pixman-0__0.40.0-6.el9_3.x86_64",
+    sha256 = "f90f7b61c355aae65c1c94ab19a6538212ba4f64236457fee42793710331321c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/pixman-0.40.0-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e5f710c9d8ab38f2286070877560e99a28d3067ac117231e68c9e8cfb5c617de",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/p/pixman-0.40.0-6.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "pkgconf-0__1.7.3-10.el9.aarch64",
-    sha256 = "94f174c9829d44f345bb8a734147f379ba95fb47d04befdb20a17e8b158b3710",
+    sha256 = "7b7d43f3c29ab0f7eb10ca100e1b8c95713f943a48d9168261f2170601b0be91",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/pkgconf-1.7.3-10.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/94f174c9829d44f345bb8a734147f379ba95fb47d04befdb20a17e8b158b3710",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/pkgconf-1.7.3-10.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "pkgconf-0__1.7.3-10.el9.x86_64",
-    sha256 = "2ff8b131570687e4eca9877feaa9058ef7c0772cff507c019f6c26aff126d065",
+    sha256 = "6a5ee8580ea3fb5edf1722c7a3941c1a5a431040a251dbff0e34f85c8352c93a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/pkgconf-1.7.3-10.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/2ff8b131570687e4eca9877feaa9058ef7c0772cff507c019f6c26aff126d065",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/pkgconf-1.7.3-10.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "pkgconf-m4-0__1.7.3-10.el9.aarch64",
-    sha256 = "de4946454f110a9b12ab50c9c3dfaa68633b4ae3cb4e5278b23d491eb3edc27a",
+    sha256 = "ac0ab185f11a413f08f645b6225aa67f4542b23e293cbc7af78d71e0259d7389",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/pkgconf-m4-1.7.3-10.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/de4946454f110a9b12ab50c9c3dfaa68633b4ae3cb4e5278b23d491eb3edc27a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/pkgconf-m4-1.7.3-10.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "pkgconf-m4-0__1.7.3-10.el9.x86_64",
-    sha256 = "de4946454f110a9b12ab50c9c3dfaa68633b4ae3cb4e5278b23d491eb3edc27a",
+    sha256 = "ac0ab185f11a413f08f645b6225aa67f4542b23e293cbc7af78d71e0259d7389",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/pkgconf-m4-1.7.3-10.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/de4946454f110a9b12ab50c9c3dfaa68633b4ae3cb4e5278b23d491eb3edc27a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/pkgconf-m4-1.7.3-10.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "pkgconf-pkg-config-0__1.7.3-10.el9.aarch64",
-    sha256 = "d36ff5361c4b31273b15ff34f0fec5ae5316d6555270b3d051d97c85c12defac",
+    sha256 = "f41b0b4d0f9ce0a9e63edcd9c141587b7db020e2e69917cdccfe32df9db21aa3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/pkgconf-pkg-config-1.7.3-10.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d36ff5361c4b31273b15ff34f0fec5ae5316d6555270b3d051d97c85c12defac",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/pkgconf-pkg-config-1.7.3-10.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "pkgconf-pkg-config-0__1.7.3-10.el9.x86_64",
-    sha256 = "e308e84f06756bf3c14bc426fb2519008ad8423925c4662bb379ea87aced19d9",
+    sha256 = "c7e4569fe2d676e76dc689a751884541bcd6595616e8c9fb00bc198bce642031",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/pkgconf-pkg-config-1.7.3-10.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e308e84f06756bf3c14bc426fb2519008ad8423925c4662bb379ea87aced19d9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/pkgconf-pkg-config-1.7.3-10.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "policycoreutils-0__3.6-0.rc1.1.el9.aarch64",
-    sha256 = "f5b864f141baa68496254b5f50c5ae7481b09951f9be12fac6310be756789833",
+    name = "policycoreutils-0__3.5-3.el9_3.aarch64",
+    sha256 = "de29c8e92c673fdc86d896da063e2369db852f804589ef6feea805601d03abca",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/policycoreutils-3.6-0.rc1.1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f5b864f141baa68496254b5f50c5ae7481b09951f9be12fac6310be756789833",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/policycoreutils-3.5-3.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "policycoreutils-0__3.6-0.rc1.1.el9.x86_64",
-    sha256 = "9fe30b3e54e95c17561b7d50e0aac97d55ff212cd5afa5e350bee446d1f6ca1f",
+    name = "policycoreutils-0__3.5-3.el9_3.x86_64",
+    sha256 = "186f2d2f4c2214b9edf9eb6da3cafde60e7bebd02c088a8af56a408688b07d03",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/policycoreutils-3.6-0.rc1.1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9fe30b3e54e95c17561b7d50e0aac97d55ff212cd5afa5e350bee446d1f6ca1f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/policycoreutils-3.5-3.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "polkit-0__0.117-11.el9.aarch64",
-    sha256 = "89396fbd7ee82b5e275b4710e97c66a82e6f8ea3f06801583255c5afb4fbb1a7",
+    sha256 = "8af109986b4bde01ce87e4b272b07e13dba9f6fa6c545e40741111d979eb4548",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/polkit-0.117-11.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/89396fbd7ee82b5e275b4710e97c66a82e6f8ea3f06801583255c5afb4fbb1a7",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/polkit-0.117-11.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "polkit-0__0.117-11.el9.x86_64",
-    sha256 = "aa1dba30bfe853f39cb75bb83de6b4aebf81bed3b743b29ca325558320834b0d",
+    sha256 = "bd58ba1412ea75be83259e8d6437710d1a1dc253a4b2b965dcad4c074cefeab9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/polkit-0.117-11.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/aa1dba30bfe853f39cb75bb83de6b4aebf81bed3b743b29ca325558320834b0d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/polkit-0.117-11.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "polkit-libs-0__0.117-11.el9.aarch64",
-    sha256 = "80b4bec3572e4be6c17deab334b45b31667b00fec587b339607239429c67b278",
+    sha256 = "9b7728119c318a68143463c5cc46a9d175692cb373e7f151e472775a22467814",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/polkit-libs-0.117-11.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/80b4bec3572e4be6c17deab334b45b31667b00fec587b339607239429c67b278",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/polkit-libs-0.117-11.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "polkit-libs-0__0.117-11.el9.x86_64",
-    sha256 = "975049fa240c818d49dfc22716e270de7c193fe526f93f091fc0f91f361921d8",
+    sha256 = "cc5ef7386278ee3d6bffea06ec92e8c26b00b9d16b339a947fe3c7c02a30ab2b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/polkit-libs-0.117-11.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/975049fa240c818d49dfc22716e270de7c193fe526f93f091fc0f91f361921d8",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/polkit-libs-0.117-11.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "polkit-pkla-compat-0__0.1-21.el9.aarch64",
-    sha256 = "c22bfa6ebfb7c8803cd115e750f29408a00d73475ec8b77d409b7eabd2aeb61a",
+    sha256 = "da32d58f42367d8070211e4077a616f8e392ba17874f6b84c6cba6bed6addbec",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/polkit-pkla-compat-0.1-21.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c22bfa6ebfb7c8803cd115e750f29408a00d73475ec8b77d409b7eabd2aeb61a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/polkit-pkla-compat-0.1-21.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "polkit-pkla-compat-0__0.1-21.el9.x86_64",
-    sha256 = "ffb4cc04548f24cf7cd62da9747d3839af7676b29b60cfd3da59c6ec31ebdf99",
+    sha256 = "1dc0e90407bd33d572241c49545aef26459d2950ac9ef83c11db18710a043f62",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/polkit-pkla-compat-0.1-21.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ffb4cc04548f24cf7cd62da9747d3839af7676b29b60cfd3da59c6ec31ebdf99",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/polkit-pkla-compat-0.1-21.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "popt-0__1.18-8.el9.aarch64",
-    sha256 = "032427adaa37d2a1c6d2f3cab42ccbdce2c6d9b3c1f3cd91c05a92c99198babb",
+    sha256 = "11636ccf4c42f8fd89d2ada61a382792ad560ac052e499d1b7193c3c8fab7637",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/popt-1.18-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/032427adaa37d2a1c6d2f3cab42ccbdce2c6d9b3c1f3cd91c05a92c99198babb",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/popt-1.18-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "popt-0__1.18-8.el9.x86_64",
-    sha256 = "d864419035e99f8bb06f5d1c767608ed81f942cb128a98b590c1dbc4afbd54d4",
+    sha256 = "4306e6bb950191170669ccbfe904bf943a94736e910179f9b0db962148fe4bcf",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/popt-1.18-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d864419035e99f8bb06f5d1c767608ed81f942cb128a98b590c1dbc4afbd54d4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/popt-1.18-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "procps-ng-0__3.3.17-13.el9.aarch64",
-    sha256 = "d8220f6f5fe307815c22803c3db6af1e83ef8b79112e8f2c911c9fba1092eee8",
+    sha256 = "933919c4139414315ed3bc9ca030dfc2804f8f18790bae378b3e083758c2ec28",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/procps-ng-3.3.17-13.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d8220f6f5fe307815c22803c3db6af1e83ef8b79112e8f2c911c9fba1092eee8",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/procps-ng-3.3.17-13.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "procps-ng-0__3.3.17-13.el9.x86_64",
-    sha256 = "20932dc3e2818d562acb5fb60e4b5c222fc2f5cca77988cd7e9be4a81647b339",
+    sha256 = "b82c86c32069bd67a90c25bf07576242a0d669d5b17105bbd55998ab5a8c46f3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/procps-ng-3.3.17-13.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/20932dc3e2818d562acb5fb60e4b5c222fc2f5cca77988cd7e9be4a81647b339",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/procps-ng-3.3.17-13.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "protobuf-c-0__1.3.3-13.el9.aarch64",
-    sha256 = "7293996e2cbb1fabb43c5c156fa37c22558a73125ebdfe036e2338ca18a319c8",
+    sha256 = "392e4853776c93521ce1d81921762b300e18ad7ca65c5415716cc3af076a7fd1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/protobuf-c-1.3.3-13.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/7293996e2cbb1fabb43c5c156fa37c22558a73125ebdfe036e2338ca18a319c8",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/protobuf-c-1.3.3-13.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "protobuf-c-0__1.3.3-13.el9.x86_64",
-    sha256 = "3a4af8395499f19ebebc1cd928cd01fb96e05173e3a5d03d8e981c04b0042409",
+    sha256 = "084e207869fa9bfd0c4c94e4be1249aa909087fe90229141149b95e517ab74cf",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/protobuf-c-1.3.3-13.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3a4af8395499f19ebebc1cd928cd01fb96e05173e3a5d03d8e981c04b0042409",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/protobuf-c-1.3.3-13.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "psmisc-0__23.4-3.el9.aarch64",
-    sha256 = "4ad245b41ebf13cbabbb2962fad8d4aa0db7c75eb2171a4235252ad48e81a680",
+    sha256 = "e12449b4349de38d20c4e65d5bddef5aeea31cd010d4f60cb9d13b0df30dbeb2",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/psmisc-23.4-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4ad245b41ebf13cbabbb2962fad8d4aa0db7c75eb2171a4235252ad48e81a680",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/psmisc-23.4-3.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "psmisc-0__23.4-3.el9.x86_64",
-    sha256 = "e02fc28d42912689b006fcc1e98bdb5b0eefba538eb024c4e00ec9adc348449d",
+    sha256 = "c6bb80487a9518ffd9956018f7577f93d011d28077ca4453a97701a181269745",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/psmisc-23.4-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e02fc28d42912689b006fcc1e98bdb5b0eefba538eb024c4e00ec9adc348449d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/psmisc-23.4-3.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "publicsuffix-list-dafsa-0__20210518-3.el9.x86_64",
-    sha256 = "992c17312bf5f144ec17b3c9733ab180c6c3641323d2deaf7c13e6bd1971f7a6",
+    sha256 = "e21742695de260517bfa5340aaab1360d936b20cd9896ab79ed74e74a0949eb2",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/publicsuffix-list-dafsa-20210518-3.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/992c17312bf5f144ec17b3c9733ab180c6c3641323d2deaf7c13e6bd1971f7a6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/publicsuffix-list-dafsa-20210518-3.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "python3-0__3.9.18-1.el9.aarch64",
-    sha256 = "a302ff9ef351846095c4f770ed348ef10c8c0232b793e9c4baf7cb60898ab360",
+    name = "python3-0__3.9.18-1.el9_3.1.aarch64",
+    sha256 = "1c6ef0beb29a2ee6e9694e1a31da53f184083301c96b9e88fdf6a6b32ea696a9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-3.9.18-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a302ff9ef351846095c4f770ed348ef10c8c0232b793e9c4baf7cb60898ab360",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-3.9.18-1.el9_3.1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "python3-0__3.9.18-1.el9.x86_64",
-    sha256 = "865afca1492fa6afb39f6471b2ee78870821fc9fe1555c3b2c28d6b281ebb211",
+    name = "python3-0__3.9.18-1.el9_3.1.x86_64",
+    sha256 = "09709555500f9a3ca38d8a3301e5464c0bb28724dea590553d6cf619b8368b31",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-3.9.18-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/865afca1492fa6afb39f6471b2ee78870821fc9fe1555c3b2c28d6b281ebb211",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-3.9.18-1.el9_3.1.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "python3-configshell-1__1.1.30-1.el9.aarch64",
-    sha256 = "15575ccf52609db52e8535ebdd52f64f2fc9f599a2b4f0ac79d2c3f49aa32cd1",
+    name = "python3-configshell-1__1.1.28-7.el9.aarch64",
+    sha256 = "5fef8514c1ca02661f8af4d56bfd0e63a82918777fd0049a9762cd81a5b555f6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-configshell-1.1.30-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/15575ccf52609db52e8535ebdd52f64f2fc9f599a2b4f0ac79d2c3f49aa32cd1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-configshell-1.1.28-7.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "python3-configshell-1__1.1.30-1.el9.x86_64",
-    sha256 = "15575ccf52609db52e8535ebdd52f64f2fc9f599a2b4f0ac79d2c3f49aa32cd1",
+    name = "python3-configshell-1__1.1.28-7.el9.x86_64",
+    sha256 = "5fef8514c1ca02661f8af4d56bfd0e63a82918777fd0049a9762cd81a5b555f6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-configshell-1.1.30-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/15575ccf52609db52e8535ebdd52f64f2fc9f599a2b4f0ac79d2c3f49aa32cd1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-configshell-1.1.28-7.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-dbus-0__1.2.18-2.el9.aarch64",
-    sha256 = "ce454fa8f9a2d015face9e9ae64f6730f2ba104d0556c91b93fca2006f132bf9",
+    sha256 = "dd6d2a5a5b62d44a96a7358a488a14b306f0dad3bf3b10b95ac841be42474c4f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-dbus-1.2.18-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ce454fa8f9a2d015face9e9ae64f6730f2ba104d0556c91b93fca2006f132bf9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-dbus-1.2.18-2.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "python3-dbus-0__1.2.18-2.el9.x86_64",
-    sha256 = "8e42f3e54292bfc76ab52ee3f91f850fb0cca63c9a49692938381ca93460a686",
+    sha256 = "e23e3586da45903370df716592dc57e6a2a9d8affe0bc28aa71a7009b8ad4e53",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-dbus-1.2.18-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/8e42f3e54292bfc76ab52ee3f91f850fb0cca63c9a49692938381ca93460a686",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-dbus-1.2.18-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "python3-gobject-base-0__3.40.1-6.el9.aarch64",
-    sha256 = "815369710e8d7c6f7473380210283f9e6dfdc0c6cc553c4ea9cb709835937adb",
+    sha256 = "667e6d62393ca33e69fd996b4d2ae542135595b0b8d88eb19b1278747d5f1d73",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-gobject-base-3.40.1-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/815369710e8d7c6f7473380210283f9e6dfdc0c6cc553c4ea9cb709835937adb",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-gobject-base-3.40.1-6.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "python3-gobject-base-0__3.40.1-6.el9.x86_64",
-    sha256 = "bb795c9ba439bd1a0329e3534001432c95c5c454ccc61029f68501006f539a51",
+    sha256 = "d7e1edfadf0efe52373d0c928a73d54a54495314cdac0c024c5e4975c02ccfea",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-gobject-base-3.40.1-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/bb795c9ba439bd1a0329e3534001432c95c5c454ccc61029f68501006f539a51",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-gobject-base-3.40.1-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "python3-gobject-base-noarch-0__3.40.1-6.el9.aarch64",
-    sha256 = "57ae14f5296ed26cabd264a2b88a015b05f962b65c9633eb328da029a0372b01",
+    sha256 = "b2dad2251c850ea5dd1e7488af0054d9ff5452af23e557d4fed71e7af3e10308",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-gobject-base-noarch-3.40.1-6.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/57ae14f5296ed26cabd264a2b88a015b05f962b65c9633eb328da029a0372b01",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-gobject-base-noarch-3.40.1-6.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-gobject-base-noarch-0__3.40.1-6.el9.x86_64",
-    sha256 = "57ae14f5296ed26cabd264a2b88a015b05f962b65c9633eb328da029a0372b01",
+    sha256 = "b2dad2251c850ea5dd1e7488af0054d9ff5452af23e557d4fed71e7af3e10308",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-gobject-base-noarch-3.40.1-6.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/57ae14f5296ed26cabd264a2b88a015b05f962b65c9633eb328da029a0372b01",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-gobject-base-noarch-3.40.1-6.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "python3-kmod-0__0.9-32.el9.aarch64",
-    sha256 = "600b42a5b139ea5f8b246561294581c09237d88ec9bbcce823f56213d7e2652f",
+    name = "python3-kmod-0__0.9-32.el9.0.1.aarch64",
+    sha256 = "dd5fcf99a9a86a4b6f9bc259d1134754d3f55ae3e79e11839dc023feb515c89e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-kmod-0.9-32.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/600b42a5b139ea5f8b246561294581c09237d88ec9bbcce823f56213d7e2652f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-kmod-0.9-32.el9.0.1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "python3-kmod-0__0.9-32.el9.x86_64",
-    sha256 = "e0b0ae0d507496349b667e0281b4d72ac3f7b7fa65c633c56afa3f328855a2d9",
+    name = "python3-kmod-0__0.9-32.el9.0.1.x86_64",
+    sha256 = "0b6ddb50bfaa129db23eda7c0aebfdc40e5c5950a3aa11085262d9bf2a439423",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-kmod-0.9-32.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/e0b0ae0d507496349b667e0281b4d72ac3f7b7fa65c633c56afa3f328855a2d9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-kmod-0.9-32.el9.0.1.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "python3-libs-0__3.9.18-1.el9.aarch64",
-    sha256 = "1bb68a1790622942b490eaaa06450aebfdfef2ea6d909177387bdfa0750f348d",
+    name = "python3-libs-0__3.9.18-1.el9_3.1.aarch64",
+    sha256 = "f1850984c8d676217bfeb06b88e74195a2f30de325053d1eb3a8ba58307ebbbd",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-libs-3.9.18-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/1bb68a1790622942b490eaaa06450aebfdfef2ea6d909177387bdfa0750f348d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-libs-3.9.18-1.el9_3.1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "python3-libs-0__3.9.18-1.el9.x86_64",
-    sha256 = "cdc2d677d2137ebf3719bb20d08687261d6dd18b30401e0f792377fb04804561",
+    name = "python3-libs-0__3.9.18-1.el9_3.1.x86_64",
+    sha256 = "7d4284e7081de8475155dafd908ac42265e975a814545793e60a643d74c85a53",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-libs-3.9.18-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/cdc2d677d2137ebf3719bb20d08687261d6dd18b30401e0f792377fb04804561",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-libs-3.9.18-1.el9_3.1.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "python3-pip-wheel-0__21.2.3-7.el9.aarch64",
-    sha256 = "629fa0b71150272bfc7d4f348b04d2588a70fcdd5c3b52e176ea3a7d3de71e89",
+    name = "python3-pip-wheel-0__21.2.3-7.el9_3.1.aarch64",
+    sha256 = "3ba7a97fe99cd6bb423c3d979bfd47a728df85f104beb2a06c3a7528b5d659cb",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-pip-wheel-21.2.3-7.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/629fa0b71150272bfc7d4f348b04d2588a70fcdd5c3b52e176ea3a7d3de71e89",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-pip-wheel-21.2.3-7.el9_3.1.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "python3-pip-wheel-0__21.2.3-7.el9.x86_64",
-    sha256 = "629fa0b71150272bfc7d4f348b04d2588a70fcdd5c3b52e176ea3a7d3de71e89",
+    name = "python3-pip-wheel-0__21.2.3-7.el9_3.1.x86_64",
+    sha256 = "3ba7a97fe99cd6bb423c3d979bfd47a728df85f104beb2a06c3a7528b5d659cb",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-pip-wheel-21.2.3-7.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/629fa0b71150272bfc7d4f348b04d2588a70fcdd5c3b52e176ea3a7d3de71e89",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-pip-wheel-21.2.3-7.el9_3.1.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-pyparsing-0__2.4.7-9.el9.aarch64",
-    sha256 = "ee20a60fb835392fc76c1a1a3e9befa0e4b3d27bdcfbfb0aab90fcddf3c60439",
+    sha256 = "40ef3b8d201e07ac5a339334d7c8ae15a024aa6b4783504a265efca0c2b60b27",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-pyparsing-2.4.7-9.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/ee20a60fb835392fc76c1a1a3e9befa0e4b3d27bdcfbfb0aab90fcddf3c60439",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-pyparsing-2.4.7-9.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-pyparsing-0__2.4.7-9.el9.x86_64",
-    sha256 = "ee20a60fb835392fc76c1a1a3e9befa0e4b3d27bdcfbfb0aab90fcddf3c60439",
+    sha256 = "9fa0091a1c1e9cded3dbcceadb327ee51ca7ca93fadc0e7763f214ca0ca6b735",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-pyparsing-2.4.7-9.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/ee20a60fb835392fc76c1a1a3e9befa0e4b3d27bdcfbfb0aab90fcddf3c60439",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-pyparsing-2.4.7-9.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-pyudev-0__0.22.0-6.el9.aarch64",
-    sha256 = "db815d76afabb8dd7eca6ca5a5bf838304f82824c41e4f06b6d25b5eb63c65c6",
+    sha256 = "3b6b79b5b1e14de93b102ab2ca8a30a61a2e479636363c775caba019803938a1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-pyudev-0.22.0-6.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/db815d76afabb8dd7eca6ca5a5bf838304f82824c41e4f06b6d25b5eb63c65c6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-pyudev-0.22.0-6.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-pyudev-0__0.22.0-6.el9.x86_64",
-    sha256 = "db815d76afabb8dd7eca6ca5a5bf838304f82824c41e4f06b6d25b5eb63c65c6",
+    sha256 = "f80c7b0e6211747b80d86db522435e8eed74137b10226770fd55e078d5eb52b7",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-pyudev-0.22.0-6.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/db815d76afabb8dd7eca6ca5a5bf838304f82824c41e4f06b6d25b5eb63c65c6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-pyudev-0.22.0-6.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "python3-rtslib-0__2.1.76-1.el9.aarch64",
-    sha256 = "2cc7a615005d44835de5d211208722d9ebc7e5d36ad62632c5773a301ef6f0d2",
+    name = "python3-rtslib-0__2.1.75-1.el9.aarch64",
+    sha256 = "cb61cc1b08659c5a9e188dd3b235d68409a78a8b68d40c58cb1242e22c811bc8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/python3-rtslib-2.1.76-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/2cc7a615005d44835de5d211208722d9ebc7e5d36ad62632c5773a301ef6f0d2",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/p/python3-rtslib-2.1.75-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "python3-rtslib-0__2.1.76-1.el9.x86_64",
-    sha256 = "2cc7a615005d44835de5d211208722d9ebc7e5d36ad62632c5773a301ef6f0d2",
+    name = "python3-rtslib-0__2.1.75-1.el9.x86_64",
+    sha256 = "cb61cc1b08659c5a9e188dd3b235d68409a78a8b68d40c58cb1242e22c811bc8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/python3-rtslib-2.1.76-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/2cc7a615005d44835de5d211208722d9ebc7e5d36ad62632c5773a301ef6f0d2",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/p/python3-rtslib-2.1.75-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-setuptools-wheel-0__53.0.0-12.el9.aarch64",
-    sha256 = "de1a05afcb6087cf6fc6e38b952485239a72ae719538bd255e14789e606ab2ca",
+    sha256 = "5bb20fbfab730d4a064f89492fddb394fc811070fed89015a2f84e700e6db276",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-setuptools-wheel-53.0.0-12.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/de1a05afcb6087cf6fc6e38b952485239a72ae719538bd255e14789e606ab2ca",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-setuptools-wheel-53.0.0-12.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-setuptools-wheel-0__53.0.0-12.el9.x86_64",
-    sha256 = "de1a05afcb6087cf6fc6e38b952485239a72ae719538bd255e14789e606ab2ca",
+    sha256 = "5bb20fbfab730d4a064f89492fddb394fc811070fed89015a2f84e700e6db276",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-setuptools-wheel-53.0.0-12.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/de1a05afcb6087cf6fc6e38b952485239a72ae719538bd255e14789e606ab2ca",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-setuptools-wheel-53.0.0-12.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-six-0__1.15.0-9.el9.aarch64",
-    sha256 = "efecffed29602079a1ea1d41c819271ec705a97a68891b43e1d626b2fa0ea8a1",
+    sha256 = "752fc8b137a10cedd07c59478bd0822830d7502b7ce6d5cbb5c5f8cb5b4f1f1c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-six-1.15.0-9.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/efecffed29602079a1ea1d41c819271ec705a97a68891b43e1d626b2fa0ea8a1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-six-1.15.0-9.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-six-0__1.15.0-9.el9.x86_64",
-    sha256 = "efecffed29602079a1ea1d41c819271ec705a97a68891b43e1d626b2fa0ea8a1",
+    sha256 = "752fc8b137a10cedd07c59478bd0822830d7502b7ce6d5cbb5c5f8cb5b4f1f1c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-six-1.15.0-9.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/efecffed29602079a1ea1d41c819271ec705a97a68891b43e1d626b2fa0ea8a1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-six-1.15.0-9.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "python3-urwid-0__2.1.2-4.el9.aarch64",
-    sha256 = "a91fcc1b5b01aeb0830d04f562cb843489f38d2606d8ab480a876207f4335990",
+    sha256 = "0f500c0e96f167433c246b4df4ea1954a30983119b4aff9bff9398ca473be5b6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/python3-urwid-2.1.2-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a91fcc1b5b01aeb0830d04f562cb843489f38d2606d8ab480a876207f4335990",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/p/python3-urwid-2.1.2-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "python3-urwid-0__2.1.2-4.el9.x86_64",
-    sha256 = "b4e4915a49904035e0e8d8ed15a545f2d7191e9d760c438343980fbf0b66abf4",
+    sha256 = "3e59948519fb95c8c5138dec9ac0951a03e804d19feee17785d1d1eef35921b0",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/python3-urwid-2.1.2-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b4e4915a49904035e0e8d8ed15a545f2d7191e9d760c438343980fbf0b66abf4",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/p/python3-urwid-2.1.2-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "qemu-img-17__8.0.0-13.el9.aarch64",
-    sha256 = "4e5e088c57310147f64a0dc8b7096a0fe9daac8cee6149c42687a0679923fc39",
-    urls = ["https://storage.googleapis.com/builddeps/4e5e088c57310147f64a0dc8b7096a0fe9daac8cee6149c42687a0679923fc39"],
-)
-
-rpm(
-    name = "qemu-img-17__8.0.0-13.el9.x86_64",
-    sha256 = "2f2b859728eaacf2034ec755f5b1b8a35650f46bb11ec8005d59400ceaefaefa",
-    urls = ["https://storage.googleapis.com/builddeps/2f2b859728eaacf2034ec755f5b1b8a35650f46bb11ec8005d59400ceaefaefa"],
-)
-
-rpm(
-    name = "qemu-kvm-common-17__8.0.0-13.el9.aarch64",
-    sha256 = "cd563f5f7e11852e878dad78f0c80de9c60d89ebab0eff336a27582c3315635c",
-    urls = ["https://storage.googleapis.com/builddeps/cd563f5f7e11852e878dad78f0c80de9c60d89ebab0eff336a27582c3315635c"],
-)
-
-rpm(
-    name = "qemu-kvm-common-17__8.0.0-13.el9.x86_64",
-    sha256 = "a5c40e85781ccfc10c98975df9582651199893b513521c2b79b81a50f48b2127",
-    urls = ["https://storage.googleapis.com/builddeps/a5c40e85781ccfc10c98975df9582651199893b513521c2b79b81a50f48b2127"],
-)
-
-rpm(
-    name = "qemu-kvm-core-17__8.0.0-13.el9.aarch64",
-    sha256 = "1616a8d2fb11c963cb2de8c6cabf151840c939b928869a0f3633dddd245b66c2",
-    urls = ["https://storage.googleapis.com/builddeps/1616a8d2fb11c963cb2de8c6cabf151840c939b928869a0f3633dddd245b66c2"],
-)
-
-rpm(
-    name = "qemu-kvm-core-17__8.0.0-13.el9.x86_64",
-    sha256 = "7887c4bf06b08b057af9c96352c8007f952836a5940a9c8f8a76a9388fd7e338",
-    urls = ["https://storage.googleapis.com/builddeps/7887c4bf06b08b057af9c96352c8007f952836a5940a9c8f8a76a9388fd7e338"],
-)
-
-rpm(
-    name = "qemu-kvm-device-display-virtio-gpu-17__8.0.0-13.el9.aarch64",
-    sha256 = "8098025cb36fe31938efc76c6ec61537ae353b638472f9ccfe6c1d0d5a630634",
-    urls = ["https://storage.googleapis.com/builddeps/8098025cb36fe31938efc76c6ec61537ae353b638472f9ccfe6c1d0d5a630634"],
-)
-
-rpm(
-    name = "qemu-kvm-device-display-virtio-gpu-pci-17__8.0.0-13.el9.aarch64",
-    sha256 = "a5c1663351101ed443925e05150d8e91cda71a4a73deeb0b6abc6ea17726b2d5",
-    urls = ["https://storage.googleapis.com/builddeps/a5c1663351101ed443925e05150d8e91cda71a4a73deeb0b6abc6ea17726b2d5"],
-)
-
-rpm(
-    name = "qemu-kvm-device-usb-host-17__8.0.0-13.el9.aarch64",
-    sha256 = "6766a8164e99c82cd985bd96f2653381564dada2ecb373ff8fc462733ce75ee8",
-    urls = ["https://storage.googleapis.com/builddeps/6766a8164e99c82cd985bd96f2653381564dada2ecb373ff8fc462733ce75ee8"],
-)
-
-rpm(
-    name = "qemu-kvm-device-usb-host-17__8.0.0-13.el9.x86_64",
-    sha256 = "b42fbf8706a056377b87bd82c298d81261a89200e2768e90be84b3773491e59e",
-    urls = ["https://storage.googleapis.com/builddeps/b42fbf8706a056377b87bd82c298d81261a89200e2768e90be84b3773491e59e"],
-)
-
-rpm(
-    name = "qemu-kvm-device-usb-redirect-17__8.0.0-13.el9.x86_64",
-    sha256 = "6de8f93673068504e702035ea064070663a3c8e7e91366e9b39a4ca8c8829597",
-    urls = ["https://storage.googleapis.com/builddeps/6de8f93673068504e702035ea064070663a3c8e7e91366e9b39a4ca8c8829597"],
-)
-
-rpm(
-    name = "qemu-pr-helper-17__8.1.0-4.el9.aarch64",
-    sha256 = "5a4725053b84ad9c18becdefe6cdb9f27ef8a60bbaaa49119c7735034d9b436d",
+    name = "qemu-img-17__8.0.0-16.el9_3.3.aarch64",
+    sha256 = "f1bb61a7dbedabf5b2e6e51ae5120acbe676bdaeb554e74d7c9d85d2134078bc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/qemu-pr-helper-8.1.0-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5a4725053b84ad9c18becdefe6cdb9f27ef8a60bbaaa49119c7735034d9b436d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/q/qemu-img-8.0.0-16.el9_3.3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "qemu-pr-helper-17__8.1.0-4.el9.x86_64",
-    sha256 = "a7d266787528cb72fc68184d00b70b9c9ae1ce478d0a0731fc3d0b94dbbcb23a",
+    name = "qemu-img-17__8.0.0-16.el9_3.3.x86_64",
+    sha256 = "235efdb00d531145c0835008fcc77c54c24e2b3c72ef7916cad84cdfb5bafe98",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/qemu-pr-helper-8.1.0-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a7d266787528cb72fc68184d00b70b9c9ae1ce478d0a0731fc3d0b94dbbcb23a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/q/qemu-img-8.0.0-16.el9_3.3.x86_64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-common-17__8.0.0-16.el9_3.3.aarch64",
+    sha256 = "89c9403890ffc932307e9f048afe238f36e23da70de45c0742d60b4db37055c7",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/q/qemu-kvm-common-8.0.0-16.el9_3.3.aarch64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-common-17__8.0.0-16.el9_3.3.x86_64",
+    sha256 = "d25761e7cfb947140d84f88f4308c6a04c371b5dc7d33c427edcdb6d35a5981f",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/q/qemu-kvm-common-8.0.0-16.el9_3.3.x86_64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-core-17__8.0.0-16.el9_3.3.aarch64",
+    sha256 = "b6f609983cef495f2f436c30ee4f7c7bf99924d27e64ffe2e8618810d644cc5b",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/q/qemu-kvm-core-8.0.0-16.el9_3.3.aarch64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-core-17__8.0.0-16.el9_3.3.x86_64",
+    sha256 = "5bf4aab9e2aac5e9683a0f415aec39a644b6508fc792c4c17202a30ced30efad",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/q/qemu-kvm-core-8.0.0-16.el9_3.3.x86_64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-device-display-virtio-gpu-17__8.0.0-16.el9_3.3.aarch64",
+    sha256 = "d91e638faa6da2933493c93ebe5591f06dde911641ed96a8cb37ffb9617485ac",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/q/qemu-kvm-device-display-virtio-gpu-8.0.0-16.el9_3.3.aarch64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-device-display-virtio-gpu-pci-17__8.0.0-16.el9_3.3.aarch64",
+    sha256 = "1633f0646f2644688dcda85bf36ed4de635c0516f15e0dc3ccea5a29ff0ff379",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/q/qemu-kvm-device-display-virtio-gpu-pci-8.0.0-16.el9_3.3.aarch64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-device-usb-host-17__8.0.0-16.el9_3.3.aarch64",
+    sha256 = "9ea4aa97150d5dfb62ba00ff04936d13a1e6eed6d998b82a91efcb6ea76baf7c",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/q/qemu-kvm-device-usb-host-8.0.0-16.el9_3.3.aarch64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-device-usb-host-17__8.0.0-16.el9_3.3.x86_64",
+    sha256 = "844455237f3e3043c2968913145c5155b24509d8880913d9e8af8391d4b76572",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/q/qemu-kvm-device-usb-host-8.0.0-16.el9_3.3.x86_64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-kvm-device-usb-redirect-17__8.0.0-16.el9_3.3.x86_64",
+    sha256 = "f7d1a20c14e1a338a060152dafa8d76661965e784880425a81ae53c399077d76",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/q/qemu-kvm-device-usb-redirect-8.0.0-16.el9_3.3.x86_64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-pr-helper-17__8.0.0-16.el9_3.3.aarch64",
+    sha256 = "b430fb34b3da6ee54e17bd8b1010a24e955fcb74075d5938141081478fbab4eb",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/q/qemu-pr-helper-8.0.0-16.el9_3.3.aarch64.rpm",
+    ],
+)
+
+rpm(
+    name = "qemu-pr-helper-17__8.0.0-16.el9_3.3.x86_64",
+    sha256 = "b83b9c0b80b19ddad562bdce640f15d4e73081dd90bd5aa343ea110d6bbbccc2",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/q/qemu-pr-helper-8.0.0-16.el9_3.3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "quota-1__4.06-6.el9.x86_64",
-    sha256 = "b4827d71208202beeecc6e661584b3cf008f2ee22ddd7250089dd94ff22be31e",
+    sha256 = "f67ab8beded96c1202a02d3a78599abb8923b886d69cd78239920259f08550cc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/quota-4.06-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b4827d71208202beeecc6e661584b3cf008f2ee22ddd7250089dd94ff22be31e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/q/quota-4.06-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "quota-nls-1__4.06-6.el9.x86_64",
-    sha256 = "7a63c4fcc7166563de95bfffb23b54db2b17c8cef178f5c0887ac8f5ab8ec1e3",
+    sha256 = "559f42980ccf87eb65f3d447761acfea03f234ddd003a4c833721f7f72d60371",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/quota-nls-4.06-6.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/7a63c4fcc7166563de95bfffb23b54db2b17c8cef178f5c0887ac8f5ab8ec1e3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/q/quota-nls-4.06-6.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "readline-0__8.1-4.el9.aarch64",
-    sha256 = "2ecec47a882ff434cc869b691a7e1e8d7639bc1af44bcb214ff4921f675776aa",
+    sha256 = "f9524ba04a382ef9595d66ed84cdda3c36e1e651da17d6552e7d0ef0348ea1d5",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/readline-8.1-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/2ecec47a882ff434cc869b691a7e1e8d7639bc1af44bcb214ff4921f675776aa",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/r/readline-8.1-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "readline-0__8.1-4.el9.x86_64",
-    sha256 = "49945472925286ad89b0575657b43f9224777e36b442f0c88df67f0b61e26aee",
+    sha256 = "b85f5cffef627afe640cf7405845cb45956d66ef5a06e7c48dc7da47a7191674",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/readline-8.1-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/49945472925286ad89b0575657b43f9224777e36b442f0c88df67f0b61e26aee",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/r/readline-8.1-4.el9.x86_64.rpm",
+    ],
+)
+
+rpm(
+    name = "rocky-gpg-keys-0__9.3-1.3.el9.aarch64",
+    sha256 = "4002d66aa28a77ac141b101fc5fa345207c814349e8d2e5d803c20cc89cfa712",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/r/rocky-gpg-keys-9.3-1.3.el9.noarch.rpm",
+    ],
+)
+
+rpm(
+    name = "rocky-gpg-keys-0__9.3-1.3.el9.x86_64",
+    sha256 = "4002d66aa28a77ac141b101fc5fa345207c814349e8d2e5d803c20cc89cfa712",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/r/rocky-gpg-keys-9.3-1.3.el9.noarch.rpm",
+    ],
+)
+
+rpm(
+    name = "rocky-release-0__9.3-1.3.el9.aarch64",
+    sha256 = "65148a25a2f9a96e8dfa502c486a4b82233601328bc2ba7730cc9b661a70e0bf",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/r/rocky-release-9.3-1.3.el9.noarch.rpm",
+    ],
+)
+
+rpm(
+    name = "rocky-release-0__9.3-1.3.el9.x86_64",
+    sha256 = "65148a25a2f9a96e8dfa502c486a4b82233601328bc2ba7730cc9b661a70e0bf",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/r/rocky-release-9.3-1.3.el9.noarch.rpm",
+    ],
+)
+
+rpm(
+    name = "rocky-repos-0__9.3-1.3.el9.aarch64",
+    sha256 = "56273da27e20b0624aef60ae8a43258e6df1009aa401cb1e0f6fdfbdd39ae4c1",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/r/rocky-repos-9.3-1.3.el9.noarch.rpm",
+    ],
+)
+
+rpm(
+    name = "rocky-repos-0__9.3-1.3.el9.x86_64",
+    sha256 = "56273da27e20b0624aef60ae8a43258e6df1009aa401cb1e0f6fdfbdd39ae4c1",
+    urls = [
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/r/rocky-repos-9.3-1.3.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "rpcbind-0__1.2.6-5.el9.x86_64",
-    sha256 = "9ff0aa1299bb78f3c494620283cd34bcc9a1aa9f03fc902f21ba4c4c854b1e22",
+    sha256 = "96ebf3804e5574010ed0fa809b7140fc1968419fe1468e75de3146c3d0ad976f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/rpcbind-1.2.6-5.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9ff0aa1299bb78f3c494620283cd34bcc9a1aa9f03fc902f21ba4c4c854b1e22",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/r/rpcbind-1.2.6-5.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "rpm-0__4.16.1.3-26.el9.aarch64",
-    sha256 = "6da546a4d87940c00edd0655788f8ec912575ba875ca4bf4ca5b66fc63b7f8fe",
+    name = "rpm-0__4.16.1.3-27.el9_3.aarch64",
+    sha256 = "224df70ad2dd5d0393e834b6c39dbb337bf72def8d15d9a12d2c8a9aee8e2cdf",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/rpm-4.16.1.3-26.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6da546a4d87940c00edd0655788f8ec912575ba875ca4bf4ca5b66fc63b7f8fe",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/r/rpm-4.16.1.3-27.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "rpm-0__4.16.1.3-26.el9.x86_64",
-    sha256 = "5b4dd36ab74e8516b75580f64df49c40a32e47ee069513eb120c9ea5c38fb6bc",
+    name = "rpm-0__4.16.1.3-27.el9_3.x86_64",
+    sha256 = "7ea9e8bc8387169634a3cfcc38f79226ab7c8ecaf5ad124db44cf82fba5f2821",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/rpm-4.16.1.3-26.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/5b4dd36ab74e8516b75580f64df49c40a32e47ee069513eb120c9ea5c38fb6bc",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/r/rpm-4.16.1.3-27.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "rpm-libs-0__4.16.1.3-26.el9.aarch64",
-    sha256 = "e3b35a5792160a0531ffaadda108359747e89df892cbf636dceb3f452d7733d3",
+    name = "rpm-libs-0__4.16.1.3-27.el9_3.aarch64",
+    sha256 = "9cf0274b05359cd40ea668e741c67ce516815fb438541e1ccd84973ee4527012",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/rpm-libs-4.16.1.3-26.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/e3b35a5792160a0531ffaadda108359747e89df892cbf636dceb3f452d7733d3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/r/rpm-libs-4.16.1.3-27.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "rpm-libs-0__4.16.1.3-26.el9.x86_64",
-    sha256 = "73ac8b7bf54ff0fce758f4d0235ba06e66f7f65da89bd41d41d1f469547e4a84",
+    name = "rpm-libs-0__4.16.1.3-27.el9_3.x86_64",
+    sha256 = "37c05c94daa2ff81207273f016028f9770887bd4faeb443d17f7f9674e3b374d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/rpm-libs-4.16.1.3-26.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/73ac8b7bf54ff0fce758f4d0235ba06e66f7f65da89bd41d41d1f469547e4a84",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/r/rpm-libs-4.16.1.3-27.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "rpm-plugin-selinux-0__4.16.1.3-26.el9.aarch64",
-    sha256 = "7c3f309f7d002e53a686d89b53ea3c92c9ab021b59f258b9614ce86e24ae83f7",
+    name = "rpm-plugin-selinux-0__4.16.1.3-27.el9_3.aarch64",
+    sha256 = "b5553827727c5f8ca43617e986e1ad4667e7f8b9b2ba9408a213c995c99d6c9c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/rpm-plugin-selinux-4.16.1.3-26.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/7c3f309f7d002e53a686d89b53ea3c92c9ab021b59f258b9614ce86e24ae83f7",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/r/rpm-plugin-selinux-4.16.1.3-27.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "rpm-plugin-selinux-0__4.16.1.3-26.el9.x86_64",
-    sha256 = "a9b0d3b9a6383fb5edb5f34dc2a64b0abe9ce02c63d80145b1f0b5a78daa76da",
+    name = "rpm-plugin-selinux-0__4.16.1.3-27.el9_3.x86_64",
+    sha256 = "17125a66c95fc91e0b23d17526b009b1aa266b6539171d1507cc4bb0564e19fb",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/rpm-plugin-selinux-4.16.1.3-26.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a9b0d3b9a6383fb5edb5f34dc2a64b0abe9ce02c63d80145b1f0b5a78daa76da",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/r/rpm-plugin-selinux-4.16.1.3-27.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "seabios-0__1.16.1-1.el9.x86_64",
-    sha256 = "eec7c900965dfee16c97a341374c4592d5d194694f9a4af998be3f1e56f6bbad",
+    sha256 = "399d57eb82eec042d053daf2ae126fbb6f204500a344f5f6c2ed748e99d65b35",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/seabios-1.16.1-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/eec7c900965dfee16c97a341374c4592d5d194694f9a4af998be3f1e56f6bbad",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/s/seabios-1.16.1-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "seabios-bin-0__1.16.1-1.el9.x86_64",
-    sha256 = "bc66dda921365d3e1c99a989c4e7344bb1bebf7da34af910741dff599a2a950c",
+    sha256 = "0434002fa394016a5eb6db2ba9dfd5bf1665d20992c701155f311950a1cf6ff2",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/seabios-bin-1.16.1-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/bc66dda921365d3e1c99a989c4e7344bb1bebf7da34af910741dff599a2a950c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/s/seabios-bin-1.16.1-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "seavgabios-bin-0__1.16.1-1.el9.x86_64",
-    sha256 = "3032204d68939ad64b7f245adf578c75c9d7f8ed579cf2f06a77d4d97e57a966",
+    sha256 = "6183a9127ee5e5920bcda81d72679005809d5599ed655ae2c164f9ce36a8f8f6",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/seavgabios-bin-1.16.1-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/3032204d68939ad64b7f245adf578c75c9d7f8ed579cf2f06a77d4d97e57a966",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/s/seavgabios-bin-1.16.1-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "sed-0__4.8-9.el9.aarch64",
-    sha256 = "cfdec0f026af984c11277ae613f16af7a86ea6170aac3da495a027599fdc8e3d",
+    sha256 = "b48959916662d4d20a6207e02f7e243408987d99621963d450d0bec185cffbfe",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/sed-4.8-9.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/cfdec0f026af984c11277ae613f16af7a86ea6170aac3da495a027599fdc8e3d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/sed-4.8-9.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "sed-0__4.8-9.el9.x86_64",
-    sha256 = "a2c5d9a7f569abb5a592df1c3aaff0441bf827c9d0e2df0ab42b6c443dbc475f",
+    sha256 = "005c959166838b0e45f02e699c35ec5449025e2463751c56b7e614bbd9514732",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/sed-4.8-9.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a2c5d9a7f569abb5a592df1c3aaff0441bf827c9d0e2df0ab42b6c443dbc475f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/sed-4.8-9.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "selinux-policy-0__38.1.27-1.el9.aarch64",
-    sha256 = "45b29730452b1d9072815b64286155610b7c53aa98a008c4b1b1713df5084c69",
+    name = "selinux-policy-0__38.1.23-1.el9_3.2.aarch64",
+    sha256 = "35852b3d90160e23019cce8ea87736b5e23f035781633d90bd969917e42d8d3c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/selinux-policy-38.1.27-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/45b29730452b1d9072815b64286155610b7c53aa98a008c4b1b1713df5084c69",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/selinux-policy-38.1.23-1.el9_3.2.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "selinux-policy-0__38.1.27-1.el9.x86_64",
-    sha256 = "45b29730452b1d9072815b64286155610b7c53aa98a008c4b1b1713df5084c69",
+    name = "selinux-policy-0__38.1.23-1.el9_3.2.x86_64",
+    sha256 = "35852b3d90160e23019cce8ea87736b5e23f035781633d90bd969917e42d8d3c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/selinux-policy-38.1.27-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/45b29730452b1d9072815b64286155610b7c53aa98a008c4b1b1713df5084c69",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/selinux-policy-38.1.23-1.el9_3.2.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "selinux-policy-targeted-0__38.1.27-1.el9.aarch64",
-    sha256 = "ec583e298817b23ac110c53626682c53ef752c5ae4d9f18cd3d63aa4578700df",
+    name = "selinux-policy-targeted-0__38.1.23-1.el9_3.2.aarch64",
+    sha256 = "010743b38760602cc9c12d8c63d81415318faa06204efa4825a0d6ca2608a87c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/selinux-policy-targeted-38.1.27-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/ec583e298817b23ac110c53626682c53ef752c5ae4d9f18cd3d63aa4578700df",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/selinux-policy-targeted-38.1.23-1.el9_3.2.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "selinux-policy-targeted-0__38.1.27-1.el9.x86_64",
-    sha256 = "ec583e298817b23ac110c53626682c53ef752c5ae4d9f18cd3d63aa4578700df",
+    name = "selinux-policy-targeted-0__38.1.23-1.el9_3.2.x86_64",
+    sha256 = "010743b38760602cc9c12d8c63d81415318faa06204efa4825a0d6ca2608a87c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/selinux-policy-targeted-38.1.27-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/ec583e298817b23ac110c53626682c53ef752c5ae4d9f18cd3d63aa4578700df",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/selinux-policy-targeted-38.1.23-1.el9_3.2.noarch.rpm",
     ],
 )
 
 rpm(
     name = "setup-0__2.13.7-9.el9.aarch64",
-    sha256 = "e1b7458eff8a50015cdfaef129aeebf663ffd70a5b94f4e3318a7603023de8ae",
+    sha256 = "d6a656fedcb0a6706ba20bc8131833b0481fcc277a1a57e17d1225e34a553d34",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/setup-2.13.7-9.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/e1b7458eff8a50015cdfaef129aeebf663ffd70a5b94f4e3318a7603023de8ae",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/setup-2.13.7-9.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "setup-0__2.13.7-9.el9.x86_64",
-    sha256 = "e1b7458eff8a50015cdfaef129aeebf663ffd70a5b94f4e3318a7603023de8ae",
+    sha256 = "d6a656fedcb0a6706ba20bc8131833b0481fcc277a1a57e17d1225e34a553d34",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/setup-2.13.7-9.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/e1b7458eff8a50015cdfaef129aeebf663ffd70a5b94f4e3318a7603023de8ae",
-    ],
-)
-
-rpm(
-    name = "sevctl-0__0.1.0-4.el9.aarch64",
-    sha256 = "10a9ace255a5b84c2e89b413c08e24894470bfec6f6c790ea073b6fa3df7ee7a",
-    urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/sevctl-0.1.0-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/10a9ace255a5b84c2e89b413c08e24894470bfec6f6c790ea073b6fa3df7ee7a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/setup-2.13.7-9.el9.noarch.rpm",
     ],
 )
 
 rpm(
     name = "sevctl-0__0.4.2-1.el9.x86_64",
-    sha256 = "3a365631679a0ebf367ba1701235019c6d04e2a92233035409b8ee84b0b54297",
+    sha256 = "b66a995b5e5213d2a4e69aafb6a7e95154536474bf83a142735e214118d57ebb",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/sevctl-0.4.2-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/3a365631679a0ebf367ba1701235019c6d04e2a92233035409b8ee84b0b54297",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/s/sevctl-0.4.2-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "shadow-utils-2__4.9-8.el9.aarch64",
-    sha256 = "e425a9b6b5ba059e0d633f9193b83db4e0bef7f9c4f5b8dbeef41bbb153d6162",
+    sha256 = "73422bb56437e1e6cb7a26770688281ab07e7976993a944e6f7739fe79db7d1a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/shadow-utils-4.9-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/e425a9b6b5ba059e0d633f9193b83db4e0bef7f9c4f5b8dbeef41bbb153d6162",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/shadow-utils-4.9-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "shadow-utils-2__4.9-8.el9.x86_64",
-    sha256 = "d656b38df69084201a459e9d7084e3653a58b238a7c947e465b8db6c31104261",
+    sha256 = "5ccdca4c6840b5e7944df911f0bc0f29657499630b866ab9d7944d153d0d401c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/shadow-utils-4.9-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/d656b38df69084201a459e9d7084e3653a58b238a7c947e465b8db6c31104261",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/shadow-utils-4.9-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "snappy-0__1.1.8-8.el9.aarch64",
-    sha256 = "02e5739b35acb3874546e98a8c182e1281f5a80604a550f05de2094c38c5e0d7",
+    sha256 = "821877ab14ad8a15a38999cab3a408145e42414c7ed7620f689e0e648d87e080",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/snappy-1.1.8-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/02e5739b35acb3874546e98a8c182e1281f5a80604a550f05de2094c38c5e0d7",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/snappy-1.1.8-8.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "snappy-0__1.1.8-8.el9.x86_64",
-    sha256 = "10facee86b64af91b06292ca9892fd94fe5fc08c068b0baed6a0927d6a64955a",
+    sha256 = "015cc069208f232ae50267e76bca2410d187dbe8d044f15424857d324d45bc89",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/snappy-1.1.8-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/10facee86b64af91b06292ca9892fd94fe5fc08c068b0baed6a0927d6a64955a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/snappy-1.1.8-8.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "sqlite-libs-0__3.34.1-6.el9.aarch64",
-    sha256 = "14ebed56d97af9a87504d2bf4c1c52f68e514cba6fb308ef559a0ed18e51d77f",
+    name = "sqlite-libs-0__3.34.1-7.el9_3.aarch64",
+    sha256 = "2cb657f0cbcac497228fec8d29621f7e093af3a0b59a7d78703eb59032fb40a8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/sqlite-libs-3.34.1-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/14ebed56d97af9a87504d2bf4c1c52f68e514cba6fb308ef559a0ed18e51d77f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/sqlite-libs-3.34.1-7.el9_3.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "sqlite-libs-0__3.34.1-6.el9.x86_64",
-    sha256 = "440da6dd7ad99e29e540626efe09650add959846d00a9759f0c4a417161d911e",
+    name = "sqlite-libs-0__3.34.1-7.el9_3.x86_64",
+    sha256 = "9e9b58febeff10765c104ecebc8af189507ecd6c2a600f9b0d9207394117a063",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/sqlite-libs-3.34.1-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/440da6dd7ad99e29e540626efe09650add959846d00a9759f0c4a417161d911e",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/sqlite-libs-3.34.1-7.el9_3.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "sssd-client-0__2.9.3-2.el9.aarch64",
-    sha256 = "5577c15821003db50849de851f6d2acfad4506c461c1f9e42b31b5652f13012b",
+    name = "sssd-client-0__2.9.1-4.el9_3.5.aarch64",
+    sha256 = "0928917e62fb4fe86800339d10c20595b050b2c66b6b48078e680775cbc6e1ad",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/sssd-client-2.9.3-2.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5577c15821003db50849de851f6d2acfad4506c461c1f9e42b31b5652f13012b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/sssd-client-2.9.1-4.el9_3.5.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "sssd-client-0__2.9.3-2.el9.x86_64",
-    sha256 = "9001f9740bcdce56b4ad91248c6b0e427c683b0ab6baa2e5a79ac7b9943767f1",
+    name = "sssd-client-0__2.9.1-4.el9_3.5.x86_64",
+    sha256 = "b5d393bbdb4993e3f44bde1a8da934be325f51abcfe2df572962a75b76d12e00",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/sssd-client-2.9.3-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9001f9740bcdce56b4ad91248c6b0e427c683b0ab6baa2e5a79ac7b9943767f1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/sssd-client-2.9.1-4.el9_3.5.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "swtpm-0__0.8.0-1.el9.aarch64",
-    sha256 = "7ccdddbd8dab7287094dddfee27e1791ffa9b8593611d90a68f9b5e3827389c3",
+    sha256 = "41893a90c7e464b2d12e50ef3e586c6cb8246555bb34d7575f1003cf18a4c139",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/swtpm-0.8.0-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/7ccdddbd8dab7287094dddfee27e1791ffa9b8593611d90a68f9b5e3827389c3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/s/swtpm-0.8.0-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "swtpm-0__0.8.0-1.el9.x86_64",
-    sha256 = "1828ddb3d6e0155b004eb2bc07c778b020509429cd3fae79ed20b533e06066c6",
+    sha256 = "5eb01dd8584a5049fe99ca0bae3a344c2ac1209bd16ae5e6c7affbcb6d54ea1c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/swtpm-0.8.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/1828ddb3d6e0155b004eb2bc07c778b020509429cd3fae79ed20b533e06066c6",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/s/swtpm-0.8.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "swtpm-libs-0__0.8.0-1.el9.aarch64",
-    sha256 = "27521263b75a6d3a69898b5300781ddd502b82b191f99a7bd450604e3def6db9",
+    sha256 = "26afd2a0ec3e7594eb091c04a7edcd5d7d55ae34157b15d67292eec083e407d1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/swtpm-libs-0.8.0-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/27521263b75a6d3a69898b5300781ddd502b82b191f99a7bd450604e3def6db9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/s/swtpm-libs-0.8.0-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "swtpm-libs-0__0.8.0-1.el9.x86_64",
-    sha256 = "9afc462a3f5d36db313d3ebc4b09fc34f83b4e34419a1a8f738bcce03489d683",
+    sha256 = "10e022aec0504ea5429d99e5f33baea9f278c1ee43bd4dd012a5cbeb4a5f0e48",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/swtpm-libs-0.8.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9afc462a3f5d36db313d3ebc4b09fc34f83b4e34419a1a8f738bcce03489d683",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/s/swtpm-libs-0.8.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "swtpm-tools-0__0.8.0-1.el9.aarch64",
-    sha256 = "3f3624dbf8520a3bd46e2254b67b997eefbe8e2781753cd75b97876f0e396255",
+    sha256 = "d0cdb9db3f699a7222085b8987cfd4dde7925dc9b038962b5ab2983053756a0a",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/swtpm-tools-0.8.0-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/3f3624dbf8520a3bd46e2254b67b997eefbe8e2781753cd75b97876f0e396255",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/s/swtpm-tools-0.8.0-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "swtpm-tools-0__0.8.0-1.el9.x86_64",
-    sha256 = "b3531cb8d1d4408945ae6ca072852d6a9cf82300061a263b11bd841cf51ea037",
+    sha256 = "e0e25c30526267a12c61655d6437ce906bc25c1ab2dd3ba22bb856fad5dd961c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/swtpm-tools-0.8.0-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b3531cb8d1d4408945ae6ca072852d6a9cf82300061a263b11bd841cf51ea037",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/s/swtpm-tools-0.8.0-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-0__252-18.el9.aarch64",
-    sha256 = "b227048150dea6866efbcdb67f3f1a4f6fc89531fc3827bf11263857f442546a",
+    name = "systemd-0__252-18.el9.0.1.rocky.aarch64",
+    sha256 = "64e08250ba00c61f3ec88b8063fee6e16a1a02f6fdcd63484afab2d517c919fe",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/systemd-252-18.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/b227048150dea6866efbcdb67f3f1a4f6fc89531fc3827bf11263857f442546a",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/systemd-252-18.el9.0.1.rocky.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-0__252-18.el9.x86_64",
-    sha256 = "9c0c1834dcc3db548f97cdfd6a6ac65a261fd4d8224edf46e30bb88b2b2c63f1",
+    name = "systemd-0__252-18.el9.0.1.rocky.x86_64",
+    sha256 = "a5aa14cbdd3af530e92fc7947edbe52f60b9d767bb5ba81b26909274b93e706c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/systemd-252-18.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9c0c1834dcc3db548f97cdfd6a6ac65a261fd4d8224edf46e30bb88b2b2c63f1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/systemd-252-18.el9.0.1.rocky.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-container-0__252-18.el9.aarch64",
-    sha256 = "4cebef3662f6c0de51bcd967debc8b8898f4cb112e1745772d2027f1f5588eee",
+    name = "systemd-container-0__252-18.el9.0.1.rocky.aarch64",
+    sha256 = "5173ab6a5c34123fdaad834f617f074e0ac0a58a3508453b58551ae4ace0a9f9",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/systemd-container-252-18.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/4cebef3662f6c0de51bcd967debc8b8898f4cb112e1745772d2027f1f5588eee",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/systemd-container-252-18.el9.0.1.rocky.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-container-0__252-18.el9.x86_64",
-    sha256 = "69591d4e37541f3acd73156c1766c8acb84cc5d5d174cb140f1fd3275bcf2c5f",
+    name = "systemd-container-0__252-18.el9.0.1.rocky.x86_64",
+    sha256 = "fb1fbd42f804b814cadb5e86a15d0dbc9d68de65834943b214de426caadf6489",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/systemd-container-252-18.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/69591d4e37541f3acd73156c1766c8acb84cc5d5d174cb140f1fd3275bcf2c5f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/systemd-container-252-18.el9.0.1.rocky.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-libs-0__252-18.el9.aarch64",
-    sha256 = "f71ca1cfedf8f65a7b7212fb9dc9fd1a8b510bd740d5e79d46acece46f933d05",
+    name = "systemd-libs-0__252-18.el9.0.1.rocky.aarch64",
+    sha256 = "99b14c6dfe29cc9c04862c8a61f4d92bd24c9d34863e9d5c8ab39caa3902761b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/systemd-libs-252-18.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/f71ca1cfedf8f65a7b7212fb9dc9fd1a8b510bd740d5e79d46acece46f933d05",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/systemd-libs-252-18.el9.0.1.rocky.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-libs-0__252-18.el9.x86_64",
-    sha256 = "a572727265b31de5d74c8065f452e785484158941da4c960148e1618ab0b64dd",
+    name = "systemd-libs-0__252-18.el9.0.1.rocky.x86_64",
+    sha256 = "96959d8e10651cd021f9b2e3e86f3f65ab4dbb817f9059e213b52e09115e199b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/systemd-libs-252-18.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/a572727265b31de5d74c8065f452e785484158941da4c960148e1618ab0b64dd",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/systemd-libs-252-18.el9.0.1.rocky.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-pam-0__252-18.el9.aarch64",
-    sha256 = "d246ba6dac02d263d2f220321dd672f2b21cfafc9983f744efd10eacaf100979",
+    name = "systemd-pam-0__252-18.el9.0.1.rocky.aarch64",
+    sha256 = "b2f7b6e169d18ff83e7a0a55a7a2c7d6b966759962d956f0c640cc5fb03bac6c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/systemd-pam-252-18.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/d246ba6dac02d263d2f220321dd672f2b21cfafc9983f744efd10eacaf100979",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/systemd-pam-252-18.el9.0.1.rocky.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-pam-0__252-18.el9.x86_64",
-    sha256 = "fdafbf55660897e5bf33c9cf39c73b3c7a24e4e5677272490855427053a6799b",
+    name = "systemd-pam-0__252-18.el9.0.1.rocky.x86_64",
+    sha256 = "33e84099762fd48b7f23c1be240c5fcdfd0f4b54e6252e36e0b39c1ad3a9c5b2",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/systemd-pam-252-18.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/fdafbf55660897e5bf33c9cf39c73b3c7a24e4e5677272490855427053a6799b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/systemd-pam-252-18.el9.0.1.rocky.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-rpm-macros-0__252-18.el9.aarch64",
-    sha256 = "8e3fef50d8c964af111bddd370675deabbc2b3e3c68a9b9c0492463e2b51ef08",
+    name = "systemd-rpm-macros-0__252-18.el9.0.1.rocky.aarch64",
+    sha256 = "4b421d3dc3284b183cc7ef7afce0d1e0c14bc3a29fd0311608a203d42403e0c8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/systemd-rpm-macros-252-18.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/8e3fef50d8c964af111bddd370675deabbc2b3e3c68a9b9c0492463e2b51ef08",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/s/systemd-rpm-macros-252-18.el9.0.1.rocky.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "systemd-rpm-macros-0__252-18.el9.x86_64",
-    sha256 = "8e3fef50d8c964af111bddd370675deabbc2b3e3c68a9b9c0492463e2b51ef08",
+    name = "systemd-rpm-macros-0__252-18.el9.0.1.rocky.x86_64",
+    sha256 = "4b421d3dc3284b183cc7ef7afce0d1e0c14bc3a29fd0311608a203d42403e0c8",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/systemd-rpm-macros-252-18.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/8e3fef50d8c964af111bddd370675deabbc2b3e3c68a9b9c0492463e2b51ef08",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/s/systemd-rpm-macros-252-18.el9.0.1.rocky.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "tar-2__1.34-6.el9.aarch64",
-    sha256 = "98a9ca5a25c6aa73b5183b3333abad062a8f82d8b9390d2b2fbdc1eea5b4fb9b",
+    name = "tar-2__1.34-6.el9_1.aarch64",
+    sha256 = "6e5bf8c10468082774b189468c4d0f0ea18d500dd2d1c461f44eead55f7f1867",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/tar-1.34-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/98a9ca5a25c6aa73b5183b3333abad062a8f82d8b9390d2b2fbdc1eea5b4fb9b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/t/tar-1.34-6.el9_1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "tar-2__1.34-6.el9.x86_64",
-    sha256 = "9f6adb2da035d5123587a2bb401487521bd6543497003ffc6e66386d898133f3",
+    name = "tar-2__1.34-6.el9_1.x86_64",
+    sha256 = "0021b9ea1115a020b1a007d033b29b5efe2715970ff35466247863db7561c08f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/tar-1.34-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/9f6adb2da035d5123587a2bb401487521bd6543497003ffc6e66386d898133f3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/t/tar-1.34-6.el9_1.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "target-restore-0__2.1.76-1.el9.aarch64",
-    sha256 = "506d34ce73d61becd6190c0a86954e183c30e2d4efb873a4e258229812670ce3",
+    name = "target-restore-0__2.1.75-1.el9.aarch64",
+    sha256 = "1e6d0e3382703875fb33f4ddeeff009875657a38de1f53b4233e02d4794ae463",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/target-restore-2.1.76-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/506d34ce73d61becd6190c0a86954e183c30e2d4efb873a4e258229812670ce3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/t/target-restore-2.1.75-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "target-restore-0__2.1.76-1.el9.x86_64",
-    sha256 = "506d34ce73d61becd6190c0a86954e183c30e2d4efb873a4e258229812670ce3",
+    name = "target-restore-0__2.1.75-1.el9.x86_64",
+    sha256 = "1e6d0e3382703875fb33f4ddeeff009875657a38de1f53b4233e02d4794ae463",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/target-restore-2.1.76-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/506d34ce73d61becd6190c0a86954e183c30e2d4efb873a4e258229812670ce3",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/t/target-restore-2.1.75-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "targetcli-0__2.1.57-1.el9.aarch64",
-    sha256 = "4d752255dafdea1385f22fc00ea24f770de5b120ee7bcbba7051bb7d91838d79",
+    name = "targetcli-0__2.1.53-7.el9.aarch64",
+    sha256 = "a1f620ccef942499d36e94804a5b746ef739437450bb4cbaea55a146b4627a3b",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/targetcli-2.1.57-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/4d752255dafdea1385f22fc00ea24f770de5b120ee7bcbba7051bb7d91838d79",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/t/targetcli-2.1.53-7.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "targetcli-0__2.1.57-1.el9.x86_64",
-    sha256 = "4d752255dafdea1385f22fc00ea24f770de5b120ee7bcbba7051bb7d91838d79",
+    name = "targetcli-0__2.1.53-7.el9.x86_64",
+    sha256 = "b42866fd04e52979638aa1f51a369b563446b50ab4dbf821d0ed2850b9c3648f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/targetcli-2.1.57-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/4d752255dafdea1385f22fc00ea24f770de5b120ee7bcbba7051bb7d91838d79",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/t/targetcli-2.1.53-7.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "tzdata-0__2023c-1.el9.aarch64",
-    sha256 = "6990005a7665404476ca1a274a5e195ca3afbb5763b51720ce2c3127cc5e6114",
+    name = "tzdata-0__2024a-1.el9.aarch64",
+    sha256 = "02b97ca307e83d3c4f00e7e57f315e1f25949313ea98b704efef07553b52b1aa",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/tzdata-2023c-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/6990005a7665404476ca1a274a5e195ca3afbb5763b51720ce2c3127cc5e6114",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/t/tzdata-2024a-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "tzdata-0__2023c-1.el9.x86_64",
-    sha256 = "6990005a7665404476ca1a274a5e195ca3afbb5763b51720ce2c3127cc5e6114",
+    name = "tzdata-0__2024a-1.el9.x86_64",
+    sha256 = "02b97ca307e83d3c4f00e7e57f315e1f25949313ea98b704efef07553b52b1aa",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/tzdata-2023c-1.el9.noarch.rpm",
-        "https://storage.googleapis.com/builddeps/6990005a7665404476ca1a274a5e195ca3afbb5763b51720ce2c3127cc5e6114",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/t/tzdata-2024a-1.el9.noarch.rpm",
     ],
 )
 
 rpm(
-    name = "unbound-libs-0__1.16.2-3.el9.aarch64",
-    sha256 = "a8919b80ffaeae3d7a2247062bac1fbaf9de7c7e9aab5bd36181b758043ee2d0",
+    name = "unbound-libs-0__1.16.2-3.el9_3.5.aarch64",
+    sha256 = "c4edb6c5acdd60fd0cbb8637d0dbf3c5cdff28195664b4e80c82afca7731d736",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/unbound-libs-1.16.2-3.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/a8919b80ffaeae3d7a2247062bac1fbaf9de7c7e9aab5bd36181b758043ee2d0",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/u/unbound-libs-1.16.2-3.el9_3.5.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "unbound-libs-0__1.16.2-3.el9.x86_64",
-    sha256 = "db922b8fc89c38939f879d25909f6881ef736580925642fd3f4fbf8e93a7d139",
+    name = "unbound-libs-0__1.16.2-3.el9_3.5.x86_64",
+    sha256 = "1e87341a97cc10cf26d45c6e766061f51ccdd2dc65ce149821de5152948850dc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/unbound-libs-1.16.2-3.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/db922b8fc89c38939f879d25909f6881ef736580925642fd3f4fbf8e93a7d139",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/u/unbound-libs-1.16.2-3.el9_3.5.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "usbredir-0__0.13.0-2.el9.x86_64",
-    sha256 = "7b6cec071b2d7437b70f8af875c127c00bd9b2e9d516ece64a9c30c96245394d",
+    sha256 = "b2b8b6419454e86d27ee9d19409fffeec4097845f3798f12c9741f459c8d8ccc",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/usbredir-0.13.0-2.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/7b6cec071b2d7437b70f8af875c127c00bd9b2e9d516ece64a9c30c96245394d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/u/usbredir-0.13.0-2.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "userspace-rcu-0__0.12.1-6.el9.aarch64",
-    sha256 = "5ab924e8c35535d0101a5e1cb732e63940ef7b4b35a5cd0b422bf53809876b56",
+    sha256 = "bfcd84d373911a26b5c05284dd01cf7a3115506852275d3683975a285157b712",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/userspace-rcu-0.12.1-6.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5ab924e8c35535d0101a5e1cb732e63940ef7b4b35a5cd0b422bf53809876b56",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/u/userspace-rcu-0.12.1-6.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "userspace-rcu-0__0.12.1-6.el9.x86_64",
-    sha256 = "119e159428dda0e194c6428da57fae87ef75cce5c7271d347fe84283a7374c03",
+    sha256 = "9115f3ec621316ccc39d7dbf09652236316f348d4c33d295eddf5a50080c0eef",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/userspace-rcu-0.12.1-6.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/119e159428dda0e194c6428da57fae87ef75cce5c7271d347fe84283a7374c03",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/u/userspace-rcu-0.12.1-6.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "util-linux-0__2.37.4-15.el9.aarch64",
-    sha256 = "6b4a34b132ab405fcede4b2f027998640acc1285ab91ae3146e9a7dab0d6e271",
+    sha256 = "415e76704013d14085e88ccb15034f54a5f167ca8d41f2b14b9eb03de44ed680",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/util-linux-2.37.4-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6b4a34b132ab405fcede4b2f027998640acc1285ab91ae3146e9a7dab0d6e271",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/u/util-linux-2.37.4-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "util-linux-0__2.37.4-15.el9.x86_64",
-    sha256 = "b7a2259bfb358029dadb493d5d746462f1c7c0244e450ccdc7a8681ac263b9ed",
+    sha256 = "33fb10e25c04cae3890fb061be702c810960017e3b5fb6b90ddd84d6031938e3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/util-linux-2.37.4-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/b7a2259bfb358029dadb493d5d746462f1c7c0244e450ccdc7a8681ac263b9ed",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/u/util-linux-2.37.4-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "util-linux-core-0__2.37.4-15.el9.aarch64",
-    sha256 = "8a4e235a2ead88eb2b9e5b45333e60061b6c8062abcd5c3d5c388a745541046f",
+    sha256 = "4035acf97dbceea1bca91215585e72a81e12623cdcae6013aec6384b04c8fb80",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/util-linux-core-2.37.4-15.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/8a4e235a2ead88eb2b9e5b45333e60061b6c8062abcd5c3d5c388a745541046f",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/u/util-linux-core-2.37.4-15.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "util-linux-core-0__2.37.4-15.el9.x86_64",
-    sha256 = "027d0fa1342fb2118784f910c390d33a5e145237ca7e2bceec0342dd28598232",
+    sha256 = "0adabd5a00aa01e4abd11a1d8600a71163f8aeee42b1d28b97af207425094689",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/util-linux-core-2.37.4-15.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/027d0fa1342fb2118784f910c390d33a5e145237ca7e2bceec0342dd28598232",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/u/util-linux-core-2.37.4-15.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "vim-minimal-2__8.2.2637-20.el9.aarch64",
-    sha256 = "b142f0b4f853c0560a17f118cbffadd89d16296cac85287cd14d35bf8b0847f2",
+    name = "vim-minimal-2__8.2.2637-20.el9_1.aarch64",
+    sha256 = "3f19e1f3fc6078844794b149ea4d4054bea37ea2d18da67d4062a3ce4589ae59",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/vim-minimal-8.2.2637-20.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/b142f0b4f853c0560a17f118cbffadd89d16296cac85287cd14d35bf8b0847f2",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/v/vim-minimal-8.2.2637-20.el9_1.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "vim-minimal-2__8.2.2637-20.el9.x86_64",
-    sha256 = "5bef7d6b66ece8820a758a6b1fb99a4512dd3bdcac0774723b630bfd5144ee62",
+    name = "vim-minimal-2__8.2.2637-20.el9_1.x86_64",
+    sha256 = "31283683ce783f3eecf072d790ef9abd010ba26333f528a7a55fa1ea168301d1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/vim-minimal-8.2.2637-20.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/5bef7d6b66ece8820a758a6b1fb99a4512dd3bdcac0774723b630bfd5144ee62",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/v/vim-minimal-8.2.2637-20.el9_1.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "virtiofsd-0__1.7.2-1.el9.aarch64",
-    sha256 = "ee73bcdc283d8a086f2f4af34e8d10bb5a706ac10407fa14e8374ae7347748f9",
+    sha256 = "e5adc2939e545456e8811018f3a174e8b43625589d123f70e9098e440ee6a36e",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/virtiofsd-1.7.2-1.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/ee73bcdc283d8a086f2f4af34e8d10bb5a706ac10407fa14e8374ae7347748f9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/v/virtiofsd-1.7.2-1.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "virtiofsd-0__1.7.2-1.el9.x86_64",
-    sha256 = "6b8d0956739b53a7e99f0867623f05a5278aa13406dfbd8c45e6fecaa3ba463b",
+    sha256 = "b75a1d35984047e39414b78a44d36dfc8c00384942eb4dc3dcb767574eb4b46d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/virtiofsd-1.7.2-1.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/6b8d0956739b53a7e99f0867623f05a5278aa13406dfbd8c45e6fecaa3ba463b",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/v/virtiofsd-1.7.2-1.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "which-0__2.21-29.el9.aarch64",
-    sha256 = "2edd6b710ebd483724d0c0c1dff3d5922ce3082ea1bd10865d9f4f0bbf4bb050",
+    sha256 = "e9351855af75aac7fb5c53173f262e4f87f400d7a96d48ec100a8d35269a1367",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/which-2.21-29.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/2edd6b710ebd483724d0c0c1dff3d5922ce3082ea1bd10865d9f4f0bbf4bb050",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/w/which-2.21-29.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "which-0__2.21-29.el9.x86_64",
-    sha256 = "c69af7b876363091bbeb99b4adfbab743f91da3c45478bb7a055c441e395174d",
+    sha256 = "c54b2c55264430eee2786fad79bd26c7a7c62204b1f7b568e5f097d850db9688",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/which-2.21-29.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/c69af7b876363091bbeb99b4adfbab743f91da3c45478bb7a055c441e395174d",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/w/which-2.21-29.el9.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "xorriso-0__1.5.4-4.el9.aarch64",
-    sha256 = "6b51217704ff76b372e5405a21206c646d0aa28ef12b46a8bdb933ebcaf4b7f9",
+    sha256 = "99bc95997e5a8f72b5ce7f0cd99aaabe16a49462a2762628ff403b316bcc835c",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/xorriso-1.5.4-4.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/6b51217704ff76b372e5405a21206c646d0aa28ef12b46a8bdb933ebcaf4b7f9",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/x/xorriso-1.5.4-4.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "xorriso-0__1.5.4-4.el9.x86_64",
-    sha256 = "f5f6e99d32dbe9d2db413ef294083a59b0161710cd1fc2623bb5e94f0abc2062",
+    sha256 = "39a01394ae4e16a5a469881e5f4febf78a9811afdd95f4ca03b2a104958ad85d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/xorriso-1.5.4-4.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/f5f6e99d32dbe9d2db413ef294083a59b0161710cd1fc2623bb5e94f0abc2062",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/x/xorriso-1.5.4-4.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "xz-0__5.2.5-8.el9.aarch64",
-    sha256 = "c543b995056f118a141b499548ad00e566cc2062da2c36b2fc1e1b058c81dec1",
+    name = "xz-0__5.2.5-8.el9_0.aarch64",
+    sha256 = "7ad9c5e6425656499395a7da46c15df1e3392b8c2008803fc4da0ace5cc453b3",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/xz-5.2.5-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c543b995056f118a141b499548ad00e566cc2062da2c36b2fc1e1b058c81dec1",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/x/xz-5.2.5-8.el9_0.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "xz-0__5.2.5-8.el9.x86_64",
-    sha256 = "159f0d11b5a78efa493b478b0c2df7ef42a54a9710b32dba9f94dd73eb333481",
+    name = "xz-0__5.2.5-8.el9_0.x86_64",
+    sha256 = "41043f1c47c48b956cfcc24f3640225120089fad47c87a954c81828ab77e7c46",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/xz-5.2.5-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/159f0d11b5a78efa493b478b0c2df7ef42a54a9710b32dba9f94dd73eb333481",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/x/xz-5.2.5-8.el9_0.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "xz-libs-0__5.2.5-8.el9.aarch64",
-    sha256 = "99784163a31515239be42e68608478b8337fd168cdb12bcba31de9dd78e35a25",
+    name = "xz-libs-0__5.2.5-8.el9_0.aarch64",
+    sha256 = "854a20a02aff28f4d116accb8833d9ce9e5acb0e682c8a43f65d786c4d154fca",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/xz-libs-5.2.5-8.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/99784163a31515239be42e68608478b8337fd168cdb12bcba31de9dd78e35a25",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/x/xz-libs-5.2.5-8.el9_0.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "xz-libs-0__5.2.5-8.el9.x86_64",
-    sha256 = "ff3c88297d75c51a5f8e9d2d69f8ad1eaf8347e20920b4335a3e0fc53269ad28",
+    name = "xz-libs-0__5.2.5-8.el9_0.x86_64",
+    sha256 = "7a6f5891537bbbf601ee574c5946c3f0f121369b85c6cdfdd07e974a4dc8d81d",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/xz-libs-5.2.5-8.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/ff3c88297d75c51a5f8e9d2d69f8ad1eaf8347e20920b4335a3e0fc53269ad28",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/x/xz-libs-5.2.5-8.el9_0.x86_64.rpm",
     ],
 )
 
 rpm(
     name = "yajl-0__2.1.0-22.el9.aarch64",
-    sha256 = "5f099ce8836377f6aba662e5835cc500b2e8f29cd8c9b56b22df7c564f7d209c",
+    sha256 = "e726409e886b3945715121e50d21351d60546ab8f49be9995d83e47cfa16a83f",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/aarch64/os/Packages/yajl-2.1.0-22.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/5f099ce8836377f6aba662e5835cc500b2e8f29cd8c9b56b22df7c564f7d209c",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/aarch64/os/Packages/y/yajl-2.1.0-22.el9.aarch64.rpm",
     ],
 )
 
 rpm(
     name = "yajl-0__2.1.0-22.el9.x86_64",
-    sha256 = "907156eb13e2120402287396f92b7589515ab0cba802b99c3835dd36f6a12cdf",
+    sha256 = "01f37c41e967b2c966ce4fec0de572168de96be5887ae2abd9b83b623e01e1f4",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/Packages/yajl-2.1.0-22.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/907156eb13e2120402287396f92b7589515ab0cba802b99c3835dd36f6a12cdf",
+        "https://dl.rockylinux.org/vault/rocky/9.3/AppStream/x86_64/os/Packages/y/yajl-2.1.0-22.el9.x86_64.rpm",
     ],
 )
 
 rpm(
-    name = "zlib-0__1.2.11-41.el9.aarch64",
-    sha256 = "c50e107cdd35460294852d99c954296e0e833d37852a1be1e2aaea2f1b48f9d2",
+    name = "zlib-0__1.2.11-40.el9.aarch64",
+    sha256 = "842cc46ca0ac7336264777679959edb656b1a928c38542bd633fe44367e555c1",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/aarch64/os/Packages/zlib-1.2.11-41.el9.aarch64.rpm",
-        "https://storage.googleapis.com/builddeps/c50e107cdd35460294852d99c954296e0e833d37852a1be1e2aaea2f1b48f9d2",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/aarch64/os/Packages/z/zlib-1.2.11-40.el9.aarch64.rpm",
     ],
 )
 
 rpm(
-    name = "zlib-0__1.2.11-41.el9.x86_64",
-    sha256 = "370951ea635bc16313f21ac2823ec815147ed1124b74865a34c54e94e4db9602",
+    name = "zlib-0__1.2.11-40.el9.x86_64",
+    sha256 = "fcd8ca717c72aeb30ea69b4f892dc021e507d8835e7b03aff501cb094db083ea",
     urls = [
-        "http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/zlib-1.2.11-41.el9.x86_64.rpm",
-        "https://storage.googleapis.com/builddeps/370951ea635bc16313f21ac2823ec815147ed1124b74865a34c54e94e4db9602",
+        "https://dl.rockylinux.org/vault/rocky/9.3/BaseOS/x86_64/os/Packages/z/zlib-1.2.11-40.el9.x86_64.rpm",
     ],
 )
