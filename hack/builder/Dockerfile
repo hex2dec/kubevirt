@@ -1,4 +1,4 @@
-FROM quay.io/centos/centos:stream9
+FROM rockylinux:9.3
 
 ARG SONOBUOY_ARCH
 ARG BAZEL_ARCH
